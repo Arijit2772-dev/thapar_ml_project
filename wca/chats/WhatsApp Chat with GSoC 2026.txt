@@ -1,0 +1,1867 @@
+22/08/2025, 12:59 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+21/08/2025, 17:34 - ~ Ayush created group "GSoc 2026"
+22/08/2025, 12:59 - You joined using a group link.
+22/08/2025, 13:03 - +91 80086 95077 joined using a group link.
+22/08/2025, 13:22 - ~ A was added
+22/08/2025, 13:14 - +91 62642 70773 joined using a group link.
+22/08/2025, 13:19 - +91 95962 99968 joined using a group link.
+22/08/2025, 13:22 - +91 95962 99968: Hlo everyone,  just joined this group via reddit, 
+I am Abraz mohi ud din, from Kashmir, pursuing Btech in computer science.
+can anyone explain how 
+Things work in this group
+22/08/2025, 13:47 - +91 70456 38616: We are still figuring out things ...
+22/08/2025, 13:45 - +91 91136 12374 joined using a group link.
+22/08/2025, 13:55 - +91 88827 45233: 👀👀
+22/08/2025, 14:09 - +91 95962 99968: Have u guys discussed anything yet?
+22/08/2025, 14:09 - +91 70456 38616: Not yet
+22/08/2025, 14:10 - +91 95962 99968: Where is everyone from?
+22/08/2025, 14:10 - Ronit: India
+22/08/2025, 14:10 - +91 70456 38616: Mostly of them are from india
+22/08/2025, 14:10 - Ronit: Punjab
+22/08/2025, 14:23 - +91 70615 51501 joined using a group link.
+22/08/2025, 14:25 - +91 94323 86627: Is this link working? It is showing invalid
+22/08/2025, 14:26 - +91 95962 99968: U?
+22/08/2025, 15:01 - +91 79902 84730 joined using a group link.
+22/08/2025, 15:31 - +91 63608 43513 joined using a group link.
+22/08/2025, 15:02 - +91 79902 84730: Hi?
+22/08/2025, 15:03 - +91 79902 84730: Hi guys could you tell me what stack you know I'm looking for some frontend and backend devs to make a big project that will help us both. If are interested please reply.
+22/08/2025, 15:13 - +91 70456 38616: India
+22/08/2025, 15:15 - +91 79902 84730: Yap
+22/08/2025, 15:16 - +91 77190 14887: Mern or PERN stack basically. Also, learning C
+22/08/2025, 15:18 - +91 94323 86627: What project
+22/08/2025, 16:17 - +91 79902 84730: Well the project will be built on next js with typescript 
+For the frontend it will be react with tailwindcss 
+
+It will implement microservices architecture 
+So will be using 
+*Kafka
+*Redis 
+*Eginex
+*Docker
+*Graph ql
+
+What we will learn
+
+*How to work in team
+*GitHub
+*All technology mentioned 
+*Kind of open source experience
+And it about building a web app.
+22/08/2025, 16:17 - +91 79902 84730: What is WeChat? (China’s “Super App”) - United Media Solution Blog https://share.google/DmsFOTJ2RzUZdld2X
+22/08/2025, 16:18 - +91 79902 84730: If interested please dm
+22/08/2025, 16:25 - +91 79902 84730: Those who wanna know about project architecture please first read through this 
+https://g.co/gemini/share/1e360cb52d4c
+22/08/2025, 17:45 - +91 90528 12005 joined using a group link.
+22/08/2025, 20:37 - +91 94701 73580 joined using a group link.
+22/08/2025, 21:10 - +91 95010 92871 joined using a group link.
+22/08/2025, 21:27 - +91 98984 30392 joined using a group link.
+22/08/2025, 21:44 - +91 70282 52373 joined using a group link.
+22/08/2025, 21:58 - ~ Avrojit Dutta was added
+22/08/2025, 21:57 - +91 81042 05239 joined using a group link.
+22/08/2025, 21:58 - +91 81042 05239: Which tech stacks are required for gsoc
+22/08/2025, 21:59 - +91 77190 14887: Well, there are last year's 1233 projects on the GSOC website. There is no particular tech stack. It depends on the software that is asking for help
+22/08/2025, 22:00 - +91 81042 05239: How does gsoc work exactly 💯 what are tasks available 🤔 to do in gsoc
+22/08/2025, 22:00 - +91 81042 05239: Best resources to understand gsoc fully
+22/08/2025, 22:04 - +91 77190 14887: https://youtu.be/YN7uGCg5vLg?feature=shared
+22/08/2025, 22:04 - +91 77190 14887: See this. This might help.
+22/08/2025, 22:04 - +91 77190 14887: Also, get used to contributing to open source software. That's what I know
+22/08/2025, 22:11 - +91 81042 05239: Ok dear thank you so much
+23/08/2025, 00:32 - +91 93159 23332 joined using a group link.
+23/08/2025, 03:51 - +91 98730 00588 joined using a group link.
+23/08/2025, 07:16 - +91 70376 23988 joined using a group link.
+23/08/2025, 12:18 - +91 80800 45334 joined using a group link.
+23/08/2025, 12:52 - +91 90283 32404 joined using a group link.
+23/08/2025, 16:12 - +91 81691 04199 joined using a group link.
+23/08/2025, 17:30 - +91 94233 97787 joined using a group link.
+23/08/2025, 19:09 - +91 80741 07291 joined using a group link.
+23/08/2025, 19:09 - +91 80741 07291: Hi guys
+23/08/2025, 19:10 - +91 80741 07291: Hey, I’ve been building a chat app with FastAPI + React + MongoDB. I also know a bit of Django and recently started playing with GenAI. Just joined this GSOC’26 community and wanted to ask – is this stack fine for GSOC and internships, or should I explore others too? Also, how do you guys balance problem-solving practice with building projects?”
+23/08/2025, 19:45 - +91 77589 10175 joined using a group link.
+23/08/2025, 20:01 - +91 86976 02953 joined using a group link.
+23/08/2025, 20:19 - +91 92394 96077 joined using a group link.
+23/08/2025, 20:55 - +91 92394 96077: hey, guys have anybody started to contribute
+23/08/2025, 20:56 - +91 93736 12642: I have now started Revising then after that I will start contributing after 4-5 days
+23/08/2025, 20:56 - +91 70456 38616: I'll  be starting from october  ,due to endsem Constraints
+23/08/2025, 20:57 - +91 94323 86627: Everybody can share your organizations once you think of contributing we can cross check its validity
+23/08/2025, 20:57 - +91 93736 12642: Which domain are you thinking of contributing?
+23/08/2025, 20:58 - +91 94323 86627: Mostly MERN stack, or flutter app dev
+23/08/2025, 21:15 - +91 80741 07291: Can anyone guide me how to get started from now
+23/08/2025, 21:15 - +91 81042 05239: Same here
+23/08/2025, 21:15 - +91 95962 99968: Sameee
+23/08/2025, 21:15 - +91 88827 45233: Same
+23/08/2025, 21:16 - +91 96254 97063: Learn a skill pick arepo and start contributing
+23/08/2025, 21:16 - +91 88827 45233: Do have have any experienc?
+23/08/2025, 21:16 - +91 96254 97063: Yes
+23/08/2025, 21:16 - +91 95962 99968: Have u completed before?
+23/08/2025, 21:17 - +91 96254 97063: Completed?
+23/08/2025, 21:17 - +91 88827 45233: It is be okay   To have google meet and share  things … also we will get to know about each other?
+23/08/2025, 21:17 - +91 95962 99968: Competed sorry
+23/08/2025, 21:17 - +91 95962 99968: Autocorrect**
+23/08/2025, 21:17 - +91 96254 97063: Bro I dont apply for gsoc I have contributed in other open sources for freelancing and paying works
+23/08/2025, 21:17 - +91 95962 99968: Oh alright beo
+23/08/2025, 21:17 - +91 88827 45233: What is your tech? <This message was edited>
+23/08/2025, 21:18 - +91 96254 97063: Nah bro I can tell whatever you want here only
+23/08/2025, 21:18 - +39 331 212 4358: how can start learning to contribute?
+23/08/2025, 21:18 - +91 88827 45233: Np buddy
+23/08/2025, 21:18 - +91 96254 97063: Mern but basically frontend and keep extending
+23/08/2025, 21:18 - +91 96254 97063: Know basic git and do you will learn by doing only
+23/08/2025, 21:18 - +91 95962 99968: Guys I am ist sem students cse.
+I know python in bits and parts.
+C++...html css, nothing pro level..
+What should I do?
+23/08/2025, 21:19 - +91 96254 97063: Even just push small + - thing it will also help
+23/08/2025, 21:19 - +91 96254 97063: Yess
+23/08/2025, 21:19 - +39 331 212 4358: i know basic git but never opened issues or whatever
+23/08/2025, 21:19 - +91 96254 97063: Just open it then
+23/08/2025, 21:19 - +91 96254 97063: You will not know how to cook until u start cooking
+23/08/2025, 21:19 - +91 96254 97063: Bad example but it is what it is
+23/08/2025, 21:20 - +39 331 212 4358: do u know some repos i can start cotnributing to ?
+23/08/2025, 21:20 - +39 331 212 4358: for beginner i mean
+23/08/2025, 21:20 - +91 95962 99968: Exactly...so how do we start.
+Learning git then what?
+23/08/2025, 21:20 - +91 96254 97063: There are many.. start researching
+23/08/2025, 21:20 - +91 96254 97063: This is the main thing for contributing
+23/08/2025, 21:20 - +91 96254 97063: U should know how to research stuffs
+23/08/2025, 21:20 - +91 96254 97063: Learn git learn skills make project
+23/08/2025, 21:20 - +91 96254 97063: And then start contributing
+23/08/2025, 21:21 - +91 96254 97063: It's just these simple steps everyone you havee asked have told you these only
+23/08/2025, 21:21 - +91 96254 97063: You have to just do it then you will not ask anything it will automatically get clear
+23/08/2025, 21:21 - +91 96254 97063: By time
+23/08/2025, 21:22 - +91 95962 99968: I am an absolutely nobe...I just came to know about gsoc recently...so do we need to master a specific language only, after the contribution is done, or what...I am sorry guy, I know it's lame but yea, better to ask than not I guess
+23/08/2025, 21:23 - +91 94323 86627: Learn a stack first
+23/08/2025, 21:23 - +91 94323 86627: Then look for orgs
+23/08/2025, 21:24 - +91 94323 86627: Which uses your skills
+23/08/2025, 21:24 - +91 70282 52373: I don't think u need to master a language, if you have done a few projects you can start contributing
+23/08/2025, 21:24 - +91 96254 97063: You will learn by doing...only just know the basics enough to start
+23/08/2025, 21:25 - +91 95962 99968: So I guess I'll start with git, then I'll have to find something to contribute, a project...and how will I do that?
+23/08/2025, 21:26 - +91 87675 54765 joined using a group link.
+23/08/2025, 21:26 - +91 93736 12642: I know basic can you recommend me project to start with
+23/08/2025, 21:27 - +91 94323 86627: Look for orgs at the gsoc website
+23/08/2025, 21:27 - +91 94323 86627: They will have issues in their projects
+23/08/2025, 21:27 - +91 95962 99968: Alright bro.
+23/08/2025, 21:27 - +91 94323 86627: You have to ask them to assign you with the issues
+23/08/2025, 21:28 - +91 95962 99968: Will they do it 😭
+23/08/2025, 21:29 - +91 94323 86627: That's the thing you have to convince find repos with small no of contributors I would say
+23/08/2025, 23:32 - +91 87991 32552 joined using a group link.
+24/08/2025, 00:53 - +91 70038 55041 joined using a group link.
+24/08/2025, 06:28 - +91 96303 20904 joined using a group link.
+24/08/2025, 09:27 - +91 77190 14887: Hello everybody but I have an opinion on GSoC. Don't get me wrong but I want to share this. 
+Let's not treat GSoC as something which is only meant for stipend but really get meaningful contributions to meaningful organisations. 
+I was looking for organisations that participated in GSoC 2025 and they all are brilliant organisations having such a big impact on us. What do you guys think ?
+24/08/2025, 09:31 - +91 81042 05239: Absolutely 💯 
+Looking at the much larger picture will help us focus better on the work than on the paycheck
+24/08/2025, 09:33 - +91 70376 23988: Sure! the main purpose of GsoC to give us real life experience not a gig to make money
+24/08/2025, 09:57 - +91 70456 38616: Same here
+24/08/2025, 10:09 - +91 93540 28843 joined using a group link.
+24/08/2025, 10:41 - +91 81262 94245 joined using a group link.
+24/08/2025, 11:16 - +91 87678 67926 joined using a group link.
+24/08/2025, 11:20 - +91 78410 16236 joined using a group link.
+24/08/2025, 12:14 - +91 93363 47530 joined using a group link.
+24/08/2025, 13:15 - +91 70456 38616: https://discord.gg/Rz45DQRB
+24/08/2025, 13:16 - +91 70456 38616: This is a very active discord community you all can look on it
+24/08/2025, 13:26 - +91 93816 64472 joined using a group link.
+24/08/2025, 13:36 - +91 86609 79096 joined using a group link.
+24/08/2025, 14:26 - +91 94055 34480 joined using a group link.
+24/08/2025, 15:29 - +91 78140 99589 joined using a group link.
+24/08/2025, 18:17 - +880 1740-050036 joined using a group link.
+24/08/2025, 21:07 - +91 78382 52605 joined using a group link.
+24/08/2025, 21:07 - +91 94323 86627: POLL:
+Discord voice chat at night?
+OPTION: Yes (8 votes)
+OPTION: No (2 votes)
+OPTION: Certainly (1 vote)
+OPTION: I don't care (0 votes)
+
+24/08/2025, 21:07 - +91 94323 86627: https://discord.gg/kgXsH42U
+24/08/2025, 21:07 - +91 94323 86627: This is ours plz join everyone
+24/08/2025, 21:18 - +91 92442 51493: Time? <This message was edited>
+24/08/2025, 21:21 - +91 99638 03941 joined using a group link.
+24/08/2025, 21:28 - +91 77190 14887: 10 ?
+24/08/2025, 21:29 - +91 92442 51493: Poll
+24/08/2025, 21:29 - +91 94323 86627: Yea
+24/08/2025, 21:33 - +91 91417 32222 joined using a group link.
+24/08/2025, 21:34 - +91 92442 51493: Are time ka poll bana de esa bol raha hu
+24/08/2025, 21:35 - +91 77190 14887: POLL:
+Discord call at what time today
+OPTION: 10 pm IST (4 votes)
+OPTION: 10:30pm IST (2 votes)
+OPTION: Even more late ! (2 votes)
+
+24/08/2025, 21:35 - +91 94323 86627: Koi bana do bhai
+24/08/2025, 21:36 - +91 92394 96077: 12 am
+24/08/2025, 21:36 - +91 92394 96077: ist
+24/08/2025, 21:36 - +91 77190 14887: Are we all Indians over here ? 
+I would love to have non-indians to join the meet as well so that we get a different perspective!
+24/08/2025, 21:37 - Ronit: In which year u all are in
+24/08/2025, 21:37 - +91 92394 96077: vicenzo is here
+24/08/2025, 21:37 - +91 92394 96077: +39 country code
+24/08/2025, 21:37 - +91 77190 14887: Italy i guess
+24/08/2025, 21:37 - +91 92394 96077: hmm
+24/08/2025, 21:37 - +91 92394 96077: 1st sem 🫡🫡🫡
+24/08/2025, 21:38 - Ronit: What the heck
+24/08/2025, 21:38 - +91 77190 14887: If someone is connected to some "mentor" at GSoC, add them as well and ask them to guide us . How's the idea ?
+24/08/2025, 21:40 - +91 94323 86627: Nice idea
+24/08/2025, 21:40 - +91 94323 86627: If you get connections why not
+24/08/2025, 21:42 - +91 81042 05239: Same
+24/08/2025, 21:43 - +91 81042 05239: It will be best if we introduce ourselves in the group or discord so that we know each other better
+24/08/2025, 21:43 - +91 81042 05239: And hence work on ourselves accordingly
+24/08/2025, 21:45 - +91 77190 14887: Well, only 3 votes and it seems a tie for now. See discord poll as well
+24/08/2025, 21:45 - +91 81042 05239: I guess it's sunday night
+24/08/2025, 21:46 - +91 81042 05239: It's the only day to relax and chill out for many
+24/08/2025, 21:46 - +91 77190 14887: Still will we continue with the call ? 12pm will be too late
+24/08/2025, 21:47 - +91 81042 05239: We may have a trial today
+24/08/2025, 21:47 - +91 81042 05239: Let's not keep something serious
+24/08/2025, 21:48 - +39 331 212 4358: Im italian
+24/08/2025, 21:49 - +91 81042 05239: I am connected u may join
+24/08/2025, 21:49 - +91 77190 14887: This message was deleted
+24/08/2025, 21:49 - +91 77190 14887: Great ! Will you join the call today ?
+24/08/2025, 21:52 - +39 331 212 4358: I am not following the discussion , anyway what time is it?
+24/08/2025, 21:52 - +91 94323 86627: 12 pm IST
+24/08/2025, 21:52 - +91 81042 05239: 12 pm Monday IST
+24/08/2025, 21:52 - +91 81042 05239: Am i correct
+24/08/2025, 21:52 - +91 77190 14887: Apparently, no one is replying when to connect. We got only three votes.
+24/08/2025, 21:53 - +91 77190 14887: In 2 hours right ?
+24/08/2025, 21:53 - +91 81042 05239: In 2 hrs, it's 12am na
+24/08/2025, 21:53 - +91 77190 14887: Ohh yeah. 12pm will be fine. Still we can do one today and one tomorrow as well ?
+24/08/2025, 21:54 - +91 81042 05239: Okay 👍 I am free both ways
+24/08/2025, 21:56 - +91 77190 14887: You can start the call in 4 minutes. I don't know much about discord
+24/08/2025, 21:57 - +39 331 212 4358: Can you link the discord channsl?
+24/08/2025, 21:57 - +91 77190 14887: .
+24/08/2025, 21:57 - +39 331 212 4358: Thnx
+24/08/2025, 22:03 - +91 93816 64472: So the call is live or not ? <This message was edited>
+24/08/2025, 22:40 - ~ Ayush added +91 87775 67591
+24/08/2025, 22:06 - +91 77190 14887: This message was deleted
+24/08/2025, 22:06 - +91 77190 14887: This message was deleted
+24/08/2025, 23:34 - +91 87502 51283 joined using a group link.
+24/08/2025, 22:07 - +91 81042 05239: I am waiting ✋️
+24/08/2025, 22:07 - +91 81042 05239: For all
+24/08/2025, 23:53 - +91 82922 51435 joined using a group link.
+24/08/2025, 22:08 - +91 77190 14887: Send link
+24/08/2025, 22:08 - +91 81042 05239: Just connect in the voice channel general
+24/08/2025, 22:09 - +91 81042 05239: U all start talking first
+24/08/2025, 22:09 - +91 81042 05239: https://discord.gg/ZbNgsJwd
+24/08/2025, 22:13 - +91 81042 05239: will need more ppl
+25/08/2025, 03:45 - +91 96968 52575 joined using a group link.
+24/08/2025, 22:13 - +91 81042 05239: leave guys
+24/08/2025, 22:13 - +91 81042 05239: will arrange later
+24/08/2025, 22:38 - +91 95109 49296: Do one thing first pole for available time for all, then do according to majority 🤷‍♂️
+25/08/2025, 08:18 - +91 70376 23988: So i guess last night vc didn't go well i too didn't. see massages next time please post the poll early so more  members can join
+25/08/2025, 09:30 - ~ Parth Singh added ~ LightSeeker(Winter Arc)
+25/08/2025, 10:30 - +91 92891 25582 joined using a group link.
+25/08/2025, 12:31 - +91 70156 58627: has anyone started contributing?
+25/08/2025, 12:34 - Ronit: where ?
+25/08/2025, 12:34 - +91 70376 23988: Nope i suck in Frontend ui's it take me almost month to start doing it
+25/08/2025, 12:36 - +91 92394 96077: Will start in October
+25/08/2025, 12:38 - +91 70156 58627: The reason is someone like that will tell us all in very short the whole process.
+25/08/2025, 12:36 - +91 81294 12156 joined using a group link.
+25/08/2025, 12:38 - +91 92891 25582: Anyone applying to outreachy?
+25/08/2025, 12:42 - +91 81294 12156: Hi, Nikhil here, I am new to the group, Could anyone guide me through what the group is about and what kind of discussions happen? Thank you.
+25/08/2025, 12:43 - +91 70156 58627: This message was deleted
+25/08/2025, 12:45 - +91 81294 12156: I will rephrase, my question , is the group open to all kinds of discussions varying from code review , project showcase etc.. or just gsoc specific <This message was edited>
+25/08/2025, 12:46 - Ronit: i think all maybe
+25/08/2025, 12:46 - +91 81294 12156: ok got it
+25/08/2025, 12:46 - +91 81294 12156: so it's  a developer community , cool <This message was edited>
+25/08/2025, 12:47 - +91 70376 23988: You can say that
+25/08/2025, 12:47 - +91 70376 23988: But its new that why its not much active yet
+25/08/2025, 12:48 - +91 81294 12156: Makes sense
+25/08/2025, 12:48 - +91 70376 23988: everyone read massages but not everyone intrested or you can say reply anything
+25/08/2025, 12:49 - +91 70376 23988: Did you use discord
+25/08/2025, 12:49 - +91 81294 12156: yeah
+25/08/2025, 12:50 - +91 70376 23988: So here some of us planning a gp vc  in night
+25/08/2025, 12:50 - +91 70376 23988: stay active and join
+25/08/2025, 12:50 - +91 81294 12156: oh
+25/08/2025, 12:50 - +91 81294 12156: sure
+25/08/2025, 12:50 - +91 81294 12156: gsoc 2026 starts January right? <This message was edited>
+25/08/2025, 12:51 - +91 70376 23988: yeah they announce organization name
+25/08/2025, 12:51 - +91 70376 23988: which going to participate in Gsoc
+25/08/2025, 12:52 - +91 70376 23988: So we can contribute
+25/08/2025, 12:52 - +91 81294 12156: got it
+25/08/2025, 12:52 - +91 70376 23988: Which sem u in
+25/08/2025, 12:53 - +91 88827 45233: guys anyone has idea about CTF?
+25/08/2025, 12:53 - +91 70376 23988: Full form
+25/08/2025, 12:54 - +91 88827 45233: Capture The Flag
+25/08/2025, 12:54 - +91 81294 12156: 5th
+25/08/2025, 12:55 - +91 70376 23988: Ohk i don't know about that
+25/08/2025, 12:56 - +91 70376 23988: Which Field u in
+25/08/2025, 12:57 - +91 70456 38616: Whats that ,can you explain
+25/08/2025, 12:57 - +91 81294 12156: So basically you are given puzzles where the objective is to get a particular string which is the answer to that puzzle
+25/08/2025, 12:57 - +91 81294 12156: Check picoctf site to see questions
+25/08/2025, 12:57 - +91 81294 12156: Computer Science
+25/08/2025, 13:00 - +91 70376 23988: Google it bro i think it a organization which give internships
+25/08/2025, 13:00 - +91 81294 12156: What about u
+25/08/2025, 13:01 - +91 70376 23988: I'm a math graduate now i change my route to learning programming
+25/08/2025, 13:02 - +91 81294 12156: Oh cool
+25/08/2025, 13:03 - +91 70376 23988: I just know basic web dev
+25/08/2025, 13:03 - +91 70376 23988: i started 4 months ago
+25/08/2025, 13:03 - +91 81294 12156: Any frameworks?
+25/08/2025, 13:04 - +91 70376 23988: Express
+25/08/2025, 13:04 - +91 81294 12156: Nice, I would suggest react , then maybe Next
+25/08/2025, 13:05 - +91 70376 23988: I planned everything for now
+25/08/2025, 13:05 - +91 70376 23988: Its in my plan
+25/08/2025, 13:05 - +91 81294 12156: Awsome
+25/08/2025, 13:06 - +91 70456 38616: Zenitsu fan hmmmmm ,nice
+25/08/2025, 13:06 - +91 70376 23988: Its the only good pic i got in my gallery
+25/08/2025, 13:07 - +91 70376 23988: 😄
+25/08/2025, 13:07 - +91 81294 12156: I have experience in MERN stack and flutter , so looking for projects now
+25/08/2025, 13:07 - +91 81294 12156: Anime watcher?
+25/08/2025, 13:07 - +91 70376 23988: There are lots of ppl here
+25/08/2025, 13:07 - +91 70456 38616: Me too
+25/08/2025, 13:07 - +91 70376 23988: you can say i was
+25/08/2025, 13:07 - +91 81294 12156: Figured so
+25/08/2025, 13:08 - +91 81294 12156: was?
+25/08/2025, 13:08 - +91 70456 38616: Time Constraints, i guess
+25/08/2025, 13:08 - +91 70376 23988: Yeah when i start coding its more fun then i thought
+25/08/2025, 13:09 - +91 70376 23988: that would be another reason
+25/08/2025, 13:09 - +91 81294 12156: Understandable
+25/08/2025, 13:09 - +91 70376 23988: But when its come to backend 😶
+25/08/2025, 13:10 - +91 81294 12156: I mean once you get the flow of data , it's pretty straightforward
+25/08/2025, 13:11 - +91 81294 12156: Designing backends is more frustrating than developing it
+25/08/2025, 13:11 - +91 70376 23988: Looking forwerd to my better future
+25/08/2025, 13:12 - +91 81294 12156: It will be awsome👍🏻
+25/08/2025, 13:12 - +91 70376 23988: but in my prospective its not gonna frustrate me like math questions im confident
+25/08/2025, 13:13 - +91 81294 12156: Probably, I stopped looking into maths after calculus -2 <This message was edited>
+25/08/2025, 13:13 - +91 81294 12156: Linear algebra is fun though
+25/08/2025, 13:14 - +91 70376 23988: Not that much in finel sem and there is another final boss is mechanics
+25/08/2025, 13:15 - +91 81294 12156: Oh
+25/08/2025, 13:15 - +91 70376 23988: the concepts is too damn hard
+25/08/2025, 13:15 - +91 70376 23988: doing 100+ questions to solve one question in exam
+25/08/2025, 13:15 - +91 81294 12156: Damn
+25/08/2025, 13:15 - +91 81294 12156: Atleast for programming, basic maths and common sense will suffice
+25/08/2025, 13:17 - +91 70376 23988: yeah i know that programming concepts is hard but its nothing against what i witness for whole three semesters
+25/08/2025, 13:17 - +91 81294 12156: Haha
+25/08/2025, 13:18 - +91 70376 23988: seriously in starting i love maths but when the time change i starting to feel frustrated that i can't keep up
+25/08/2025, 13:19 - +91 70376 23988: that why coding way too much fun
+25/08/2025, 13:19 - +91 81294 12156: I think almost every subject has a point after which it becomes too serious and the fun aspect needs to be redefined
+25/08/2025, 13:20 - +91 70376 23988: no physics is way too easy in whole dgree period😆
+25/08/2025, 13:20 - +91 81294 12156: Same goes for coding, it's a game ,  you enjoy until you hit the hard levels , but when you overcome it , it feels great
+25/08/2025, 13:20 - +91 81294 12156: My colleague is loosing his mind on physics, he would say otherwise
+25/08/2025, 13:21 - +91 70376 23988: will see in future
+25/08/2025, 13:21 - +91 70376 23988: i don't know maybe i was loving the wrong subject whole time😁
+25/08/2025, 13:47 - +91 82922 51435: Ye sab ke jagah maybe we can talk gsoc. I mean group is for gsoc why discuss basic stuff
+25/08/2025, 13:50 - +91 94323 86627: Why not it's for community building and seeking clarity as well <This message was edited>
+25/08/2025, 13:51 - +91 82922 51435: It's distracting. I mean I don't wanna know what subject you have in your graduation. Just mention where do you want to contribute what tech stack is relevant etc.
+25/08/2025, 13:52 - +91 82922 51435: I just want the group to be focussed.
+25/08/2025, 13:52 - +91 81294 12156: My first message in the group was asking this same question,
+25/08/2025, 13:53 - +91 82922 51435: ??
+25/08/2025, 13:53 - +91 81294 12156: Treat it as a long icebreaker
+25/08/2025, 13:53 - +91 82922 51435: This message was deleted
+25/08/2025, 13:54 - +91 81294 12156: We can focus on gsoc relavant stuff from now
+25/08/2025, 13:54 - +91 81294 12156: Be civil
+25/08/2025, 13:54 - +91 94323 86627: It's totally fine
+25/08/2025, 13:54 - +91 82922 51435: Mai samajh gaya ye reddit se bana group serious thori ho sakta hai😂
+25/08/2025, 13:54 - +91 94323 86627: We are all humans right
+25/08/2025, 13:54 - +91 82922 51435: G marao human human karo bhadwo
+25/08/2025, 13:55 - +91 94323 86627: Accha hua
+25/08/2025, 13:55 - +91 81294 12156: True , as long all the people here share the same interest
+25/08/2025, 13:56 - +91 70376 23988: are koi kuch khta he nhi h esa lgta h brodcast chennel me aa gya hu
+25/08/2025, 13:59 - +91 94323 86627: Let's stick to only gsoc for now
+25/08/2025, 13:59 - +91 81294 12156: Sure
+25/08/2025, 15:10 - +91 94699 52344 added +91 99063 90446
+25/08/2025, 15:10 - +91 94699 52344 added ~ Sudip Kumar Mishra
+25/08/2025, 16:01 - Ronit: can someone pls send the link or something.. of this <This message was edited>
+25/08/2025, 16:02 - +91 77190 14887: POLL:
+Should we have a discord call today at 10:00PM IST?
+OPTION: Yes (14 votes)
+OPTION: No (2 votes)
+
+25/08/2025, 16:21 - ~ AB pinned a message
+25/08/2025, 17:58 - +91 75675 80665 joined using a group link.
+25/08/2025, 18:20 - ~ Ayush changed the group description
+25/08/2025, 20:06 - +91 62066 55454 joined using a group link.
+25/08/2025, 20:18 - +91 86018 13566 joined using a group link.
+25/08/2025, 20:19 - +91 82698 31615 joined using a group link.
+25/08/2025, 20:20 - +91 88280 45467 joined using a group link.
+25/08/2025, 21:11 - +91 77190 14887: Well, we will have discord meet in 50 minutes from now (10Pm IST). Please join and send it to interested people as well !
+25/08/2025, 21:50 - +91 79813 75460 joined using a group link.
+25/08/2025, 22:00 - +91 77190 14887: https://discord.gg/SPRhN4H9
+25/08/2025, 22:02 - +91 77190 14887: Please join the meet
+25/08/2025, 22:20 - +91 77190 14887: This message was deleted
+25/08/2025, 22:21 - +91 94323 86627: This message was deleted
+25/08/2025, 22:21 - +91 77190 14887: Let's move to zoom
+25/08/2025, 22:21 - +91 77190 14887: Discord seems difficult and people are not audible
+25/08/2025, 22:21 - +91 77190 14887: https://us05web.zoom.us/j/84742127239?pwd=KEgjIGqSZSkvZakhWLLDxmF2auNbKJ.1
+25/08/2025, 22:22 - +91 96303 20904: Any spring boot developer here? 
+DM me <This message was edited>
+25/08/2025, 22:23 - +91 77190 14887: Join this
+25/08/2025, 22:25 - +91 77190 14887: Join the zoom link !
+25/08/2025, 22:31 - +39 331 212 4358: Can u post here a summary of what you will discuss?
+25/08/2025, 22:58 - +91 94323 86627: https://www.gsocorganizations.dev/
+
+you can use this to look for orgs
+25/08/2025, 23:00 - +91 77190 14887: Summary of today's meet:-  
+Ayush explained 101 about GSoC and how to find GSoC organisations. He shared brilliant wisdom about the project . I , who is interested in c/c++ and web dev, told about 15-20 organisations that are frequent and good to target. 
+See you next time guys !
+25/08/2025, 23:12 - +91 96254 97063: Can you name the 15-20 org here ..
+25/08/2025, 23:12 - +91 81042 05239: 😊 🫂 thanks
+25/08/2025, 23:12 - +91 81042 05239: I am interested in java web dev also ready to learn AIML if required
+25/08/2025, 23:38 - +91 99682 85884 joined using a group link.
+26/08/2025, 01:07 - +39 331 212 4358: Can you tell here the orgs?
+26/08/2025, 11:27 - +91 78284 34498 joined using a group link.
+26/08/2025, 12:20 - +91 93053 60368 joined using a group link.
+26/08/2025, 13:38 - +1 (617) 784-6010 joined using a group link.
+26/08/2025, 22:23 - +91 92568 53311 joined using a group link.
+26/08/2025, 22:27 - +91 90320 35792 joined using a group link.
+27/08/2025, 01:00 - +91 62094 02305 joined using a group link.
+27/08/2025, 08:42 - +20 11 23624487 joined using a group link.
+27/08/2025, 11:47 - +91 70935 23468 joined using a group link.
+27/08/2025, 13:17 - +91 62010 06188 joined using a group link.
+27/08/2025, 22:19 - +91 89535 96712 joined using a group link.
+27/08/2025, 22:21 - +92 333 4289616 joined using a group link.
+27/08/2025, 23:00 - +91 95605 52341 joined using a group link.
+27/08/2025, 23:08 - +91 81042 05239: <Media omitted>
+27/08/2025, 23:10 - Ronit: pls no basic questions here
+27/08/2025, 23:10 - +91 81294 12156: This message was deleted
+27/08/2025, 23:10 - +91 81042 05239: Why so?
+27/08/2025, 23:11 - +91 81294 12156: I did face the same issue
+27/08/2025, 23:11 - +91 81294 12156: Dm me
+27/08/2025, 23:18 - +91 95605 52341: Hi everyone, I'm a complete beginner to open-source. Could you guys help me get started? Specifically, I'd love guidance on:
+
+- How to find organizations to contribute to
+- Creating an ideal roadmap for my open-source journey
+
+Thanks in advance!
+27/08/2025, 23:21 - Ronit: yes me too put it in the group… just message.. not so much time for calls <This message was edited>
+27/08/2025, 23:36 - +91 92394 96077: Hi everyone, I’m looking for new or smaller open-source projects (preferably in C++ or Python) with low contribution activity where I can start contributing and gain hands-on experience. Any suggestions would be greatly appreciated! <This message was edited>
+27/08/2025, 23:45 - +91 90732 68108 joined using a group link.
+27/08/2025, 23:50 - +91 62010 06188: Is there someone aiming for ml4sci ?? Especially from iit dhanbad.
+28/08/2025, 00:07 - +91 94323 86627: What is it can you tell more
+28/08/2025, 00:40 - +91 80950 19733 joined using a group link.
+28/08/2025, 01:01 - +91 62010 06188: It's an organisation on  gsoc .I was asking iit dhanbad folks because I don't know why but most folks who were selected in ml4sci are from iit dhanbad.
+28/08/2025, 08:17 - +91 78158 96211 joined using a group link.
+28/08/2025, 09:29 - +91 92840 97904 joined using a group link.
+28/08/2025, 11:44 - +91 93103 47945 joined using a group link.
+28/08/2025, 12:30 - +91 91375 78711 joined using a group link.
+28/08/2025, 12:51 - +91 86380 78177 joined using a group link.
+28/08/2025, 14:12 - +91 98449 30274 joined using a group link.
+28/08/2025, 15:12 - +91 92410 74008 joined using a group link.
+28/08/2025, 16:09 - +91 93477 69435 joined using a group link.
+28/08/2025, 18:16 - +91 90626 92914 joined using a group link.
+29/08/2025, 11:33 - +91 88000 97570 joined using a group link.
+29/08/2025, 12:30 - +91 97075 78703 joined using a group link.
+29/08/2025, 13:57 - +91 98210 84124 joined using a group link.
+29/08/2025, 18:35 - +91 93221 05823 joined using a group link.
+29/08/2025, 18:49 - +91 75882 64439 joined using a group link.
+29/08/2025, 19:25 - +1 (302) 443-9095 joined using a group link.
+29/08/2025, 19:28 - +91 70074 41649 joined using a group link.
+29/08/2025, 19:36 - +91 75959 66379 joined using a group link.
+29/08/2025, 22:32 - +92 332 5902141 joined using a group link.
+29/08/2025, 23:12 - +91 99743 98796 joined using a group link.
+30/08/2025, 11:28 - +91 93027 44152 joined using a group link.
+30/08/2025, 12:28 - +977 981-8869005 joined using a group link.
+30/08/2025, 10:46 - +91 94323 86627: Hello everyone @⁨~birajit⁩ was part of Gsoc 2025 he has all the experience
+30/08/2025, 10:46 - +91 94323 86627: I was hoping if we could have a meeting with @⁨~birajit⁩ and everyone
+30/08/2025, 12:37 - +91 70423 22864 joined using a group link.
+30/08/2025, 10:46 - +91 94323 86627: What do you say?
+30/08/2025, 13:08 - +91 92059 77928 joined using a group link.
+30/08/2025, 10:47 - +91 70456 38616: yes , It would Be very helpful for all of us..
+30/08/2025, 10:47 - +91 81294 12156: For sure
+30/08/2025, 10:54 - +91 94323 86627: POLL:
+Suitable time for meeting today
+OPTION: 8pm (2 votes)
+OPTION: 9pm (3 votes)
+OPTION: 10pm (31 votes)
+OPTION: 11pm (9 votes)
+
+30/08/2025, 14:48 - ~ Abdul Moiz Sheraz was added
+30/08/2025, 10:56 - +91 92394 96077: Meeting will be on Discord or Zoom??
+30/08/2025, 10:56 - +91 94323 86627: Zoom
+30/08/2025, 14:48 - +91 98305 49584 was added
+30/08/2025, 10:57 - +91 93053 60368: Zoom
+30/08/2025, 14:48 - ~ Abdul Moiz Sheraz left
+30/08/2025, 14:47 - +91 98305 49584 joined using a group link.
+30/08/2025, 10:59 - +91 97075 78703: Thanks for the ping!
+
+Quick intro about me..
+
+I’m Birajit, currently stepping into my 2nd year of CS. I’m a GSoC’25 contributor with Jenkins, wrapping up my project this October. It’s been a solid journey so far.
+
+Outside OSS and dev, I’m super curious about research, especially around AI, ML, and the more theoretical side of AGI.
+
+I’ll be around to help out if you hit any roadblocks or hiccups during your journey
+30/08/2025, 14:48 - ~ Abdul Moiz Sheraz was added
+30/08/2025, 14:48 - ~ Abdul Moiz Sheraz left
+30/08/2025, 11:03 - +91 70456 38616: 2nd year 👁️👁️
+30/08/2025, 11:09 - +91 99743 98796: I am in first year know java, javascript,css ,js
+30/08/2025, 11:09 - +91 99743 98796: Should I target for 2026??
+30/08/2025, 11:11 - +91 88827 45233: Zoom
+30/08/2025, 11:12 - +91 78284 34498: Zoom
+30/08/2025, 11:14 - +91 97075 78703: 💯💯💯
+30/08/2025, 11:14 - +91 97075 78703: Definitely
+30/08/2025, 11:19 - +91 97075 78703: I will suggest there is no need to ping me personally
+It will be best if everything happens in this group just how open source works
+
+
+
+And now in aug sep no need to panic anyone you all can now focus more on skills and acads
+
+And start preparing for gsoc from november or if you want october
+
+
+Treat gsoc like a fun game not like something to crack but something to give your best to learn and achieve
+30/08/2025, 11:20 - +91 85058 56478: Bhaiya aapka tech stack kya hai?
+30/08/2025, 11:20 - +91 78284 34498: I am in first year cse and only know html , so how to start preparing for gsoc ( I mean which language to start)
+30/08/2025, 11:21 - +91 97075 78703: Meine college ke alaba jo jenkins mein chhaiye toh time ke through kiya tha
+
+
+Thats best way 
+I mean its depends invidually
+
+
+But other than mostly mere college main first year main sab cover kar diye the toh thoda easy lag gaya feb march enter hone ke time tak
+30/08/2025, 11:21 - +91 97075 78703: Jenkins  ke jis repo main kam kiya usme
+30/08/2025, 11:22 - +91 85058 56478: Aapne contribution kis month se start Kiya tha
+30/08/2025, 11:22 - +91 97075 78703: I was in same position last year this time
+
+
+So ample time
+
+Just  give time to it
+30/08/2025, 11:23 - +91 97075 78703: Meine december se kiya mera first Pull request merged dec hua and gsoc ke selection ke pehle tak mera 42 merged hua tha
+30/08/2025, 11:23 - +91 85058 56478: Damn!! 42!!!!
+30/08/2025, 11:23 - +91 85058 56478: Top contributor aap hi honge
+30/08/2025, 11:24 - +91 97075 78703: Maybe
+30/08/2025, 11:25 - +91 97075 78703: But 42 nehi chhaiye
+
+Below 20 enough even if org is powerful
+
+
+And agar less popular org toh usme contributions se bhi jyada proposal matter karta hain
+30/08/2025, 11:25 - +91 78284 34498: So which language is best to open source
+30/08/2025, 11:25 - +91 97075 78703: 1-4 PR contribute agar ho jaye toh uske baad OSS addiction ho jayega
+30/08/2025, 11:26 - +91 97075 78703: Dont compromise acads (mainly attendance) 
+
+I did it but wont suggest to do that
+30/08/2025, 11:26 - +91 97075 78703: Other topics lets discuss today in meet will be fun <This message was edited>
+30/08/2025, 11:26 - +91 97075 78703: This message was deleted
+30/08/2025, 11:27 - +91 77589 10175: whats the meeting timing @⁨~birajit⁩ bhai?
+30/08/2025, 11:27 - +91 97075 78703: Ayush bro will confirm us here
+30/08/2025, 11:28 - +91 99743 98796: .
+30/08/2025, 11:28 - +91 94323 86627: Yep let everyone vote
+30/08/2025, 11:28 - ~ Nishant Dhanani pinned a message
+30/08/2025, 11:28 - +91 99743 98796: 10 to 11... may be best for everyone
+30/08/2025, 11:30 - +91 77589 10175: yes
+30/08/2025, 11:48 - +91 81042 05239: Definitely a big yes
+30/08/2025, 11:50 - +91 81042 05239: Pls discuss the tech stacks required or preferred 🙏
+30/08/2025, 12:26 - +91 95605 52341: Yess
+30/08/2025, 12:27 - +91 95605 52341: Could anyone recommend some top organizations for contributing to open-source projects, given my tech stack in JavaScript, TypeScript, Go, and Python? <This message was edited>
+30/08/2025, 12:30 - +91 77190 14887: We will discuss this by sharing a screen on zoom meet
+30/08/2025, 12:55 - +39 331 212 4358: When is the meeting?
+30/08/2025, 12:55 - +91 99743 98796: Diciding 10 to 11 <This message was edited>
+30/08/2025, 12:55 - +91 99743 98796: Pm
+30/08/2025, 16:55 - +91 91753 33814 joined using a group link.
+30/08/2025, 19:46 - +91 90364 18885 joined using a group link.
+30/08/2025, 21:14 - +91 94323 86627: Meeting at 11?
+30/08/2025, 21:14 - +91 94323 86627: Or 10?
+30/08/2025, 21:14 - +977 981-8869005: Anyone doing in java spring boot stack ?
+30/08/2025, 21:15 - +91 90364 18885: Yeah
+30/08/2025, 21:16 - +977 981-8869005: I'm from Nepal. Want to connect?
+30/08/2025, 21:16 - +91 90364 18885: Okay
+30/08/2025, 21:19 - +91 99743 98796: Should arrange meeting 10pm??
+30/08/2025, 21:31 - +91 77589 10175: yes pls
+30/08/2025, 22:03 - +91 77190 14887: https://us05web.zoom.us/j/82868924412?pwd=SijyR6FEA1HzjbZWqF90nwRyh1jUhp.1
+30/08/2025, 22:03 - +91 77190 14887: I started the meeting on zoom. You guys can join.
+30/08/2025, 22:05 - +91 90320 35792: If possible record the meeting 
+So that it can be useful for others who are unable to join now
+30/08/2025, 22:06 - +91 97075 78703: Joining 2 mins
+30/08/2025, 22:06 - +91 77190 14887: Please join faster. Zoom works for 45 minutes free only.
+30/08/2025, 22:06 - +91 97075 78703: Sure
+30/08/2025, 22:10 - +91 97075 78703: joined
+30/08/2025, 22:10 - +91 97075 78703: sorry for the late got trapped in traffic
+30/08/2025, 22:32 - +39 331 212 4358: What has been said?
+30/08/2025, 22:42 - +91 81042 05239: Hello.. pls share the minutes of the meeting
+30/08/2025, 22:43 - +91 81042 05239: I couldn't attend the same today 😪 for i am stuck in another meeting
+30/08/2025, 22:44 - +91 94323 86627: We can have a new link
+30/08/2025, 22:44 - +91 77190 14887: https://us05web.zoom.us/j/82431550226?pwd=RD8YHVfQDBjjS02YaDl2NsUakbRIyT.1
+30/08/2025, 22:44 - +91 77190 14887: Join this one
+30/08/2025, 23:21 - +91 77190 14887: <Media omitted>
+30/08/2025, 23:23 - +91 95605 52341: Thanks
+30/08/2025, 23:24 - +91 85058 56478: Bhai laptop ki screen quality tagdi h yaar
+30/08/2025, 23:24 - +91 77190 14887: Tarif hai ya tana hai ?
+30/08/2025, 23:24 - +91 85058 56478: Tareef
+30/08/2025, 23:24 - +91 85058 56478: Screen guard lagaya hai kya?
+30/08/2025, 23:25 - +91 62010 06188: Abhi se contribute kar sakte hain
+30/08/2025, 23:26 - +91 77190 14887: Nah. Shuru se aisa hai. Aur Naya phone hai toh camera bhi acha hai
+30/08/2025, 23:27 - +91 85058 56478: Phone ka flex bhi kr diya
+30/08/2025, 23:27 - +91 77190 14887: According to point 3, you can contribute from today itself just to get used to the tech stack, organisation, codebase, GitHub etc. It will just create some credibility.
+30/08/2025, 23:30 - +91 97075 78703: Thanks you covered all great work
+30/08/2025, 23:30 - ~ ~Manju✨ added +91 82875 65526
+30/08/2025, 23:30 - ~ ~Manju✨ added +91 93584 55884
+30/08/2025, 23:31 - +91 81042 05239: @⁨~birajit⁩ sorry to ask 😅 outside the meeting, but did we discuss something regarding languages preferred?
+30/08/2025, 23:31 - +91 97075 78703: The hidden reason of not preferring indian maintainers is like
+
+
+Some of the students like us get a maintainers role if they do gsoc previously
+
+And sadly some  of them do biasness in selection selecting their own college people
+
+This is sad but it's happening india
+30/08/2025, 23:32 - +91 97075 78703: Not all but few of them doing this so better not take risk
+
+
+
+I am saying only for lead mentors
+
+Not co mentors
+
+Co maintainers can be anyone
+30/08/2025, 23:32 - +91 77190 14887: I don't think so. He kept saying do what you and maintainers are comfortable with
+30/08/2025, 23:33 - +91 81042 05239: That's rampant in India 🇮🇳 in like every other department . Corruption is everywhere in India 
+We will have to accept that
+30/08/2025, 23:33 - +91 97075 78703: You can prefer @⁨~AB⁩ reply
+30/08/2025, 23:34 - +91 97075 78703: 100%
+
+Everything is a rat race in india
+
+First it begins with jee and neet
+
+And then in tech now cp dsa its just that way
+
+
+And slowly oss getting affected as well
+30/08/2025, 23:34 - +91 99743 98796: Yes GSoC is may part on that
+30/08/2025, 23:34 - +91 97075 78703: Thats i why i suggest to do gsoc as fun part of your life
+
+Not something you are competing but something you are collaborating
+30/08/2025, 23:35 - +91 81042 05239: Its a lore in India 🇮🇳 which everyone can share
+30/08/2025, 23:35 - +91 85058 56478: Bhaiya gsoc projects bhi alag alag type ke hote  hai na?
+Large small aisa kuch?
+30/08/2025, 23:35 - +91 99743 98796: Absolutely now Targeting GSoC 2026 as first year student because i like to do work on projects not only gsoc name
+30/08/2025, 23:36 - +91 85058 56478: Konse college mai ho bade bhai
+30/08/2025, 23:36 - +91 99743 98796: Ha small midium large
+30/08/2025, 23:36 - +91 99743 98796: LD COLLEGE OF ENGINEERING, AHEMDABAD
+30/08/2025, 23:36 - +91 85058 56478: 🍔
+30/08/2025, 23:36 - +91 85058 56478: Are ahemdabad se ho...
+30/08/2025, 23:36 - +91 85058 56478: Great great
+30/08/2025, 23:37 - +91 99743 98796: Small-750$
+Midium-1500$
+Large-3000$ stipend hai almost
+30/08/2025, 23:37 - +91 85058 56478: Damn!!!!!!!!!!
+30/08/2025, 23:37 - +91 99743 98796: It helps on fees
+30/08/2025, 23:37 - +91 81042 05239: Stipend converted to rupees or it's in dollars
+30/08/2025, 23:37 - +91 99743 98796: We will target tech not that so real growth what's your thought??
+30/08/2025, 23:38 - +91 99743 98796: Anyone on X?? so we will share journey on that. <This message was edited>
+30/08/2025, 23:38 - +91 95605 52341: just new starting from this sept
+30/08/2025, 23:38 - +91 99743 98796: And here we don't disturb other Legend guys
+30/08/2025, 23:38 - +91 95605 52341: @deevbuilds
+30/08/2025, 23:38 - +91 85058 56478: Mazaak mai hi shi par agar Large project  mil jaata hai toh mere 2.5 saal ki fees ka jugaad
+30/08/2025, 23:38 - +91 85058 56478: <Media omitted>
+30/08/2025, 23:39 - +91 95605 52341: Guys
+30/08/2025, 23:39 - +91 95605 52341: Like does anyone know about Summer of Bitcoin as well
+30/08/2025, 23:39 - +91 99743 98796: We have to work hard Bro same situation and mind
+30/08/2025, 23:39 - +91 99743 98796: Nope Bro can you explain in compact words
+30/08/2025, 23:40 - +91 99743 98796: @Nishant_Dhanani
+30/08/2025, 23:40 - +91 95605 52341: It's like gsoc but for bitcoin
+30/08/2025, 23:40 - +91 95605 52341: Orgs are web3 companies work on top of bitcoin
+30/08/2025, 23:41 - +91 99743 98796: You know web3 tech??
+30/08/2025, 23:41 - +91 99743 98796: Dm me on X we will may grow together
+30/08/2025, 23:42 - +91 99743 98796: Or anyone want to connect and Grow.!
+30/08/2025, 23:59 - +91 62010 06188: Anyone targeting ml4sci?
+31/08/2025, 00:00 - +91 93053 60368: I don't know web3 but I still wana learn
+31/08/2025, 01:51 - +91 78921 13707 joined using a group link.
+31/08/2025, 03:19 - +91 87774 37552 joined using a group link.
+31/08/2025, 09:45 - +91 78158 96211: @⁨~birajit⁩ Can you share your proposal?
+31/08/2025, 10:02 - +91 99743 98796: If anyone new for that.
+Here is website to find projects it will may help you:-https://www.gsocorganizations.dev/
+31/08/2025, 10:30 - +91 97075 78703: Sure
+
+But I can only send it once My project has ended
+
+So ping me after october 19
+31/08/2025, 10:31 - +91 81042 05239: 😊
+31/08/2025, 10:31 - +1 (617) 784-6010: Can anyone explain what’s the whole progress be like to contribute your own proposal to an organization?
+31/08/2025, 10:34 - +91 70282 52373: As much as I know, you try to get your PRs merged as many as possible to that organisation's open source project and once the contribution period is over, you submit a proposal (similar to statement of proposal) in order to get selected <This message was edited>
+31/08/2025, 11:02 - +91 94323 86627: Has anyone thinking of contributing to google deepmind?
+31/08/2025, 11:02 - +91 94323 86627: If so could you find the gitter link
+31/08/2025, 11:03 - +91 80800 45334: yeah i am currently working on that
+31/08/2025, 11:03 - +91 94323 86627: Did you find the gitter link
+31/08/2025, 11:03 - +91 80800 45334: github ??
+31/08/2025, 11:03 - +91 94323 86627: No the community group
+31/08/2025, 11:04 - +91 80800 45334: no
+31/08/2025, 11:04 - +91 80800 45334: is it there a community group ??
+31/08/2025, 11:04 - +91 94323 86627: There should be right @⁨~birajit⁩
+31/08/2025, 11:57 - +91 93816 11812 joined using a group link.
+31/08/2025, 13:44 - +91 77190 14887: Try to check for community groups on websites or docs
+31/08/2025, 13:29 - +61 403 803 289 joined using a group link.
+31/08/2025, 13:30 - +61 403 803 289 changed the group name from "GSoc 2026" to "GSoC 2026"
+31/08/2025, 13:51 - +91 97075 78703: I dont have idea about this org channel
+31/08/2025, 13:51 - +91 97075 78703: But deepmind is massive
+
+This time over 40+ projects alone from deepmind🔥 got selected
+31/08/2025, 15:07 - +91 80741 07291: <Media omitted>
+31/08/2025, 15:08 - +91 80741 07291: I think screen was not shown
+31/08/2025, 16:11 - +91 88587 97521 joined using a group link.
+31/08/2025, 19:14 - +1 (551) 396-0423 joined using a group link.
+31/08/2025, 20:10 - +91 79045 02282 joined using a group link.
+31/08/2025, 22:48 - +91 97640 01278 joined using a group link.
+01/09/2025, 14:14 - +91 78754 48850 joined using a group link.
+01/09/2025, 14:15 - +91 78754 48850: Hello guys !!😄
+01/09/2025, 14:18 - +91 92410 74008: <Media omitted>
+01/09/2025, 14:20 - +91 88587 97521: Hemlo
+01/09/2025, 14:21 - +91 78754 48850: Looking to participate in GSoC 2026!
+
+I have experience with Java and Spring for backend development, but I'm new to the GSoC world. I would really appreciate some guidance and advice on where to begin as a fresher. Any help or tips are much needed and welcome!
+01/09/2025, 14:22 - +39 331 212 4358: can someone recommend some spring orgs? Also , i’d like to ask which projects to make in spring apart that ecomeerce etc
+01/09/2025, 14:28 - +91 99743 98796: For java maybe jenkins
+01/09/2025, 14:28 - +91 99743 98796: .
+01/09/2025, 14:28 - +91 99743 98796: Use this link to find orgs.
+01/09/2025, 16:08 - +91 94699 52344 added +91 82715 32680
+01/09/2025, 16:39 - +91 80741 07291: yea same for FastAPI/Django also what are the organizations available under them exactly as when i try to search exactly by name nothing is showing so doubt should i have to do some other things too as per web developer like devops skills anyone
+01/09/2025, 18:51 - +977 986-4888410 joined using a group link.
+01/09/2025, 19:18 - +91 87663 67569 joined using a group link.
+01/09/2025, 19:19 - +91 87663 67569: hi guys
+01/09/2025, 19:19 - +91 87663 67569: is this group active
+01/09/2025, 19:20 - +91 99743 98796: Yes of course
+01/09/2025, 19:20 - +91 87663 67569: Good to know lol
+01/09/2025, 19:20 - +91 87663 67569: Im kinda new to this gsoc thing
+01/09/2025, 19:20 - +91 87663 67569: Hoping to have fun here
+01/09/2025, 19:20 - +91 99743 98796: Here many people is new kinda
+01/09/2025, 19:21 - +91 99743 98796: Almost all may be
+01/09/2025, 19:21 - +91 87663 67569: Ohh
+01/09/2025, 19:31 - +91 79045 02282: yupp
+01/09/2025, 19:32 - +91 94323 86627: Ofc we clear our doubts and have meeting and  everything even we have prev gsoc participant <This message was edited>
+01/09/2025, 19:33 - +91 99743 98796: Yeah you can also ask questions...freely
+01/09/2025, 19:35 - +91 87663 67569: understood thanks guys
+01/09/2025, 19:46 - +91 79045 02282: hello people im a complete beginner to programming currently learing JAVA, any suggestions on what projects to build to get started as a beginner, your insights will be very valuable and helpful for me!! ❤
+01/09/2025, 19:46 - +91 81042 05239: Same here JAi pls help mee too
+01/09/2025, 19:47 - +91 79045 02282: have you learnt oops in java?
+01/09/2025, 19:47 - +91 79045 02282: learn OOPS and try building a command line program by yourself
+01/09/2025, 19:48 - +91 99743 98796: Yes I am also completed java.!
+01/09/2025, 19:48 - +91 99743 98796: Recently 2 month ago
+01/09/2025, 19:48 - +91 79045 02282: learn to debug guys
+01/09/2025, 19:48 - +91 79045 02282: what projects have you built?
+01/09/2025, 19:49 - +91 99743 98796: small CLI projects
+01/09/2025, 19:49 - +91 79045 02282: posted it in GitHub?
+01/09/2025, 19:49 - +91 99743 98796: Now I moved to Web Dev And Completed html+css also some javascript
+01/09/2025, 19:49 - +91 99743 98796: Yes some are posted
+01/09/2025, 19:50 - +91 99743 98796: Not much high Level
+01/09/2025, 19:50 - +91 99743 98796: But Fine
+01/09/2025, 19:50 - +91 79045 02282: you could have learnt spring-boot right why did you switch? :#
+01/09/2025, 19:50 - +91 99743 98796: https://nishant-dhanani.netlify.app/
+01/09/2025, 19:51 - +91 79045 02282: share me your github
+01/09/2025, 19:51 - +91 99743 98796: I like to build Projects also I wanted o build some chrome extansion so
+01/09/2025, 19:51 - +91 99743 98796: Given in this website
+01/09/2025, 19:51 - +91 79045 02282: thats great!
+01/09/2025, 19:51 - +91 99743 98796: Yes After completiong some stuff of js I will build that
+01/09/2025, 19:52 - +91 99743 98796: Dm in private other get Disturb
+01/09/2025, 20:04 - +91 81042 05239: Okay
+01/09/2025, 20:06 - +91 70074 41649: Is anyone here working with Three.js or React Three Fiber, or has completed Bruno Simon’s Three.js Journey course? I would like to hear your experience.
+01/09/2025, 20:17 - +91 78754 48850: Completed springWeb with DBMS 
+Currently learning springSecurity
+
+Any suggestions what should I learn next or should go for project or start contributing?
+01/09/2025, 20:34 - ~ Nishant Dhanani pinned a message
+01/09/2025, 20:34 - +91 99743 98796: Use pinned link to find your liked project
+01/09/2025, 20:36 - +91 99743 98796: Then you have any questions ask freely
+01/09/2025, 20:44 - +91 79045 02282: please build, nothing will help you other than actually building something on your own
+01/09/2025, 20:45 - +91 79902 84730 updated the message timer. New messages will disappear from this chat 24 hours after they're sent, except when kept.
+01/09/2025, 20:45 - +91 79045 02282: build, iterate, build build build iterate
+01/09/2025, 20:45 - +91 78754 48850: Got it !!
+Thankyou ❤️
+01/09/2025, 20:45 - +91 79045 02282: learn to debug
+01/09/2025, 20:46 - +91 79902 84730: 
+01/09/2025, 21:20 - +91 94323 86627 turned off disappearing messages.
+01/09/2025, 21:22 - +91 87663 35474 joined using a group link.
+01/09/2025, 21:32 - +91 97640 01278: This message was deleted
+01/09/2025, 21:32 - +91 84839 84145 joined using a group link.
+01/09/2025, 21:33 - +91 97640 01278: This message was deleted
+01/09/2025, 21:35 - +91 87663 67569: Can you resend the pinned message
+01/09/2025, 21:38 - +91 81294 12156: .
+01/09/2025, 21:39 - +91 99743 98796: If anyone new for that.
+Here is website to find projects it will may help you:-https://www.gsocorganizations.dev/
+01/09/2025, 21:42 - +91 90732 68108: Can share from which resource u learnt oops
+01/09/2025, 21:56 - +91 79045 02282: I just read through the entire www.w3schoola/java
+01/09/2025, 21:56 - +91 79045 02282: This is how I did it but I don't recomend it for everyone
+01/09/2025, 21:57 - +91 90732 68108: Ok , thanks
+01/09/2025, 21:57 - +91 79045 02282: I love reading and writing  so it worked for me, try learning it through YouTube and try to write it down in a paper.
+01/09/2025, 21:57 - +91 79045 02282: Break big programs into small pieces of code and try to understand how it works!
+01/09/2025, 21:58 - +91 79045 02282: Easy!!
+01/09/2025, 21:58 - +91 90732 68108: Would u like to suggest any yt video
+01/09/2025, 21:58 - +91 90732 68108: Or channel
+01/09/2025, 21:58 - +91 81294 12156: Tried telusko?
+01/09/2025, 21:59 - +91 92840 97904: sab ek formal introduction dedo just to know each other
+01/09/2025, 21:59 - +91 90732 68108: I followed amigoscode but it was not in detailed
+01/09/2025, 22:00 - +91 92840 97904: I m Prayaksh 
+BTech 3rd year
+Targeting Web dev and web3
+01/09/2025, 22:00 - +977 981-8869005: Yeah telusco is good at explaining java stuffs. I have learned core java from telusco channel. But for spring or spring boot I wouldn't recommend. For spring framework go for Durgesh
+01/09/2025, 22:02 - +91 86018 13566: backend with java ka full course hai
+01/09/2025, 22:05 - +977 981-8869005: Yeah bro..Dekha hai maile. But spring framework Pura details mai Nahi hai
+01/09/2025, 22:05 - +91 95605 52341: Any orgs with GO as main stack??
+01/09/2025, 22:05 - +977 981-8869005: I mean telusco me
+01/09/2025, 22:09 - +91 99743 98796: Yes many may be use website pined
+01/09/2025, 22:09 - +91 99743 98796: It will be appropriate to you.!
+02/09/2025, 00:10 - +91 94323 86627: Give that in descriptions
+02/09/2025, 00:49 - ~ Nishant Dhanani changed the group description
+02/09/2025, 15:17 - +91 97209 52345 joined using a group link.
+02/09/2025, 15:47 - +20 12 88438198 joined using a group link.
+02/09/2025, 16:41 - +91 79081 62530 joined using a group link.
+03/09/2025, 11:27 - +91 62892 43103 joined using a group link.
+03/09/2025, 11:30 - +91 62892 43103: hi
+03/09/2025, 11:30 - +91 62892 43103: i'm planning to apply for gsoc 2026 in ml domains
+03/09/2025, 11:30 - +91 62892 43103: can someone suggest me companies and projects
+03/09/2025, 12:28 - +91 99743 98796: Please check description or pinned website firstly then you can freely...
+03/09/2025, 12:53 - ~ Merugu Sourish added +91 93468 99303
+03/09/2025, 22:12 - +91 94323 86627: Anyone knows how to link a PR with an issue?
+03/09/2025, 22:32 - +91 97075 78703: Fix #issueno
+
+Fixes #issuno
+03/09/2025, 22:32 - +91 97075 78703: Depending on repos
+03/09/2025, 22:56 - +91 79045 02282: Hello people please share some projects that you are currently working on, Willing to contribute <This message was edited>
+03/09/2025, 23:39 - +91 95768 42191 joined using a group link.
+03/09/2025, 23:39 - ~ 𝒜𝓈𝒽𝓊𝓉𝑜𝓈𝒽✨ added ~ Rishi Verma
+03/09/2025, 23:40 - +91 95768 42191: hey, looking for mern folks
+03/09/2025, 23:41 - +91 95768 42191: we can have a  chat and then proceed
+03/09/2025, 23:41 - +91 70156 58627: looking for what?
+03/09/2025, 23:42 - +91 95768 42191: company, dost, peer
+03/09/2025, 23:43 - +91 95768 42191: if anyone interested, please dm me
+03/09/2025, 23:44 - +91 70282 52373: I know mern, what do u wanna talk
+04/09/2025, 00:11 - +91 82605 18672 joined using a group link.
+04/09/2025, 01:32 - +91 79045 02282: Send project link(GitHub) that you have build using mern stack
+04/09/2025, 01:40 - +91 70282 52373: https://github.com/Aditya-0712/RBAC-Systems
+04/09/2025, 01:45 - +91 79045 02282: didn't you host it on GitHub pages?
+04/09/2025, 01:46 - +91 70282 52373: It won't work cus it has a backend
+04/09/2025, 01:54 - +91 79045 02282: you can host it on netify right?
+04/09/2025, 01:55 - +91 79045 02282: if im not dump
+04/09/2025, 01:55 - +91 79045 02282: nope i was dump
+04/09/2025, 01:56 - +91 79045 02282: Vercel*
+04/09/2025, 01:56 - +91 79045 02282: @⁨~Aditya Batgeri⁩
+04/09/2025, 01:57 - +91 70282 52373: Render
+04/09/2025, 01:57 - +91 70282 52373: Netlify or vercel is only for frontend same as github pages
+04/09/2025, 01:58 - +91 70282 52373: Render will host the backend but there still has to be a database online like aws or azure
+04/09/2025, 01:58 - +91 79045 02282: aws has a free tier if im not wrong
+04/09/2025, 01:59 - +91 70282 52373: Yeah
+04/09/2025, 01:59 - +91 79045 02282: alright!
+04/09/2025, 01:59 - +91 81294 12156: You probably mean amplify,
+04/09/2025, 01:59 - +91 70282 52373: I got permanently banned from aws so I can't:(
+04/09/2025, 01:59 - +91 79045 02282: AWS(Amazon Web Services)
+04/09/2025, 02:00 - +91 79045 02282: oof why?
+04/09/2025, 02:00 - +91 81294 12156: Amplify is a AWS service
+04/09/2025, 02:00 - +91 70282 52373: Apparently I didn't know i was being charged for using load balancer for months and i don't have that much money
+04/09/2025, 02:00 - +91 81294 12156: You can use +1 modifiers on your email and it should still work
+04/09/2025, 02:01 - +91 70282 52373: They black listed my debit card so it won't work
+04/09/2025, 02:01 - +91 79045 02282: :(
+04/09/2025, 02:01 - +91 81294 12156: Ah nt
+04/09/2025, 06:53 - +972 54-809-8259 joined using a group link.
+04/09/2025, 11:34 - +91 80196 02977 joined using a group link.
+04/09/2025, 12:11 - +1 (782) 860-1998 joined using a group link.
+04/09/2025, 15:56 - +977 976-5826617 joined using a group link.
+04/09/2025, 17:03 - +233 24 339 7012 joined using a group link.
+04/09/2025, 23:49 - +91 79045 02282: Anyone building sometime in MERN currently?, im currently learning MERN would love to Contribute :) <This message was edited>
+05/09/2025, 06:22 - +91 72404 50760 joined using a group link.
+05/09/2025, 07:35 - +91 74889 63230 joined using a group link.
+05/09/2025, 09:37 - +91 70456 38616: anyone participating in hacktoberfest ??
+05/09/2025, 09:44 - +91 99743 98796: Give brief intro about that...
+05/09/2025, 09:47 - +91 70456 38616: Its an opensource  that goes on for 1 month of october in which we have to  merge atleast 4 pr  in order ro eligible for badges and the swags
+05/09/2025, 10:14 - +91 62892 43103: guys who are contributing to ai/ml domain?
+05/09/2025, 10:36 - +91 63769 73760 joined using a group link.
+05/09/2025, 12:52 - +91 63945 14394 joined using a group link.
+05/09/2025, 22:21 - +91 94467 29459 joined using a group link.
+06/09/2025, 10:21 - +91 87675 15007 joined using a group link.
+06/09/2025, 10:21 - +91 87675 15007 was added
+06/09/2025, 10:21 - Unknown: 
+06/09/2025, 10:34 - +91 62892 43103: hi. so I've shortlisted 4 organisations to which i can contribute: open climate fix, deepchem, jax and keras, wellcome sanger tree of life. now these organisations have projects from the 2025 season and i cannot understand whether they'd come for the 2026 season or not. can anyone please help me out?
+06/09/2025, 10:37 - +91 90549 11403 joined using a group link.
+06/09/2025, 10:39 - +91 87663 67569: Bro no one knows which company is gonna come next year, you can just hope
+06/09/2025, 10:40 - +91 87663 67569: A safer bet would be to go for those organisations which have been participating in gsoc continuously for a few years
+06/09/2025, 10:43 - +91 62892 43103: the sanger company is coming from 2022
+06/09/2025, 10:43 - +91 62892 43103: the others are coming from 2024
+06/09/2025, 10:50 - +91 95605 52341: brother, can you find some with go as main tech stack, i saw them but much of them were like not that active
+06/09/2025, 10:51 - +91 62892 43103: shall i reach out to them individually asking whether they'll come?💀
+06/09/2025, 10:51 - +91 62892 43103: i don't know go
+06/09/2025, 10:52 - +91 95605 52341: np..
+whats your tech stack?
+06/09/2025, 10:52 - +91 62892 43103: ml
+06/09/2025, 17:05 - +91 78271 35671 joined using a group link.
+06/09/2025, 17:05 - +91 82669 90053 joined using a group link.
+06/09/2025, 17:54 - ~ LightSeeker(Winter Arc) added ~ Zissu !
+06/09/2025, 17:55 - ~ Zissu ! was added
+06/09/2025, 22:11 - +91 76049 11207 was added
+06/09/2025, 22:10 - +91 76049 11207 joined using a group link.
+07/09/2025, 18:58 - +91 99183 62188 joined using a group link.
+07/09/2025, 21:22 - ~ Gowri Shivam was added
+07/09/2025, 21:22 - +91 73063 49954 joined using a group link.
+07/09/2025, 22:30 - ~ Ratnesh was added
+07/09/2025, 22:30 - +91 88309 35315 joined using a group link.
+08/09/2025, 12:12 - ~ ANUJ was added
+08/09/2025, 12:11 - +91 92168 63374 joined using a group link.
+08/09/2025, 12:12 - +91 92168 63374: Hello everyone 👋 ,
+I am Anuj, I'm new here
+08/09/2025, 12:24 - +91 97075 78703: <Media omitted>
+08/09/2025, 12:24 - +91 97075 78703: In git journey while doing Pr and solving issues or anything only very few of them would be mostly in use
+
+
+Better to get involved with the commands practically
+08/09/2025, 12:26 - +91 97075 78703: And one more hint while getting any errors in git commands
+
+
+Its better to copy and paste the error in google to get stack overflow answers since they are much more easy and simple 
+
+Rather than asking LLM they give most of the times the harder way
+08/09/2025, 13:18 - +91 92168 63374: Please send discord link again it's expired
+08/09/2025, 13:26 - +91 83180 58543 was added
+08/09/2025, 13:25 - +91 83180 58543 joined using a group link.
+08/09/2025, 15:20 - +91 73988 43093 was added
+08/09/2025, 15:20 - +91 73988 43093 joined using a group link.
+08/09/2025, 15:31 - +91 63051 85707 was added
+08/09/2025, 15:30 - +91 63051 85707 joined using a group link.
+08/09/2025, 22:49 - ~ ashutosh was added
+08/09/2025, 22:49 - +91 79033 07775 joined using a group link.
+08/09/2025, 22:54 - +91 63690 11691 joined using a group link.
+08/09/2025, 22:55 - +91 89010 85444 joined using a group link.
+08/09/2025, 22:55 - +91 79923 30801 joined using a group link.
+08/09/2025, 22:57 - ~ Parv Kapadia was added
+08/09/2025, 22:57 - +91 95292 90563 joined using a group link.
+08/09/2025, 22:57 - +91 76312 30958 joined using a group link.
+08/09/2025, 23:04 - +91 82984 99409 joined using a group link.
+08/09/2025, 23:04 - +91 80977 87477 joined using a group link.
+08/09/2025, 23:53 - +91 91101 08134 joined using a group link.
+09/09/2025, 00:53 - ~ Kavy Agrawal was added
+09/09/2025, 00:53 - +91 82180 01995 joined using a group link.
+09/09/2025, 05:55 - ~ Harsh Barhate was added
+09/09/2025, 05:54 - +91 99757 48352 joined using a group link.
+09/09/2025, 09:19 - +91 94317 97003 joined using a group link.
+09/09/2025, 10:32 - +91 99458 87138 was added
+09/09/2025, 10:32 - ~ Shriram added +91 99458 87138
+09/09/2025, 15:22 - ~ Parth Singh added ~ Subham
+09/09/2025, 15:23 - ~ Subham added ~ Nishant Tiwari
+10/09/2025, 00:09 - +91 62072 21130 joined using a group link.
+10/09/2025, 02:53 - ~ Nishant was added
+10/09/2025, 02:52 - +91 70476 20870 joined using a group link.
+10/09/2025, 07:53 - +91 96506 35606 was added
+10/09/2025, 07:53 - +91 96506 35606 joined using a group link.
+10/09/2025, 07:59 - ~ Soon was added
+10/09/2025, 07:59 - +60 10-451 5138 joined using a group link.
+10/09/2025, 10:26 - +91 96014 83320 joined using a group link.
+10/09/2025, 11:23 - ~ Priyanka! was added
+10/09/2025, 11:23 - +91 63622 28473 joined using a group link.
+10/09/2025, 12:29 - +91 76546 74951 joined using a group link.
+10/09/2025, 12:29 - +91 76546 74951 was added
+10/09/2025, 16:07 - +91 93102 29132 joined using a group link.
+10/09/2025, 16:21 - +91 79033 07775: Hello
+10/09/2025, 17:04 - +91 82180 01995: Heyy
+10/09/2025, 17:08 - +91 94317 97003: Hii
+10/09/2025, 17:09 - +977 976-5826617: Hello people
+10/09/2025, 17:09 - +977 981-8869005: Hello from Nepal
+10/09/2025, 17:10 - +977 976-5826617: i am from Nepal too
+10/09/2025, 17:10 - +91 95605 52341: Hello
+10/09/2025, 17:10 - +91 95605 52341: Welcome to this group
+10/09/2025, 17:10 - +977 976-5826617: thanks
+10/09/2025, 17:10 - +977 976-5826617: lets introduce each other
+10/09/2025, 17:10 - +91 73063 49954: Hi guysss
+10/09/2025, 17:11 - +91 82180 01995: I am from Bengaluru India
+10/09/2025, 17:11 - +977 976-5826617: Guys what do you want to contribute and what are your specialization
+10/09/2025, 17:11 - +91 96994 97291: Hey
+10/09/2025, 17:11 - +91 94317 97003: Im from Jharkhand
+10/09/2025, 17:11 - +91 73063 49954: I am from Kerala India
+10/09/2025, 17:11 - +91 79033 07775: I am from bihar
+10/09/2025, 17:11 - +977 976-5826617: nice to see you people here
+10/09/2025, 17:12 - +91 73063 49954: Which Yr in college are u guy?
+10/09/2025, 17:12 - +91 94317 97003: 1st year
+10/09/2025, 17:13 - +91 95292 90563: I'm from Maharashtra India
+10/09/2025, 17:13 - +977 976-5826617: could you all please tell about your goals and specialization, it will be easier to get help from people out here
+10/09/2025, 17:13 - +977 976-5826617: 8th sem, currently a software engineer intern
+10/09/2025, 17:13 - +91 79033 07775: Currently in 1st year learning web development and i am interested in blockchain development
+10/09/2025, 17:14 - +91 82180 01995: I am open for MERN projects
+And currently in 5th sem
+10/09/2025, 17:14 - +977 976-5826617: long way to goo Ashutosh
+10/09/2025, 17:15 - +91 79033 07775: Fr
+10/09/2025, 17:15 - +977 976-5826617: yeah
+10/09/2025, 17:15 - +977 976-5826617: Focus on one stack, they have some knowledge of devops
+10/09/2025, 17:15 - +91 63690 11691: Hi I am from Delhi currently in my second year and doing my specialization in AIML and my goal is to become an AI Engineer
+10/09/2025, 17:15 - +91 81042 05239: In first yr doing DSA in java and will be doing Mern stack web dev
+10/09/2025, 17:16 - +977 976-5826617: thats my goal as of now, i started has web developer, currently i am focusing on machine learning
+10/09/2025, 17:16 - +91 82605 18672: Hello everyone , I'm in my first sem , learning web dev would be going for full stack dev and also have started dsa in c++
+10/09/2025, 17:16 - +91 63690 11691: Oh nice
+10/09/2025, 17:16 - +91 81042 05239: Hey 👋 can seniors guide me? In first yr doing DSA in java and will be doing Mern stack web dev
+10/09/2025, 17:16 - +91 82605 18672: This is something I also want to get into
+10/09/2025, 17:17 - +977 976-5826617: might as well learn backend in java, i am not sure how things are inn java, maybe its spring boot, idk,
+10/09/2025, 17:17 - +91 79033 07775: Why not springboot?
+10/09/2025, 17:17 - +977 976-5826617: yeah exactly
+10/09/2025, 17:18 - +977 976-5826617: You can learn that then switch to mern, it will be a lot easier
+10/09/2025, 17:18 - +977 981-8869005: Go for spring. Don't start spring boot directly..learn all the basics of spring Framework and XML as well .
+10/09/2025, 17:18 - +91 73063 49954: I am in my first yr, doing dsa in python and started learning c++ and my goal is to be a robotics engineer
+10/09/2025, 17:19 - +977 976-5826617: you can do more in python
+10/09/2025, 17:19 - +977 976-5826617: c++ is goated
+10/09/2025, 17:20 - +91 73063 49954: I started exploring libraries like numpy pandas and all but in a rookie stage
+10/09/2025, 17:20 - +977 976-5826617: u said first year, so  learn more about other libraries
+10/09/2025, 17:21 - +91 81042 05239: I have just begun with java. Have plans to try springboot, too. But I couldn't find supportive material for the same or some guidance too would help
+10/09/2025, 17:21 - +977 976-5826617: you can always find good study material for free
+10/09/2025, 17:21 - +91 81042 05239: How's everything currently in Nepal
+10/09/2025, 17:21 - +91 79033 07775: Go for documentations
+10/09/2025, 17:21 - +977 976-5826617: today was quite peaceful
+10/09/2025, 17:21 - +91 99743 98796: Complete with telusko if  are you ultimate beginner
+10/09/2025, 17:22 - +977 976-5826617: last 2 days absolute chaos
+10/09/2025, 17:22 - +91 81042 05239: Understanding
+10/09/2025, 17:22 - +977 976-5826617: everything is burned and dusted
+10/09/2025, 17:22 - +977 976-5826617: will rebuild everything from tommoroww
+10/09/2025, 17:23 - +91 82180 01995: Hello @⁨~Madhu Sharma⁩ i need some guidance regarding gsoc 26, how to start prep for it, like when to start contributing to an open source how to select problem statements effectively and all
+10/09/2025, 17:23 - +91 81042 05239: It feels helpless. The fight was against corruption and not vandalism
+10/09/2025, 17:23 - +91 99757 48352: Hii guys, 
+I am Harsh from Pune.
+10/09/2025, 17:24 - +91 82180 01995: Hello harsh i am kavy from bengaluru and currently in 5th sem
+10/09/2025, 17:24 - +91 99757 48352: I am in my 5th sem too
+10/09/2025, 17:25 - +91 82180 01995: have you started preparing for gsoc next year?
+10/09/2025, 17:25 - +91 94467 29459: Hi,
+I am Karthik from kerala and currently in  3rd sem
+10/09/2025, 17:25 - +977 976-5826617: Just research about the where you want to work, find something where you can contribute and dont think for bigger picture
+10/09/2025, 17:25 - +977 976-5826617: start small
+10/09/2025, 17:25 - +977 976-5826617: this is also my first time
+10/09/2025, 17:25 - +977 976-5826617: so nothing i can guide much
+10/09/2025, 17:26 - +91 99757 48352: Umm kinda! But I am new to open source. And can use some guidance...
+10/09/2025, 17:26 - +91 82180 01995: no worries we’ll help each other
+10/09/2025, 17:27 - +91 82180 01995: same with me my tech is MERN and interested in learning machine learning
+10/09/2025, 17:28 - +977 976-5826617: But i can tell you all that, dont think that you will contribute  only in stack what you know
+10/09/2025, 17:28 - +977 976-5826617: try to find opportunities everywhere
+10/09/2025, 17:28 - +977 976-5826617: and learn how things are happening there
+10/09/2025, 17:29 - +977 976-5826617: This will help u to get crazy opportunities
+10/09/2025, 17:30 - +91 95605 52341: guys gsoc organisation list are in website pinned at group status
+10/09/2025, 17:30 - +91 95605 52341: Have a look on them
+10/09/2025, 17:30 - +91 99757 48352: I get lost in the code base of github of companies while solving the issues can you guide me... how to be comfortable with the code base...
+10/09/2025, 17:30 - +91 95605 52341: Get some help from external tools, first understand the intent of the whole repo , then move forward
+10/09/2025, 17:30 - +977 976-5826617: Arey, dont worry about that now
+10/09/2025, 17:31 - +91 95605 52341: And don't like rush
+10/09/2025, 17:31 - +91 95605 52341: One repo at one time
+10/09/2025, 17:33 - +977 976-5826617: Deevanshu, GSoC is in feb right ?
+10/09/2025, 18:04 - +91 96014 83320: Hello this side Daksh from gujrat , currently I am in 3rd sem and specialized in full stack and at present learning n8n and ai/ml and doing parellely codeforces in c++
+10/09/2025, 18:09 - +91 98305 49584: Hello everyone, Manju this side, from Gujarat. I am in AI ML specialization and currently working on PRs
+10/09/2025, 18:12 - +91 79033 07775: Ig
+10/09/2025, 18:16 - +91 78410 16236: Hey everyone, I am Vedant from Pune
+I have worked mostly on C/C++ (Working on an Operating System in C). I also have a decent level of experience in Rust as well. Apart from embedded systems my interest lies in Machine Learning, Compilers (Not an expert tho) and stuff. I have also been doing full stack web development and game development. Any suggestions for the organisations that I should target ? I am a beginner in Open Source Contributing so suggest accordingly. <This message was edited>
+10/09/2025, 18:43 - +91 92168 63374: Hi , I am Anuj,
+Full stack Android developer with decent level of experience, 
+I also do CP regularly, and have a little bit of prior experience to open source
+10/09/2025, 18:46 - +91 93048 70762 joined using a group link.
+10/09/2025, 18:49 - +91 62892 43103: hi, debarghya here.
+i mainly delve into ml, dl, nn. looking forward to working with y'all
+10/09/2025, 19:10 - +91 76312 30958: Hey my self raj rishi
+10/09/2025, 19:42 - +91 96014 83320: Hello anyone who had done GSoc bcoz I need some guidance? Can u plz help me
+10/09/2025, 19:43 - +91 95605 52341: @⁨~birajit⁩ sir.
+10/09/2025, 19:43 - +91 96014 83320: Thank you sir
+10/09/2025, 19:45 - +91 97075 78703: Hey bro Don't called me Sir 🥲
+
+
+I have just entered my 2nd year in this August <This message was edited>
+10/09/2025, 19:46 - +91 99743 98796: Ask here anything all peoples here for help also Don't worry
+10/09/2025, 20:16 - +91 96087 57340 was added
+10/09/2025, 20:16 - +91 96087 57340 joined using a group link.
+10/09/2025, 20:55 - +91 96436 21005 was added
+10/09/2025, 20:55 - +91 96436 21005 joined using a group link.
+10/09/2025, 22:48 - ~ ashutosh added +91 82878 80041
+10/09/2025, 23:52 - ~ Arjun Dixit was added
+10/09/2025, 23:36 - +91 96956 55570 joined using a group link.
+11/09/2025, 01:37 - ~ Kshitij Vispute was added
+11/09/2025, 01:37 - +91 72768 18006 joined using a group link.
+11/09/2025, 08:04 - +91 96393 98740 joined using a group link.
+11/09/2025, 09:47 - +91 90364 18885: Sriramdev.me checkout my interactive Portfolio let's connect <This message was edited>
+11/09/2025, 09:47 - +91 90364 18885: https://aiskillshouse.com/student/qr-mediator.html?uid=6053&promptId=6
+11/09/2025, 09:47 - +91 90364 18885: Use nano banana unlimited and claim free gemini pro subscription
+11/09/2025, 10:10 - +91 70456 38616: Bhai Gemini subscription hain ,par koi use ka nhi ,use  video promt deta hu ,mostly reject kardeta hain. Aur max 6 image banake deta hain din ka 😑
+11/09/2025, 10:29 - +91 90364 18885: Videos banane ka alag website hai
+11/09/2025, 10:29 - +91 90364 18885: Flow nam ka usme banao videos
+11/09/2025, 15:04 - ~ Vishal T was added
+11/09/2025, 15:03 - +91 98427 40700 joined using a group link.
+11/09/2025, 19:16 - +91 97631 30232 joined using a group link.
+11/09/2025, 22:51 - +91 90325 38254 joined using a group link.
+11/09/2025, 23:07 - +91 79038 85104 joined using a group link.
+12/09/2025, 18:59 - +91 93699 86889 joined using a group link.
+12/09/2025, 19:35 - +91 87003 78416 joined using a group link.
+12/09/2025, 19:41 - +91 72093 61161 joined using a group link.
+12/09/2025, 19:54 - +91 89578 11952 joined using a group link.
+12/09/2025, 20:03 - +91 93475 66535 joined using a group link.
+12/09/2025, 20:00 - +91 89578 11952: Hey 👋 
+This Side Zayn 
+I'm from Cse background... currently learning devOps.. started week ago 😅
+12/09/2025, 20:06 - +91 94323 86627: Hello Zayn
+12/09/2025, 20:06 - +91 94323 86627: Are you Zayn Malik
+12/09/2025, 20:06 - +91 99743 98796: Great Bro keep it up.
+12/09/2025, 20:06 - +91 89578 11952: No bro 😅
+12/09/2025, 20:10 - +91 89578 11952: Bro what you are doing?!
+12/09/2025, 20:11 - +91 79033 07775: Btw like what actually is devops and what people do on a daily basis.. I tried to understand it multiple times but still couldn't able to understand it <This message was edited>
+12/09/2025, 20:11 - +91 79033 07775: Explain me like I am 5 yr old
+12/09/2025, 20:13 - +91 99743 98796: I learned java , HTML CSS and now completling javascript
+12/09/2025, 20:13 - +91 89578 11952: Ok bro I know
+12/09/2025, 20:13 - +91 99743 98796: Targeting GSoC 2026
+12/09/2025, 20:13 - +91 89578 11952: At the start I was also confused 😕
+12/09/2025, 20:13 - +91 89578 11952: Let me explain
+12/09/2025, 20:14 - +91 79033 07775: Ok :)
+12/09/2025, 20:15 - +91 89578 11952: Great me too
+12/09/2025, 20:22 - +91 89578 11952: So basically devOps actual pe kya hai jaise ...ye cheez new hai mtlb kaafi old nhi ye last 10 years se hi hai ...ispe hota kya 
+Soch tum aur tumhare dost ek app bana rahe ho jaise game ya photo editing app normally developer code likhta hai aur system wala banda us code ko computer pe deploy karta hai taaki log use kar sake lekin problem yeh hoti hai ki naye features aate hain ya bugs fix karne hote hain toh baar baar manually sab karna padta hai jo time waste aur error prone hota hai yahi pe DevOps aata hai DevOps engineer aise tools aur scripts banate hain jo yeh sab kaam automatically kar dete hain jaise naye code ko turant test karke server pe deploy kar dena aur system ko 24 7 monitor karna ki sab sahi chal raha hai ya nahi Roz ka kaam code ko smoothly chalana bugs ko fast fix karna naya feature deploy karna bina app band kiye system ki health check karte rehna jaise tum ghar ka electric system aisa bana do ki light khud on off ho jaye fan speed khud adjust ho jaye bina tumhare action ke waise hi DevOps makes software smart aur automatic taaki developers sirf naye ideas pe focus kare aur system khud chalti rahe bina kisi  tension ke .... Jaise tumhare Android phone pe auto Update kaise ajate hai ? Bina developer ke pass phone gye !! Aur ek dum smoothly....pehle ye manually hota tha devOps se pehle bht time consuming and error bht hote the isliye devOps ka concept aya ..
+12/09/2025, 20:23 - +91 79033 07775: Seems interesting 🤔
+12/09/2025, 20:24 - +91 79033 07775: Thoda complex hai par kaafi useful hai
+12/09/2025, 20:25 - +91 89578 11952: Yes start pe bht theoretical way pe pdhoge to boring lgega
+12/09/2025, 20:25 - +91 89578 11952: When you start making mini project and start using tools it seems interesting 😅
+12/09/2025, 20:26 - +91 79033 07775: Aise koi samjhaya hi nahi mai devops ko hamesha aws aur docker wagera se jodta tha
+12/09/2025, 20:30 - +91 89578 11952: Are wo AWS to cloud infrastructure ko manage krne ke liye hota hai docker ( came from the ship dock jaha saman load hoke idhar se udhar jata hai same wahi kaam docker ka portability ka) kubernetes se container ko efficiently manage krte hai ....overall ye sb tools hai devOps concept pe ( CI/CD ) ke liye
+12/09/2025, 20:30 - +91 79033 07775: Ig we learn something new daily 😅
+12/09/2025, 20:31 - +91 89578 11952: Yes bro we all are learners ✨
+12/09/2025, 23:41 - +91 94233 97787: P
+12/09/2025, 23:41 - +91 94233 97787: 😸🧌
+12/09/2025, 23:43 - +91 89578 11952: ?
+12/09/2025, 23:43 - +91 89578 11952: P
+12/09/2025, 23:44 - +91 95361 85196: Anyone doing dsa
+12/09/2025, 23:44 - +91 95361 85196: Anyone done gsoc?
+12/09/2025, 23:45 - +91 89578 11952: Yes just started 😅
+12/09/2025, 23:45 - +91 89578 11952: Nope
+12/09/2025, 23:46 - +91 89578 11952: Is anyone here 3rd year or 4th year? Student
+12/09/2025, 23:51 - +91 94323 86627: Yeah
+12/09/2025, 23:51 - +91 99743 98796: 1st year..
+12/09/2025, 23:52 - +91 94323 86627: 4th
+13/09/2025, 00:42 - +91 86380 78177: 3rd 🙂
+13/09/2025, 00:44 - +91 96254 97063: 3rd
+13/09/2025, 00:45 - +91 92168 63374: Hey, does anyone know how to find orgs for android dev (native)
+13/09/2025, 00:52 - +91 62892 43103: ++
+13/09/2025, 01:09 - +91 78754 48850: Bohot clear understanding hai bhai 🫡...
+
+Resources?
+13/09/2025, 01:13 - +91 89578 11952: This playlist for learning https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=1uJ05FiIGLLII-15
+
+And book by 
+Gene kim - the phoenix project 
+
+For better understanding 
+
+https://youtube.com/playlist?list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&si=J_NedSf--08c_SRn
+13/09/2025, 01:23 - +91 78754 48850: Thnx bro 🤝🏼
+13/09/2025, 02:35 - ~ Daksh:) added +91 83207 70148
+13/09/2025, 08:26 - +91 99743 98796: Read description you will find link...
+13/09/2025, 11:03 - ~ Miten J. Gandhi was added
+13/09/2025, 11:03 - +91 87993 77093 joined using a group link.
+13/09/2025, 11:11 - ~ Piyush Shah added ~ Monesh Patidar
+13/09/2025, 13:18 - +91 74540 17870 was added
+13/09/2025, 13:18 - +91 74540 17870 joined using a group link.
+13/09/2025, 15:29 - ~ Anshika Jain was added
+13/09/2025, 15:29 - +91 97533 50861 joined using a group link.
+13/09/2025, 20:49 - +91 89578 11952: <Media omitted>
+13/09/2025, 22:08 - +91 63622 28473: Hey folks, Which one do you think is better to learn career wise either devOps or webdev?
+13/09/2025, 22:10 - +91 96014 83320: Devops
+13/09/2025, 22:10 - +91 72093 61161: For devops you should have atleast some knowledge of web dev
+13/09/2025, 22:10 - +91 79033 07775: Devops is niche compare to webdev
+13/09/2025, 22:10 - +91 79033 07775: +1
+13/09/2025, 22:17 - ~ _________________________ was added
+13/09/2025, 22:17 - +91 91109 75505 joined using a group link.
+13/09/2025, 22:17 - +91 63622 28473: But i heard devOps has fewer opportunities compared to full stack.
+13/09/2025, 22:18 - +91 79033 07775: Ain't it more like a senior role?
+13/09/2025, 22:18 - +91 88827 45233: guys i am very new to tech world but basic of C++ i want to do GSoc project having laguage of C++ can anyone let mw know how an i start plss
+13/09/2025, 22:19 - +91 72093 61161: At beginning level, getting opportunity as devops engineer is difficult
+13/09/2025, 22:19 - +91 63622 28473: Yeh true, devOps comes after some experience not usually for freshers
+13/09/2025, 22:19 - +91 79033 07775: Ha that's what I heard
+13/09/2025, 22:20 - +91 72093 61161: Learn c++ very well, search for projects in cpp on gsoc website, start contributing
+13/09/2025, 22:23 - +91 88827 45233: i done basic ,STL and OOPS topic do u feel i am ready for basic project to contribute?
+13/09/2025, 22:24 - +91 72093 61161: Yes, learn by contributing
+13/09/2025, 22:30 - +91 83207 70148 added +91 95583 07876
+13/09/2025, 22:42 - +91 89578 11952: devOps
+13/09/2025, 22:43 - +91 89578 11952: Who said?
+13/09/2025, 22:43 - +91 99183 62188: Can you learn devops before web dev
+13/09/2025, 22:43 - +91 79033 07775: Basic web dev is needed
+13/09/2025, 22:44 - +91 89578 11952: Yes, but I have prior knowledge of web dev that's why I didn't faced any problem
+13/09/2025, 22:45 - +91 89578 11952: Go ahead , you'll not face any problem regarding it
+13/09/2025, 22:46 - +91 99183 62188: I am learning backend for now in node
+13/09/2025, 22:46 - +91 89578 11952: Yes bro , when you start contributing you'll gain experience,, not only about the project but also about the concept basic and the most important is git and GitHub ✨
+13/09/2025, 22:47 - +91 89578 11952: Great bro keep going
+13/09/2025, 22:47 - +91 99183 62188: Thanks
+13/09/2025, 22:54 - +91 63622 28473: Yo! No one here just something i came across
+13/09/2025, 22:55 - +977 976-5826617: Idk, i feel devops is something that senior webdevs do automatically
+13/09/2025, 22:56 - +977 976-5826617: good developers can become excellent devops engineer
+13/09/2025, 22:57 - +91 89578 11952: Yeah it's true at start you'll get less oportunity but it doesn't mean devOps is not better carrier it depends on your skills how perfectly you have mastered.. market of web dev is saturated nowadays...but in devOps there still less learners ✨
+13/09/2025, 22:57 - +91 63622 28473: Makes sense..so in a way devOps isn't separate at the start.
+13/09/2025, 22:57 - +91 89578 11952: Yes it is practicing a certain skill over period of time makes you skillful ✨
+13/09/2025, 22:58 - +977 976-5826617: no, idk i hear people say you dont need web dev knowledge to become DevOps engineer...
+13/09/2025, 23:00 - +977 976-5826617: but its so wrong, when you know what is in the code, you can operate it very well
+13/09/2025, 23:01 - +91 89578 11952: Bro devOps isn't all about coding it's about automation 😐
+13/09/2025, 23:02 - +977 976-5826617: I work in a place, where i started as frontend dev but now i do work with docker, have proper cloud knowledge,  good understanding of CI/CD
+13/09/2025, 23:02 - +91 63622 28473: Right, Ig DevOps is more about system, cloud and automation skills than   just WebDev,
+13/09/2025, 23:02 - +977 976-5826617: i haven't finished my talk yet, so
+13/09/2025, 23:03 - +977 976-5826617: so as a developer, i felt this is a lot easier when you know whats in the code
+13/09/2025, 23:03 - +977 976-5826617: in real life it wont be like, i know only this ...so i will work with this
+13/09/2025, 23:04 - +977 976-5826617: they will throw random never seen problems and expects you to fix it
+13/09/2025, 23:05 - +977 976-5826617: so i say atleast have some knowledge of webdev, you dont need it but it can be very helpful
+13/09/2025, 23:10 - +91 88827 45233: Thanks buddy
+14/09/2025, 09:40 - +91 82529 59256 joined using a group link.
+14/09/2025, 09:47 - +91 62071 50277 joined using a group link.
+14/09/2025, 18:09 - +1 (727) 558-0641 was added
+14/09/2025, 18:09 - +1 (727) 558-0641 joined using a group link.
+14/09/2025, 18:35 - +91 94517 44774 joined using a group link.
+14/09/2025, 20:42 - +91 70610 48413 joined using a group link.
+15/09/2025, 07:25 - +91 81269 96333 joined using a group link.
+16/09/2025, 00:43 - +91 90823 68339 joined using a group link.
+16/09/2025, 12:09 - +91 98427 40700: How long does it take to JS and React
+16/09/2025, 12:15 - +91 89578 11952: 3 month if you are giving 1-2 h daily with practice
+16/09/2025, 12:15 - +91 98427 40700: Thanks bro
+16/09/2025, 12:25 - +91 91109 75505: can u suggest any course ?? for mern stack
+16/09/2025, 12:25 - +91 89578 11952: free or paid?
+16/09/2025, 12:30 - +91 89578 11952: FOR FREE COURSE  check out   https://youtube.com/@freecodecamp?si=PYd_TO-92hwj93D8
+16/09/2025, 12:30 - +91 89578 11952: and paid one you can buy any from udemy
+16/09/2025, 12:31 - +91 89578 11952: but at the end its not about lectures its about project you build learning you gain ..
+16/09/2025, 12:33 - +91 91109 75505: hm totally agree with u ... Thank u btw
+16/09/2025, 13:02 - +91 95361 85196: Mern vs bootstrap
+16/09/2025, 13:07 - +91 89578 11952: It depends what you want to build , what your interests are
+16/09/2025, 13:10 - +91 95361 85196: High package
+16/09/2025, 13:10 - +91 95361 85196: Dsa
+16/09/2025, 13:59 - +91 88827 45233: Anyone has idea about opencv? <This message was edited>
+16/09/2025, 14:01 - +91 89578 11952: What do you want to know?
+16/09/2025, 14:04 - +91 80741 07291: Guys please tell I am wasting my time changing my mind everytime and learning this that without sticking on one 
+
+I started with React,Django(+drf),sql and in holidays I joined GenAI cohort and with that did Fastapi and now college everyone says interns or opensource where only django has choice while stopped GenAI thinking not much and messing things very much
+Any suggestions
+16/09/2025, 14:04 - +91 80741 07291: Even apart from opensource
+16/09/2025, 14:06 - +91 89578 11952: It's common with everyone
+16/09/2025, 14:06 - +91 89578 11952: So you have to stick to one firstly
+16/09/2025, 14:06 - +91 99743 98796: Very Relatable Bro. I am also messing up everything Web dev,DSA and Ai So I picked one thing at time and Don't changed that
+16/09/2025, 14:07 - +91 99743 98796: I only do Web Dev and College stuff
+16/09/2025, 14:07 - +91 99743 98796: I also Wanted to start DSA but things messed so I cant do it
+16/09/2025, 14:09 - +91 89578 11952: I suggest you to go with django +react+sql only genai and fastapi are not for beginner friendly as you are aiming for internship ...learn these three and build project..as you get internship for side learning genai and fastapi cause you can't get internship quickly from these ..
+16/09/2025, 14:09 - +91 89578 11952: Which sem?
+16/09/2025, 14:09 - +91 99743 98796: First!!
+16/09/2025, 14:10 - +91 81269 96333: Can't seem to find projects that align with my tech stack, how can I find those?
+16/09/2025, 14:10 - +91 99743 98796: Absolutely RIght go with that and Make Project and Internship.
+16/09/2025, 14:10 - +91 99743 98796: ChatGPT
+16/09/2025, 14:10 - +91 89578 11952: So focus on college bro don't go for dsa you will get time
+16/09/2025, 14:10 - +91 89578 11952: Which ?
+16/09/2025, 14:11 - +91 99743 98796: Yes Exactly I am only do College and web dev
+16/09/2025, 14:11 - +91 89578 11952: Don't ran to Chatgpt frequently 🥲
+16/09/2025, 14:11 - +91 89578 11952: Try to put research on internet separate
+16/09/2025, 14:11 - +91 81269 96333: Idk t3 mern anything would work
+16/09/2025, 14:12 - +91 99743 98796: Give Your All TEckstack to Chatgpt and told him to suggest give me 5 projects according my techstack
+16/09/2025, 14:12 - +91 89578 11952: Yeah
+16/09/2025, 14:13 - +91 99743 98796: You Don't Have to Write Code from chatgpt only project idea you have to get according to your teckstack.
+This is the best way find projects
+16/09/2025, 14:13 - +91 89578 11952: Exactly 💯
+16/09/2025, 14:34 - +91 79033 07775: How is harkirat cohort 3.0
+16/09/2025, 15:09 - +91 70499 98693 was added
+16/09/2025, 15:00 - Join other topic-based groups in this community and get admin announcements
+Anyone in the community can join this group
+Your profile is visible to admins
+16/09/2025, 15:04 - +91 70499 98693 joined using a group link.
+16/09/2025, 15:06 - +91 94323 86627: Follow this link to join my WhatsApp community: https://chat.whatsapp.com/L3Xwa8Mvev0D7s4nfT5vMk
+16/09/2025, 15:06 - +91 94323 86627: Made a community with various other groups
+16/09/2025, 15:06 - +91 94323 86627: Plz join
+16/09/2025, 15:14 - +91 70156 58627: Anyone got tips to get the first internship
+
+I completed MERN stack, but need good projects for resume
+
+What things to focus on , projects or jump to python, fast api etccc
+16/09/2025, 15:14 - +91 94323 86627: It's better to start with a research intern at first
+16/09/2025, 15:15 - +91 70156 58627: 7th sem just started
+
+-Open source
+-Hackathons
+-Projects and Internship
+
+want to do each point but don't know how ll i manage?
+16/09/2025, 15:15 - +91 94323 86627: Lol I'm also in 7th sem
+16/09/2025, 15:15 - +91 94323 86627: Yeah it's true managing time is tough
+16/09/2025, 15:16 - +91 70156 58627: how's a research internship different
+16/09/2025, 15:16 - +91 94323 86627: You get to work in a real life project under a prof
+16/09/2025, 15:17 - +91 99743 98796: I am in first sem and expecting mern stack will complete by December with  project that i needed
+16/09/2025, 15:17 - +91 79033 07775: ..
+16/09/2025, 15:19 - +91 70156 58627: provides you a structured path, karna to khud hi hai
+16/09/2025, 15:22 - +977 976-5826617: refferals
+16/09/2025, 15:22 - +977 976-5826617: easiest tip
+16/09/2025, 15:23 - +91 79033 07775: What if someone got less connections😔
+16/09/2025, 15:23 - +977 976-5826617: naah i mean
+16/09/2025, 15:23 - +977 976-5826617: first work on yourself
+16/09/2025, 15:23 - +977 976-5826617: when you are confident enought
+16/09/2025, 15:24 - +977 976-5826617: do research about the company that you want work in, connect someone there
+16/09/2025, 15:24 - +977 976-5826617: show your projects and tell them to inform you about future opportunities
+16/09/2025, 15:24 - +977 976-5826617: if you are capable enough, they will 100% recommend you
+16/09/2025, 15:29 - +91 94323 86627: Update the Discord link I think it is not working
+16/09/2025, 15:30 - +91 70156 58627: that makes sense
+
+
+But the thing is like I m not able to decide a endpoint/goal for next 2 months
+
+Too much uncertainty, should I do this or that.
+
+Can you suggest something like this is enough to be call myself capable
+16/09/2025, 15:31 - +91 94323 86627: According to me any online courses are not worth it enough yt material is already available and we just have to make use of it and keep consistent
+16/09/2025, 15:31 - +977 976-5826617: build one two big projects
+16/09/2025, 15:32 - +91 70156 58627: define big projects
+16/09/2025, 15:32 - +977 976-5826617: the only problem here is , many people wont reply you back
+16/09/2025, 15:32 - +91 70156 58627: tru 😭
+16/09/2025, 15:32 - +91 89578 11952: Exactly for my Poc there is enough content to learn from yt itself don't buy courses
+16/09/2025, 15:32 - +91 79033 07775: Do certifications help
+16/09/2025, 15:32 - +977 976-5826617: yeah
+16/09/2025, 15:32 - +977 976-5826617: only to show in linkedin
+16/09/2025, 15:32 - +91 94323 86627: not much
+16/09/2025, 15:32 - +91 70156 58627: .
+16/09/2025, 15:33 - +977 976-5826617: whats ur stack
+16/09/2025, 15:33 - +977 976-5826617: i will find you one
+16/09/2025, 15:33 - +91 70156 58627: MERN for now
+16/09/2025, 15:33 - +977 976-5826617: i have certifications, but all useless bro, only helps to make linkedin better.....I have seen cracked developers without any certifications
+16/09/2025, 15:34 - +977 976-5826617: they build anything
+16/09/2025, 15:34 - +977 976-5826617: from mobile, webapps, to working with AI models
+16/09/2025, 15:34 - +977 976-5826617: currently working on an ASR
+16/09/2025, 15:34 - +91 94323 86627: I have intern certs from IITs yet they feel useless let alone course certs <This message was edited>
+16/09/2025, 15:34 - +977 976-5826617: i will find you one wait, give me time, at work rn
+16/09/2025, 15:35 - +91 89578 11952: Really?
+16/09/2025, 15:35 - +91 94323 86627: Unless you are in an interview
+16/09/2025, 15:35 - +91 89578 11952: Oh for now it's not but in future it will
+16/09/2025, 15:36 - +91 94323 86627: Yes
+16/09/2025, 15:36 - +91 84219 07570 joined using a group link.
+16/09/2025, 15:39 - +91 79033 07775: How's is a E-commerce website like ik it's nothing unique
+16/09/2025, 15:40 - +977 976-5826617: done by everyone, i dont think it will make you stand out
+16/09/2025, 15:40 - +977 976-5826617: but it will help you alot
+16/09/2025, 15:40 - +977 976-5826617: moreover if you integrate payments and all
+16/09/2025, 15:40 - +91 79033 07775: Yes like it teaches but it is nothing new
+16/09/2025, 15:40 - +977 976-5826617: yeah
+16/09/2025, 15:41 - +977 976-5826617: underrated project, everyone seems to hate it
+16/09/2025, 15:41 - +977 976-5826617: but for self improvement its good
+16/09/2025, 15:41 - +91 75591 62728 joined using a group link.
+16/09/2025, 15:44 - +977 976-5826617: <Media omitted>
+16/09/2025, 15:45 - +977 976-5826617: saw this and felt like sharing with you all, too many beginners here
+16/09/2025, 15:45 - +977 976-5826617: be consistent guys
+16/09/2025, 15:48 - +91 98210 84124: are y'all participating in hacktoberfest
+16/09/2025, 15:48 - +91 98210 84124: or has anyone participated in the past
+16/09/2025, 15:49 - +91 95605 52341: i am participating this year
+16/09/2025, 15:49 - +91 79033 07775: Seniors like you make the journey way smoother for beginners like us
+16/09/2025, 15:50 - +977 976-5826617: i am not senior lol, just 8th sem student who is about to complete his 3 months intern
+16/09/2025, 15:51 - +977 976-5826617: Also, alot people are asking should i buy this course, that course .....
+16/09/2025, 15:52 - +977 976-5826617: if you all need resource, just signup to GitHub Student Developer Pack with your college IDs
+16/09/2025, 15:52 - +91 94323 86627: You are the most senior among us
+16/09/2025, 15:52 - +977 976-5826617: you will get all Tons of resources for free, hostings for free, so many course for free
+16/09/2025, 15:53 - +977 976-5826617: maybe but i am just like you guys
+16/09/2025, 16:05 - +91 91530 55596 joined using a group link.
+16/09/2025, 16:36 - +91 98194 16479 was added
+16/09/2025, 16:34 - +91 98194 16479 joined using a group link.
+16/09/2025, 16:49 - +91 94323 86627: https://github.com/dishana11/open_source_organizations
+16/09/2025, 18:57 - +91 81270 08180 was added
+16/09/2025, 18:57 - +91 81270 08180 joined using a group link.
+16/09/2025, 19:00 - +91 92721 99548 joined using a group link.
+16/09/2025, 19:00 - +91 91222 01285 joined using a group link.
+16/09/2025, 19:01 - +91 87944 40773 joined using a group link.
+16/09/2025, 19:01 - +91 85179 45007 joined using a group link.
+16/09/2025, 19:06 - ~ UTKARSH BHADAURIA was added
+16/09/2025, 19:05 - +91 97701 53211 joined using a group link.
+16/09/2025, 19:08 - +91 80925 05329 joined using a group link.
+16/09/2025, 19:08 - +91 70782 36617 joined using a group link.
+16/09/2025, 19:15 - +91 89828 40150 joined using a group link.
+16/09/2025, 19:15 - +91 89828 40150 was added
+16/09/2025, 19:17 - +91 76315 64698 joined using a group link.
+16/09/2025, 19:39 - +91 80854 58126 joined using a group link.
+16/09/2025, 19:45 - +91 80854 58126 was added
+16/09/2025, 19:45 - +91 89894 20129 joined using a group link.
+16/09/2025, 19:46 - ~ Saumil Savaliya was added
+16/09/2025, 19:45 - +91 79845 13507 joined from the community
+16/09/2025, 20:56 - ~ Ojas was added
+16/09/2025, 20:56 - +91 92595 52511 joined from the community
+16/09/2025, 21:01 - ~ Tarun shriwash was added
+16/09/2025, 21:01 - +91 70897 40501 joined using a group link.
+16/09/2025, 21:11 - ~ Farhan Ansari was added
+16/09/2025, 21:11 - ~ Nishant Tiwari added ~ Farhan Ansari
+16/09/2025, 22:01 - +91 90364 18885: Guys please star my MacOS based portfolio repo https://github.com/BEASTSHRIRAM/PORTFOLIO checkout this live sriramdev.me <This message was edited>
+16/09/2025, 22:11 - +91 76680 75857 was added
+16/09/2025, 22:11 - +91 76680 75857 joined using a group link.
+16/09/2025, 22:31 - +91 62010 06188: anyone targeting ml organizations ?
+16/09/2025, 22:34 - +91 90320 35792: Yes
+16/09/2025, 22:34 - +91 87993 77093: yepp
+16/09/2025, 22:35 - +91 94467 29459: Yess
+16/09/2025, 22:35 - +91 92168 63374: This message was deleted
+16/09/2025, 22:36 - +91 92168 63374: This message was deleted
+16/09/2025, 22:36 - +91 92168 63374: any one looking for android dev org's ??
+16/09/2025, 22:44 - +91 83494 31977 joined using a group link.
+16/09/2025, 22:45 - +91 93941 22385 joined using a group link.
+16/09/2025, 22:46 - +91 93034 82992 joined using a group link.
+16/09/2025, 22:46 - +91 82090 52677 joined using a group link.
+16/09/2025, 22:46 - +91 94067 79774 joined using a group link.
+16/09/2025, 22:47 - +91 95165 58214 joined using a group link.
+16/09/2025, 22:55 - +91 77710 34024 joined using a group link.
+16/09/2025, 22:58 - +91 73896 22906 joined using a group link.
+16/09/2025, 23:09 - +91 84355 45355 was added
+16/09/2025, 23:09 - +91 84355 45355 joined using a group link.
+16/09/2025, 23:17 - +91 93294 97276 joined using a group link.
+16/09/2025, 23:58 - +91 62321 02779 joined using a group link.
+16/09/2025, 23:59 - +91 62321 02779 was added
+17/09/2025, 03:13 - +91 72518 58236 joined using a group link.
+17/09/2025, 05:59 - +91 70498 57902 joined using a group link.
+17/09/2025, 05:59 - ~ Jay was added
+17/09/2025, 07:21 - +91 79700 17369 was added
+17/09/2025, 07:20 - +91 79700 17369 joined using a group link.
+17/09/2025, 08:29 - ~ Maxx 🏎️ was added
+17/09/2025, 08:29 - +91 62808 47324 joined using a group link.
+17/09/2025, 08:45 - +91 90270 19759 joined using a group link.
+17/09/2025, 11:04 - ~ Priyanshu Bora was added
+17/09/2025, 11:04 - +91 79063 53861 joined using a group link.
+17/09/2025, 11:04 - +91 79991 56738 joined using a group link.
+17/09/2025, 12:26 - +91 98427 40700: I am in my 1 st year i was leaning MERN stack to participate in GSoC 2026 , at the same time I have a confusion whether I should learn MERN or DSA . Which should I focus first
+17/09/2025, 12:34 - +91 70282 52373: Honestly I don't think there's any use of DSA in open source contribution
+17/09/2025, 12:34 - +91 70282 52373: If ur seriously trying to crack gsoc, master mern stack
+17/09/2025, 12:57 - +91 95361 85196: My pov - you have to learn both.
+If you are from a top tier college learn dsa first, else learn mern first.
+17/09/2025, 13:10 - +91 91711 43223 joined using a group link.
+17/09/2025, 14:14 - +91 99743 98796: Same situation Bro in I am also first year.
+17/09/2025, 14:16 - ~ Saumil Savaliya added ~ 𝕂𝕣𝕚𝕤𝕙 𝕧✫𝕕✫𝕝𝕚𝕪✫, +91 70439 91982 and +91 75673 00853
+17/09/2025, 14:25 - ~ Iban Kang was added
+17/09/2025, 14:25 - +91 99151 01313 joined using a group link.
+17/09/2025, 18:11 - +91 62010 06188: Bro if u are from old iits or bits p or iiit h then learn dsa and do cp if u want placements only if you want to explore that's fine but focus mostly on cp and cgpa from an old iit  senior
+17/09/2025, 19:11 - +91 80800 45334: hey dude i am also in first year  but from a local colloge should i also do CP ??
+17/09/2025, 19:15 - +91 94323 86627: What should I do I am 4th yr from old iit, with no corporate interns, weak in dsa but good in ml
+17/09/2025, 19:16 - +91 62010 06188: Bruh what were u doing which iit ?? Ask seniors bro cg toh aachi hain na
+17/09/2025, 19:17 - +91 94323 86627: Kgp
+17/09/2025, 19:17 - +91 94323 86627: bekar clg hai bhai
+17/09/2025, 19:17 - +91 62010 06188: Bruhh I am also from kgp
+17/09/2025, 19:17 - +91 62010 06188: Pata hain bhai
+17/09/2025, 19:18 - +91 92168 63374: i am from iiit good in both cp and dev but a litte bit better in dev what should i do
+17/09/2025, 19:18 - +91 94323 86627: Lol true
+17/09/2025, 19:18 - +91 94323 86627: which year
+17/09/2025, 19:19 - +91 62010 06188: 3 rd yr dual degree meh hoon toh interns next yr
+17/09/2025, 19:19 - +91 94323 86627: branch kya hai
+17/09/2025, 19:20 - +91 79033 07775: IIT kgp bekkar hai? 😭
+Meanwhile most of us from t3
+17/09/2025, 19:20 - +91 94323 86627: Bahar se aisa lagta hai
+17/09/2025, 19:20 - +91 62010 06188: Agri
+17/09/2025, 19:20 - +91 96956 55570: Main iitk se hu yha pe kaafi shi cp culture h
+17/09/2025, 19:20 - +91 96956 55570: But dev thoda weak h
+17/09/2025, 19:20 - +91 62010 06188: Bhai ganda cllg hain
+17/09/2025, 19:20 - +91 94323 86627: hall?
+17/09/2025, 19:21 - +91 62010 06188: Jcb
+17/09/2025, 19:21 - +91 62010 06188: Wah
+17/09/2025, 19:21 - +91 62010 06188: Wau
+17/09/2025, 19:21 - +91 94323 86627: Cp to karna hi hai
+17/09/2025, 19:21 - +91 94323 86627: abhi to tumne cdc dekha kaha hai
+17/09/2025, 19:21 - +91 96956 55570: Mere se nhi hota cp
+17/09/2025, 19:21 - +91 94323 86627: Same
+17/09/2025, 19:22 - +91 62010 06188: Agle saal hain
+17/09/2025, 19:22 - +91 94323 86627: tab aur bhi bekar lagega
+17/09/2025, 19:22 - +91 79033 07775: Ain't dsa enough I mean cp is like cherry on top but I don't think so it's even mandatory
+17/09/2025, 19:22 - +91 62010 06188: Oh branch kya hain apka
+17/09/2025, 19:23 - +91 94323 86627: ME
+17/09/2025, 19:23 - +91 62010 06188: Pata nahi bhai atleast   seniors yahi kehta hain
+17/09/2025, 19:23 - +91 62010 06188: Cp is must
+17/09/2025, 19:23 - +91 94323 86627: Cp is for OAs
+17/09/2025, 19:24 - +91 94323 86627: My interviewer said dev will get you the role and dsa will get you the interview
+17/09/2025, 19:24 - +91 94323 86627: Halaki I got rejected
+17/09/2025, 19:24 - +91 62010 06188: Hein seniors toh keh rahe hain bass cp karo
+17/09/2025, 19:25 - +91 94323 86627: Adhe logo ko ghnta kuch nehi pata sabse funda nehi lena hota hai bhai
+17/09/2025, 19:27 - +91 62010 06188: Toh agle saal ka liye kya karu
+17/09/2025, 19:27 - +91 62808 47324: Duhhhh in this group how many of u are from IITs
+17/09/2025, 19:28 - +91 94323 86627: Dm
+17/09/2025, 19:28 - +91 96956 55570: Cp for quant dsa for sde
+17/09/2025, 19:29 - +91 96956 55570: Even top tier sde roles in hedge funds and quants need you to have decent cp skills
+17/09/2025, 19:30 - +91 81269 96333: Any 3rd/4th year guy here?
+17/09/2025, 19:30 - +91 94323 86627: Cp>>dsa>>dev=ml right
+17/09/2025, 19:30 - +91 94323 86627: 4th
+17/09/2025, 19:31 - +91 96956 55570: Cp and stats
+17/09/2025, 19:31 - +91 62010 06188: Bro quant wale log yaha kyu hi honge
+17/09/2025, 19:31 - +91 96956 55570: Experience k lie krte h
+17/09/2025, 19:32 - +91 81269 96333: Are you trying to get into gsoc next year? Or like are you a mentor here
+17/09/2025, 19:33 - +91 94323 86627: No participant
+17/09/2025, 19:34 - +91 81269 96333: Bhai do you wanna like help eachother with this? I want someone jo discord ajae saath mai
+17/09/2025, 19:34 - +91 81269 96333: LinkedIn?
+17/09/2025, 19:36 - +91 79033 07775: How many people go to quant firms each yr from iit kgp
+17/09/2025, 19:37 - +91 62010 06188: 30
+17/09/2025, 19:38 - +91 62010 06188: Intern ke liye placement meh thora jyada hoga but most quant firms aa jati hain for interns
+17/09/2025, 19:38 - +91 94323 86627: Discord ka link hai description me
+17/09/2025, 19:39 - +91 92168 63374: invalid h link
+17/09/2025, 19:40 - +91 79033 07775: Damn kaash thoda aur padh leta
+17/09/2025, 19:40 - +91 62010 06188: Koi na bhai konsa sab cs/mnc meh sabka lagta hain
+17/09/2025, 19:41 - +91 94323 86627: https://discord.gg/WpXAjfDf
+17/09/2025, 19:41 - +91 97075 78703: Sad reality but the present scenes in India 😞
+17/09/2025, 19:42 - ~ Ayush changed the group description
+17/09/2025, 19:42 - +91 96956 55570: In iitk like 6-8
+17/09/2025, 19:42 - +91 94323 86627: 🥲🥲
+17/09/2025, 19:42 - +91 96956 55570: !!
+17/09/2025, 19:42 - +91 96956 55570: Thats too much
+17/09/2025, 19:43 - +91 94323 86627: Itna nehi hota
+17/09/2025, 19:43 - +91 62010 06188: Bhai 6 logon ka toh optiver hi hogaya kgp meh
+17/09/2025, 19:43 - +91 94323 86627: Itna hi hai approx
+17/09/2025, 19:43 - +91 96956 55570: Intern nhi bol rha
+17/09/2025, 19:43 - +91 96956 55570: Placement
+17/09/2025, 19:43 - +91 97075 78703: You go to european tech countries or in North America
+
+Everything is equal
+
+But in India now CP rat race is another stuff like JEE
+17/09/2025, 19:43 - +91 62010 06188: Intern meh toh numbers alag hain
+17/09/2025, 19:44 - +91 62010 06188: Oh
+17/09/2025, 19:44 - +91 62010 06188: Was talking about interns
+17/09/2025, 19:44 - +91 94323 86627: Everything is a rat abhi to gsoc bhi rat race ban chuka hai
+17/09/2025, 20:06 - +91 79033 07775: Yaha logo ke paas paise nahi hai toh jaha logo ko opportunities milegi they will go like india me kitne saare log mba karte hai without even having interest just to get a higher package <This message was edited>
+17/09/2025, 20:28 - +91 99743 98796: <Media omitted>
+17/09/2025, 20:29 - +91 99743 98796: But GSoC has rule of 18+?
+17/09/2025, 20:38 - +91 97075 78703: Might be a type of promotion 
+
+Like he maybe be 18 when he gave his proposal but was 17 before so they used it as advertisement
+17/09/2025, 20:38 - +91 99743 98796: Absolutely
+17/09/2025, 20:38 - +91 99743 98796: Hype made
+17/09/2025, 20:39 - +91 76450 74177: iss gc mei kuch kaam ki baat hoti hai ya sirf chats ?
+17/09/2025, 20:39 - +91 76450 74177: you guys should give organisation name slist
+17/09/2025, 20:39 - +91 76450 74177: etc
+17/09/2025, 20:40 - +91 99743 98796: Check group description bro first
+17/09/2025, 20:40 - +91 76450 74177: where to contribute list & how can we tackle ai while contributing etc
+17/09/2025, 20:40 - +91 99743 98796: Then ask any query everyone is here to help...
+17/09/2025, 20:41 - +91 99743 98796: https://www.gsocorganizations.dev/
+17/09/2025, 20:41 - +91 76450 74177: so that our contribution can be more meaningful etc!
+17/09/2025, 20:42 - +91 76450 74177: is this your site it is good!
+17/09/2025, 20:42 - +91 99743 98796: Nono... Everyone use that for find orgs
+17/09/2025, 20:43 - +91 97701 53211: Hello guys 🤠
+17/09/2025, 20:43 - +91 99743 98796: Hey
+17/09/2025, 20:44 - +91 97701 53211: Bhai yaha kya hota hai
+17/09/2025, 20:44 - +91 97701 53211: Yeh konse collage ka group hai
+17/09/2025, 20:45 - +91 99743 98796: Yaha Opensource orgs. Or Google summer of code related stuffs discuss hote hai
+17/09/2025, 20:46 - +91 97701 53211: Ohh
+17/09/2025, 20:47 - +91 82090 52677: Hello everyone I am Prashant Singh Sikarwar student of BTech CSE first year at Rustamji institute of technology
+17/09/2025, 20:47 - +91 81042 05239: Mumbai?
+17/09/2025, 20:47 - +91 82090 52677: Tekanpur near gwalior
+17/09/2025, 20:48 - +91 97701 53211: Aabe mp bol
+17/09/2025, 20:48 - +91 82090 52677: I which year you are
+17/09/2025, 20:48 - +91 81042 05239: Fy DJ sanghvi Mumbai
+17/09/2025, 20:54 - +91 82090 52677: Fy final or first year?
+17/09/2025, 20:56 - +91 82090 52677: What is the aim of this group?
+17/09/2025, 20:56 - +91 89578 11952: .
+17/09/2025, 21:01 - +91 82090 52677: I had learnt HTML and CSS from code with Harry Sigma web development course.
+17/09/2025, 21:17 - +91 85801 49535 joined using a group link.
+17/09/2025, 21:30 - ~ shivangi tripathi was added
+17/09/2025, 21:30 - +91 87995 65840 joined using a group link.
+17/09/2025, 22:29 - +91 81042 05239: First yr
+17/09/2025, 22:43 - +1 (617) 784-6010: Anyone here from a uni in the US?
+17/09/2025, 23:20 - +91 94323 86627: <Media omitted>
+18/09/2025, 00:11 - +91 75673 00853 added +91 63517 48001
+18/09/2025, 11:43 - +91 99743 98796: To Find roadmap according your interest:-
+https://roadmap.sh
+18/09/2025, 13:04 - ~ Shrey Agrawal added ~ Suryansh Soni
+18/09/2025, 16:12 - +91 77190 14887: Yeh kya rat race hai re ! Isse bhi bana lo rat race
+18/09/2025, 16:13 - +91 81042 05239: Jeeficiation of btech
+18/09/2025, 16:21 - +91 95605 52341: Seriously
+18/09/2025, 16:22 - +91 95605 52341: If PhD students in future get picked up by companies like OpenAI and Athropic in future, they will do open phd institutes
+18/09/2025, 16:22 - +91 95605 52341: As well
+18/09/2025, 16:23 - Ronit: i mean i would say the person who is doing it is smart because he knows the mentality of indian people .. but the people who follow it are stupid…
+18/09/2025, 16:40 - +91 94323 86627: like harkirat
+18/09/2025, 16:41 - +91 94323 86627: if everyone is building schools then who will study
+18/09/2025, 16:46 - +91 81042 05239: Yaa, man. It's a few examples that people run for
+18/09/2025, 16:46 - +91 81042 05239: Only 17k people can land in an IIT
+18/09/2025, 16:46 - +91 81042 05239: But literally 15lakh people appear for JEE mains
+18/09/2025, 16:46 - +91 81042 05239: And the count is increasing by the day
+18/09/2025, 16:47 - +91 79033 07775: Well said @⁨~Avrojit Dutta⁩
+18/09/2025, 17:19 - +91 81042 05239: These days even working professionals are taking courses
+18/09/2025, 17:20 - +91 81042 05239: Thanks sir
+18/09/2025, 17:20 - +91 81042 05239: Herd mentality also there is little scope to be successful outside big degrees
+18/09/2025, 17:21 - +91 81042 05239: Any one into BSc Physics or chem dont have much scope in India except govt jobs, or PhD research
+18/09/2025, 17:21 - +91 81042 05239: Or low level jobs 10 15k salary
+18/09/2025, 17:22 - +91 81042 05239: Those who land big are from well reputed college or learnt a lot of skills outside their degree in college
+18/09/2025, 17:24 - ~ Vraj Gajera was added
+18/09/2025, 17:24 - +91 90546 34135 joined using a group link.
+18/09/2025, 17:25 - +91 99743 98796: Now GSoC is not GSoC.....
+Gsoc is compititive exam.!
+18/09/2025, 17:25 - +91 81042 05239: That's true
+18/09/2025, 17:26 - +91 81042 05239: In India everything is competitive exam even CBSE boards
+18/09/2025, 17:27 - +91 77190 14887: Well, that way we Indians are not away from being banned. We saw who expressjs repo was filled with spam readme updates by dumb students watching apna college course. It led to such an embarrassment
+18/09/2025, 17:29 - +91 99743 98796: Yes...very rude things
+18/09/2025, 17:29 - +91 99743 98796: Doesn't care about project
+18/09/2025, 17:30 - +91 92168 63374: Yeah it's true , even in my college there are so many 
+Students in this condition
+18/09/2025, 17:37 - +91 62010 06188: Bruh it's better to discuss about open source rather than simply complaining about general things
+18/09/2025, 17:45 - +91 78914 00387 joined using a group link.
+18/09/2025, 17:46 - ~ Nishant Shukla was added
+18/09/2025, 18:01 - +91 70456 38616: Indeed
+18/09/2025, 18:04 - +91 81042 05239: What Apna college is bad? I have taken its DSA dev course... pls tell me if I have better options rn
+18/09/2025, 18:08 - +91 95361 85196: Nah! Go for it.
+18/09/2025, 18:08 - +91 81042 05239: Okay 👍
+18/09/2025, 18:08 - +91 81042 05239: Actually I can't study from yt
+18/09/2025, 18:08 - +91 81042 05239: It feels incomplete
+18/09/2025, 18:09 - +91 94323 86627: That's just a feeling yt has better courses than any paid ones
+18/09/2025, 18:10 - +91 92168 63374: I need suggestion ,
+Which is best for dsa apna college or striver's
+18/09/2025, 18:11 - +91 77190 14887: I don't want to demotivate you but I personally don't like apna college and some other Indian youtubers because they give a rat race feeling. It gives me some jee trauma which I am recovering from. Hence, i follow others. For web dev , I have followed foreigners. And for dsa I am doing striver sheet
+18/09/2025, 18:16 - +91 93293 17835: One thing i wanted to ask though, I'm interested in tech startups and stuff, but yeah as it's the first year in college so should I go for dsa as it's the need rn or should I go for something else to get into the startup thing
+18/09/2025, 18:17 - +91 93293 17835: Actually they won't be asking dsa in the first year obviously but there's obviously the feeling that maybe I'm falling behind
+18/09/2025, 18:17 - +91 74889 63230: I think just explore everything that you can in your first year.
+18/09/2025, 18:18 - +91 93293 17835: The thing is these dsa lectures are pretty long, so I don't want to start something and then leave it in between you see, so I'm confused about how to explore correctly without leaving something in between
+18/09/2025, 18:19 - +91 77190 14887: Not everything but a few things. Read and watch videos about everything but start doing something apart from college whether it is web dev or dsa. Choose one. I started with web dev and now I will be doing dsa. Continuing web dev I will be doing Gen ai with js or golang
+18/09/2025, 18:19 - +91 94323 86627: And you need to be consistent with dsa otherwise you will forget
+18/09/2025, 18:20 - +91 93293 17835: Yeah exactly what I'm thinking
+18/09/2025, 18:20 - +91 62010 06188: U can do  usaco guide for cp
+18/09/2025, 18:20 - +91 93293 17835: Web dev or dsa, which one should be started first
+18/09/2025, 18:20 - +91 94323 86627: Dsa
+18/09/2025, 18:20 - +91 81042 05239: Wow! Nice alternative. 
+I won't waste my 7k for 8 months. If I need more I will ask u
+18/09/2025, 18:20 - +91 77190 14887: I did web dev but dsa is not bad either
+18/09/2025, 18:21 - +91 93293 17835: I see
+18/09/2025, 18:21 - +91 77190 14887: I have also started dsa (very early currently on pattern printing). I am following striver
+18/09/2025, 18:21 - +91 87708 20916 joined using a group link.
+18/09/2025, 18:21 - +91 93293 17835: Yeah so maybe it won't hurt to start either one first
+18/09/2025, 18:21 - +91 93293 17835: Which year student are you btw
+18/09/2025, 18:30 - +91 77190 14887: First year. But I had a gap year after 12th due to medical reasons
+18/09/2025, 18:33 - +91 93293 17835: I see
+18/09/2025, 19:06 - +91 76488 33530 joined using a group link.
+18/09/2025, 19:07 - +91 76488 33530 was added
+18/09/2025, 19:10 - +91 96087 57340 joined using a group link.
+18/09/2025, 20:39 - +91 96916 07450 joined using a group link.
+18/09/2025, 23:41 - +91 95660 94170 joined using a group link.
+19/09/2025, 10:59 - +91 81793 48118 joined using a group link.
+19/09/2025, 18:17 - +91 98776 31783 was added
+19/09/2025, 17:14 - ~ ashutosh added +91 98776 31783
+19/09/2025, 19:39 - +91 63058 64053 joined using a group link.
+19/09/2025, 19:41 - ~ Fusion digital solutions was added
+19/09/2025, 21:08 - +91 79083 29866 joined using a group link.
+22/09/2025, 16:36 - +91 63765 17009 joined using a group link.
+22/09/2025, 21:46 - ~ HARSH ACADEMY LIVE was added
+22/09/2025, 21:46 - +91 78569 34617 joined using a group link.
+22/09/2025, 21:48 - +91 78569 34617 joined using a group link.
+22/09/2025, 23:40 - +91 94323 86627: https://github.com/google-deepmind/formal-conjectures
+22/09/2025, 23:40 - +91 94323 86627: started contributing to this repo
+22/09/2025, 23:51 - +91 94323 86627: Anyone like to join
+23/09/2025, 00:40 - ~ Samyak was added
+23/09/2025, 00:40 - +91 77670 42709 joined using a group link.
+23/09/2025, 01:19 - +91 62010 06188: how to find other repos of deepmind
+23/09/2025, 01:19 - +91 62010 06188: and ml4sci
+23/09/2025, 01:19 - +91 62010 06188: anyone contributing in these organization
+23/09/2025, 01:23 - +91 99183 62188: I find it hard reading code on GitHub
+What should I do
+23/09/2025, 01:28 - +91 94323 86627: They have all their repos in their GitHub link
+23/09/2025, 01:29 - +91 94323 86627: Yes
+23/09/2025, 01:30 - +91 94323 86627: Start by the beginner friendly issues and talk to the maintainers regularly
+23/09/2025, 02:18 - +91 72768 18006: https://www.linkedin.com/posts/mohit-mishra-007h_swipe-ugcPost-7375917064978534400-44Yl?utm_source=share&utm_medium=member_android&rcm=ACoAAD4EP3cBjygMQDJ77uHhlacS7TDfJfu8Xys
+23/09/2025, 02:18 - +91 72768 18006: This might help
+23/09/2025, 15:57 - ~ nomilistic was added
+23/09/2025, 15:57 - +92 339 6160004 joined using a group link.
+24/09/2025, 08:35 - ~ Sampath was added
+24/09/2025, 08:35 - +1 (405) 905-0479 joined using a group link.
+24/09/2025, 09:54 - +91 82998 14917: 
+24/09/2025, 11:02 - +91 82998 14917: 
+24/09/2025, 11:28 - +91 81042 05239: College name?
+24/09/2025, 11:28 - +91 81042 05239: Will outsider votes count?
+24/09/2025, 11:28 - +91 82998 14917: Iilm university
+24/09/2025, 11:29 - +91 82998 14917: No .. but there are so many students from college...
+24/09/2025, 11:36 - +91 85058 56478: Which branch?
+24/09/2025, 11:36 - +91 82998 14917: Cs
+24/09/2025, 11:36 - +91 85058 56478: Core?
+24/09/2025, 11:36 - +91 82998 14917: Yup
+24/09/2025, 11:37 - +91 85058 56478: What's your name
+24/09/2025, 11:37 - +91 82998 14917: Zeeshan
+24/09/2025, 11:37 - +91 85058 56478: Nice to meet you
+24/09/2025, 11:39 - +91 62690 63069: This message was deleted
+24/09/2025, 11:40 - +91 85058 56478: Which year btw?
+24/09/2025, 11:44 - +91 82998 14917: 2 nd year
+24/09/2025, 22:10 - +91 93116 95369 was added
+24/09/2025, 22:09 - +91 93116 95369 joined using a group link.
+25/09/2025, 02:59 - +234 703 625 6840 joined using a group link.
+25/09/2025, 02:59 - ~ Mr thank you changed the group description
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:00 - +234 703 625 6840: 
+25/09/2025, 03:01 - +234 703 625 6840: 
+25/09/2025, 03:01 - +91 79033 07775: Scammer
+25/09/2025, 03:02 - +91 79033 07775: Admin pls delete these messages
+25/09/2025, 03:02 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:03 - +234 703 625 6840: 
+25/09/2025, 03:10 - +234 703 625 6840: 
+25/09/2025, 03:10 - +234 703 625 6840: 
+25/09/2025, 03:10 - +234 703 625 6840: 
+25/09/2025, 03:10 - +234 703 625 6840: 
+25/09/2025, 03:10 - +234 703 625 6840: 
+25/09/2025, 03:10 - +234 703 625 6840: 
+25/09/2025, 05:12 - +91 70456 38616: Admin bahar nikaloo isko
+25/09/2025, 05:13 - +91 62010 06188: Wahi
+25/09/2025, 05:51 - +91 89578 11952: I have done for dsa group but unfortunately I'm not admin of another ones
+25/09/2025, 08:41 - ~ Nishant Dhanani removed ~ Mr thank you
+25/09/2025, 08:52 - ~ Nishant Dhanani deleted the group description
+25/09/2025, 08:52 - ~ Nishant Dhanani changed the settings so only admins can edit the group settings
+25/09/2025, 08:53 - +91 99743 98796 changed this group's settings to allow only admins to add others to this group.
+25/09/2025, 08:53 - +91 99743 98796 turned on admin approval to join this group.
+25/09/2025, 10:58 - +91 99743 98796: Guys hacktoberfest is here, start finding repos to contribute 
+
+All the best 🔥
+25/09/2025, 10:59 - +91 70456 38616: Lets go
+25/09/2025, 11:01 - +91 89578 11952: Link
+25/09/2025, 11:01 - +91 99743 98796: https://hacktoberfest.com/
+25/09/2025, 11:56 - ~ Ayush changed the group description
+26/09/2025, 20:32 - +91 99743 98796: Anyone using Linux arch in laptop?
+26/09/2025, 20:32 - +91 99743 98796: May be in dual boot?
+26/09/2025, 20:39 - +91 70282 52373: Indo
+26/09/2025, 20:40 - +91 70282 52373: I do
+26/09/2025, 20:42 - +91 95361 85196: When I turn off my laptop and touch the lid of the laptop, it's turned on, what can be an issue.
+26/09/2025, 20:43 - +91 99743 98796: Yeah may be Bios setting changed
+26/09/2025, 20:43 - +91 99743 98796: You asking when installed linux or just general windows ? <This message was edited>
+26/09/2025, 20:43 - +91 92595 52511: Faulty lid sensor
+26/09/2025, 21:00 - +91 95361 85196: Window
+26/09/2025, 21:01 - +91 95361 85196: Thik kese kru
+26/09/2025, 21:01 - +91 99743 98796: Repair shop if lid sensor hardware damage
+26/09/2025, 21:01 - +91 99743 98796: Or most of software problem
+26/09/2025, 21:02 - +91 95361 85196: Try everything in software
+26/09/2025, 21:02 - +91 99743 98796: Researched on youtube???
+26/09/2025, 21:02 - +91 95361 85196: Saw many videos, stack overflow, reedit, LLM
+26/09/2025, 21:02 - +91 99743 98796: Oh
+26/09/2025, 21:03 - +91 99743 98796: I think if you touch lead and laptop start may software related problem because setting changed and laptop not fully shutdown.
+26/09/2025, 21:04 - +91 95361 85196: I have a warrant,as msi provides for 2 years, I called and they referred to the service centre
+26/09/2025, 21:04 - +91 63058 64053: Yes
+26/09/2025, 21:04 - +91 99743 98796: My pc also auto restart after shutdown infinite loop
+26/09/2025, 21:04 - +91 95361 85196: Tried power reset
+26/09/2025, 21:04 - +91 99743 98796: If you have warrenty then go!
+26/09/2025, 21:04 - +91 99743 98796: Service centre
+26/09/2025, 21:04 - +91 99743 98796: Best solution for LAPTOP
+26/09/2025, 21:05 - +91 99743 98796: Install Linux on laptop is safe on boot related problem?? I have Lenovo Loq
+26/09/2025, 21:05 - +91 95361 85196: Yaa, going tomorrow
+26/09/2025, 21:06 - +91 95361 85196: Abhi iski warranty khtam hogi so linux install kr lunga
+26/09/2025, 21:07 - +91 99743 98796: I have also warrenty but urge to go on Linux
+26/09/2025, 21:07 - +91 99743 98796: Because love to spend time with os with deeply
+26/09/2025, 21:08 - +91 95361 85196: If i switch to linux, warranty still available?
+26/09/2025, 21:08 - +91 99743 98796: May be yes because hardware not opened.
+26/09/2025, 21:08 - +91 95361 85196: Semester m aayega os, to thik se pdenge.
+26/09/2025, 21:09 - +91 92595 52511: It's depend on the brand and warranty policy
+26/09/2025, 21:09 - +91 95361 85196: Koi spring boot or kotlin kr rha h?
+26/09/2025, 21:10 - +91 99743 98796: If you switch to Linux, your warranty availability depends on the manufacturer's policies. Some manufacturers, like LaptopwithLinux, offer warranties that remain valid even if you upgrade or modify your device with Linux. In fact, LaptopwithLinux provides a 2-year warranty on laptops and a 3-year warranty on Intel NUC (Linux Mini) devices. They also guarantee that the chosen Linux OS will work with the product for at least the lifetime of the chosen OS version.
+
+However, it's essential to review the warranty conditions and terms before making a purchase or switching to Linux. Some warranties might be voided if damage occurs due to self-repair, hardware upgrades, or improper use.
+
+*Key Points to Consider:*
+
+- *Warranty Period*: Typically 2 years for laptops and 3 years for Intel NUC devices
+- *Warranty Conditions*: Vary by manufacturer, so review terms carefully
+- *OS Support*: LaptopwithLinux guarantees Linux OS compatibility for the chosen version's lifetime
+- *Self-Repair and Upgrades*: May void warranty if not done properly
+
+To confirm warranty details, it's best to contact the manufacturer directly or review their documentation . META AI <This message was edited>
+26/09/2025, 21:27 - +91 94323 86627: Discord chat tonight?
+26/09/2025, 21:27 - +91 99743 98796: But server/chennal?
+26/09/2025, 21:27 - +91 94323 86627: See description
+26/09/2025, 21:28 - +91 94323 86627: https://discord.gg/Et2SGapW
+26/09/2025, 21:29 - ~ Ayush changed the group description
+26/09/2025, 21:40 - +91 95361 85196: Bhai koi mern ya aiml m experience h
+26/09/2025, 21:48 - ~ Nishant Dhanani pinned a message
+26/09/2025, 22:15 - +91 81262 94245: I'm completely rookie just know lil bit of html css  if I start from scratch will I be able to crack gsoc?
+26/09/2025, 22:16 - +91 79033 07775: Gsoc is not a entrance exam to 'CRACK'
+26/09/2025, 22:16 - +91 99743 98796: JEE
+26/09/2025, 22:16 - +91 81042 05239: In our nation everything is a rat race
+26/09/2025, 22:17 - +91 79033 07775: Stop Jeefication of every hackathon and every coding competition
+26/09/2025, 22:17 - +91 99743 98796: Sorry for that Bro
+26/09/2025, 22:17 - +91 99743 98796: But you start with very hard and all things go right way may be done
+26/09/2025, 22:18 - +91 99743 98796: We also don't know we can CRACK or not... <This message was edited>
+26/09/2025, 22:35 - +91 90549 11403: Even if you don't crack / get selected by an org, the journey will teach you a lot.... Just go for it
+27/09/2025, 10:41 - +91 60018 02452 joined using a group link.
+27/09/2025, 12:23 - +92 339 6160004: bro what journey/path to follow if i just know python/dsa currently? <This message was edited>
+27/09/2025, 12:27 - +91 77182 51760: mern sikh raha hoon
+27/09/2025, 12:27 - +91 77182 51760: experience toh nahi kah sakta but high level idea hai ki chise kaam kaisa karta hai
+27/09/2025, 12:30 - +91 99183 62188: Can you create simple websites like for some school in mern
+27/09/2025, 12:31 - +91 77182 51760: is it a management type or just basic frontend?
+27/09/2025, 12:32 - +91 99183 62188: it will have some basic backend also
+27/09/2025, 12:33 - +91 77182 51760: yeah I can do it
+27/09/2025, 12:34 - +91 99183 62188: what are you learning right now
+27/09/2025, 12:34 - +91 77182 51760: currently exploring nextjs
+27/09/2025, 12:35 - +91 99183 62188: have you learned jwt oauth web socket payment gateway things of that sort
+27/09/2025, 12:37 - +91 72093 61161: I can
+27/09/2025, 12:37 - +91 77182 51760: yeah
+27/09/2025, 12:38 - +91 99183 62188: then you know a lot of things jon snow
+27/09/2025, 12:39 - +91 99183 62188: 😂
+27/09/2025, 12:40 - +91 77182 51760: that might be true but the mindset is not, the mindset should be I know very little
+27/09/2025, 12:41 - +91 77182 51760: but I know how to get things done
+27/09/2025, 12:41 - +91 99183 62188: yeah we know nothin
+27/09/2025, 12:46 - +91 77182 51760: where are you from
+27/09/2025, 13:32 - +91 99183 62188: Varanasi
+27/09/2025, 14:54 - +91 62066 55454: 
+27/09/2025, 14:55 - ~ Ayush removed ~ Divyanshu Aditya
+27/09/2025, 15:01 - +91 81042 05239: Why are people here posting stuff that needs to be removed by admins?
+27/09/2025, 15:04 - +91 99743 98796: Let go Bro...
+27/09/2025, 15:04 - +91 81042 05239: Even I run pages on reddit for government jobs and stuff like that... Never advertised it here, for it doesn't feel fit for in a gsoc group
+27/09/2025, 15:05 - +91 99743 98796: Of course!
+27/09/2025, 17:23 - +91 82090 52677: I am student of btech cse first year
+27/09/2025, 17:23 - +91 81042 05239: Same
+27/09/2025, 17:27 - +91 99743 98796: Welcome... still same
+27/09/2025, 18:07 - +91 94323 86627: Welcome
+27/09/2025, 18:27 - +91 82090 52677: are you senior? <This message was edited>
+27/09/2025, 18:28 - +91 89578 11952: Senior*
+27/09/2025, 21:10 - +91 99743 98796: > If you're interested in GSoC, LFX, MLH Fellowship, or Summer of Bitcoin.                                                                All of these are programs where you  make useful open source contributions (usually in areas like fixing software bugs, improving websites, or working on backend systems) and receive a stipend for the same.
+
+These contributions are part of what’s called open source development.
+
+If you have no idea of where to start from you can make your first step by excelling a programming language and making a *GitHub* account.
+
+But if you already understand the basics and are wondering where to find open source organizations to contribute to 
+
+ https://github.com/dishana11/open_source_organizations
+
+this is a GitHub repository
+refer to it ( or star it for future references)
+
+this repo includes:
+•A list of major programs that pay for open source contributions
+•Many other organizations where you can contribute and gain experience
+•Guide on how people typically make open source contributions, and what steps to follow
+27/09/2025, 22:20 - +91 94323 86627: Yes
+27/09/2025, 23:37 - +91 99743 98796: Any UI/UX Designer here??
+27/09/2025, 23:42 - +91 99743 98796: Needed suggestion for WebSite
+27/09/2025, 23:52 - +91 89578 11952: Link*
+29/09/2025, 19:43 - +91 89577 09275 joined from the community
+29/09/2025, 19:44 - +91 94323 86627 changed this group's settings to allow all members to add others to this group.
+29/09/2025, 19:44 - +91 94323 86627 changed this group's settings to allow only admins to add others to this group.
+29/09/2025, 19:44 - +91 94323 86627 changed this group's settings to allow all members to add others to this group.
+29/09/2025, 19:44 - +91 94323 86627 turned off admin approval to join this group.
+29/09/2025, 19:55 - ~ 🥱 was added
+29/09/2025, 19:55 - +91 91986 30633 joined from the community
+29/09/2025, 20:25 - +91 87995 65840: POLL:
+What will you guys contribute in, btw?
+OPTION: AI/ML (19 votes)
+OPTION: Data science (4 votes)
+OPTION: Frontend frameworks (20 votes)
+OPTION: Backend frameworks (25 votes)
+OPTION: Databases and ORMs (3 votes)
+OPTION: DevOPs and infrastructure (6 votes)
+OPTION: Mobile development (2 votes)
+OPTION: Security & cryptography (1 vote)
+OPTION: Graphics, game engines, simulation (3 votes)
+OPTION: Programming languages (19 votes)
+OPTION: Others (3 votes)
+
+29/09/2025, 20:24 - +91 93943 13266 joined using a group link.
+29/09/2025, 21:40 - +91 79033 07775: Guys shouldn't we make seperate group for a specific domain like a group for web dev Or aiml ..
+29/09/2025, 21:40 - +91 95361 85196: Yes
+29/09/2025, 21:41 - +91 89578 11952: Yes 🖐️
+29/09/2025, 21:42 - +91 89578 11952: Make them
+29/09/2025, 21:46 - +91 89578 11952: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/BDanjBEFKAKK9Mim7zohTA?mode=ems_wa_t
+29/09/2025, 21:47 - +91 89578 11952: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/KBsxwocSWjnBAWN2aJRtog?mode=ems_wa_t
+29/09/2025, 21:49 - +91 92168 63374: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/FlJg5fR6be74CzKYErsB8A?mode=ems_wa_t
+29/09/2025, 21:49 - +91 92168 63374: Android development
+29/09/2025, 21:51 - +91 89578 11952: https://roadmap.sh/
+29/09/2025, 21:54 - ~ Nishant Dhanani pinned a message
+30/09/2025, 16:17 - +91 70610 48413: hey how many of you are participating in hacktoberfest
+30/09/2025, 16:19 - +91 95605 52341: Me.
+30/09/2025, 16:20 - +91 70610 48413: great
+30/09/2025, 16:52 - +91 70456 38616: Mr
+30/09/2025, 19:16 - +91 95605 52341: which repos you targeting?
+30/09/2025, 19:19 - +91 70610 48413: for now i am just exploring the repos in which python  or TS are used
+30/09/2025, 19:20 - +91 95605 52341: same my tech stack
+30/09/2025, 19:20 - +91 70610 48413: have you checked scrapy
+30/09/2025, 19:20 - +91 95605 52341: nopes
+30/09/2025, 19:20 - +91 95605 52341: not yet
+30/09/2025, 19:20 - +91 95605 52341: let me check
+30/09/2025, 19:21 - +91 70610 48413: it's a good tool i am thinking to contribute in it
+01/10/2025, 11:21 - +91 72093 61161: me
+01/10/2025, 11:44 - +91 77182 51760: me
+01/10/2025, 13:36 - +91 85418 35332 joined using a group link.
+01/10/2025, 15:24 - +91 78038 51101 was added
+01/10/2025, 15:23 - +91 78038 51101 joined using a group link.
+02/10/2025, 01:44 - ~ Sarika Yadav was added
+02/10/2025, 01:44 - +91 77039 21131 joined using a group link.
+02/10/2025, 03:48 - ~ Venu was added
+02/10/2025, 03:48 - +91 93441 00769 joined using a group link.
+02/10/2025, 19:54 - +91 94323 86627: any android dev orgs?
+02/10/2025, 19:57 - +91 92168 63374: Ankidroid,ListenBrainz
+02/10/2025, 20:01 - +91 94323 86627: Ok
+02/10/2025, 23:47 - ~ Parv Kapadia added ~ Anubhav Das Sharma
+04/10/2025, 17:25 - +1 (501) 477-1911 joined using a group link.
+05/10/2025, 09:33 - +91 97735 08204 joined using a group link.
+05/10/2025, 21:25 - +91 97282 93750 joined using a group link.
+06/10/2025, 20:15 - +91 88827 45233: Can i get yesterday GitHub google meet recording pls
+06/10/2025, 20:18 - +91 94323 86627: @⁨~zen.py⁩
+06/10/2025, 20:28 - +91 89578 11952: Yes wait
+06/10/2025, 23:40 - ~ 𝑹𝒉𝒚𝒕𝒉𝒎 𝑨𝒓𝒐𝒓𝒂 was added
+06/10/2025, 23:40 - +91 88266 68891 joined from the community
+07/10/2025, 00:37 - +91 85418 35332: anyone contributing in sympy
+07/10/2025, 00:37 - +91 85418 35332: ?
+07/10/2025, 00:37 - +60 11-3316 1075 joined from the community
+07/10/2025, 01:55 - +91 94323 86627: People from iits dm me
+07/10/2025, 02:01 - +91 95962 99968: Me too,
+07/10/2025, 06:10 - +91 63889 25854 was added
+07/10/2025, 06:10 - +91 63889 25854 joined using a group link.

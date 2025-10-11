@@ -1,0 +1,27 @@
+ #filters the DataFrame, keeping only rows where the condition is True.
+    else :
+        return df[df['user'] == selected_user].shape[0]
+    
+creating a boolean mask...
+
+df['user'] == selected_user
+→ creates a Boolean mask like:
+
+[True, False, True, False, ...]
+
+
+where True means that row belongs to the selected user.
+
+df[df['user'] == selected_user]
+→ filters the DataFrame, keeping only rows where the condition is True.
+
+.shape[0]
+→ counts how many rows remain = total messages sent by that user.
+
+basically crewtaing a mask... 
+the
+
+
+// app.py is streamlit code...
+with keyword makes it much more pythonic...
+

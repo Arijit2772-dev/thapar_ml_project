@@ -1,0 +1,1063 @@
+24/04/2025, 19:48 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+12/01/2025, 19:56 - ~ Vedant Anand created group "Web3 Thapar 💪"
+24/04/2025, 19:48 - You joined using this group's invite link
+24/04/2025, 20:44 - +91 95178 43063 joined using a group link.
+24/04/2025, 21:14 - +91 74570 78004 joined using a group link.
+24/04/2025, 21:29 - +91 99141 13491 joined using a group link.
+24/04/2025, 22:00 - +91 79019 82476: Hi fam!
+It's just a reminder that the Hackathon will end on 25th April at 11:59 pm. Kindly submit your project before the deadline to be a part of evaluation.
+
+Submission link: https://blockseblock.com/hackathon_details/HackTheBlock%20X%20OwaspTiet
+25/04/2025, 01:27 - ~ Prisha Agg ✨ was added
+25/04/2025, 01:27 - +91 76588 00002 joined using a group link.
+25/04/2025, 13:43 - +91 94642 95605 was added
+25/04/2025, 13:43 - +91 94642 95605 joined using a group link.
+25/04/2025, 15:36 - +91 92205 37240 joined using a group link.
+26/04/2025, 10:52 - ~ Vedant Anand added +91 98999 91823
+27/04/2025, 00:54 - +91 94633 70027: This is mind-blowing!
+A developer spent over a year building a full operating system that runs entirely inside your browser.
+All open source and runs on the web, no install needed.
+Definitely worth checking out if you're into web dev, OS design, or just cool tech experiments!
+Link: https://github.com/HeyPuter/puter
+27/04/2025, 01:06 - Ronit: It's like digital ocean rather than os I would say what do you think..
+27/04/2025, 01:09 - +91 93161 02594: It can be a remote desktop environment, so calling it an os isn't really far from the functionality
+27/04/2025, 01:10 - +91 94633 70027: The CSP DigitalOcean?
+27/04/2025, 01:10 - Ronit: That can be done with linode much easily.. why do we even need it ?
+27/04/2025, 01:11 - Ronit: Or any other ssh providers...
+27/04/2025, 01:14 - +91 93161 02594: Very valid point
+Only place this can even remotely be useful is maybe chromebooks, but then again it's the same story
+27/04/2025, 01:21 - +91 94633 70027: Could it be like it's providing a remote desktop session with saved state and work?
+27/04/2025, 01:22 - +91 93161 02594: Even if it's not a feature it can be
+27/04/2025, 01:22 - +91 93161 02594: Since it also provides storage
+27/04/2025, 01:23 - +91 94633 70027: Ah like we've a vm to ourselves except it's not running entirely on our hardware
+27/04/2025, 01:26 - +91 93161 02594: You got that right !!
+28/04/2025, 00:53 - +91 98707 24164 was added
+28/04/2025, 00:53 - +91 98707 24164 joined using a group link.
+28/04/2025, 13:12 - +91 84200 37294: 
+29/04/2025, 17:59 - +91 77078 98003: Hey techies! 
+Our project *Guardiant* just won the Most Innovative Hack award at the recent HackSpire1.0 Hackathon ! 🏆✨
+
+We're now opening it up for the community to contribute!
+
+💡 What you can do:
+
+- Tackle open issues
+
+- Add new features
+
+- Suggest blockchain integrations or smart contract enhancements
+
+- Integrate stablecoin protocols 
+
+📂 GitHub Repo: https://github.com/DEEPESH-845/Guardiant
+
+🔁 Fork the repo, raise a PR, and be a part of something impactful. Let’s make Guardiant even better — together! 💻❤️
+
+Open to all levels — from curious beginners to Web3 wizards. 🚀
+29/04/2025, 19:38 - ~ Vedant Anand changed this group's icon
+29/04/2025, 20:40 - +91 79019 82476: Logo looking good?
+29/04/2025, 20:41 - +91 90413 02533: white ke upar light yellow utna sahi nhi lag raha
+
+make the background a little dark
+29/04/2025, 20:51 - +91 79019 82476: Oka sir
+29/04/2025, 20:51 - ~ Vedant Anand changed this group's icon
+02/05/2025, 00:42 - +91 94633 70027: https://ghw.mlh.io/events/open-source
+03/05/2025, 20:34 - +91 90413 02533: crypto has 2 tribes:
+
+- the people trying to get rich fast
+- the people trying to rebuild the internet
+
+one group wins short-term. the other wins history
+
+https://x.com/SuhailKakar/status/1918650477085946166
+05/05/2025, 22:27 - +91 76288 93370: 
+05/05/2025, 23:01 - ~ Vedant Anand removed ~ .
+05/05/2025, 23:01 - +91 79019 82476: Sharing unwanted stuff will lead to removal
+06/05/2025, 00:34 - +91 77078 98003: This message was deleted
+06/05/2025, 00:39 - +91 77078 98003: https://www.linkedin.com/posts/deepesh-kakkar_anomalyguard-liquiditypool-securityflow-activity-7325231717198299138-wjIT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETga_IB1hBQPBSwo4TJgDAtuaWT33WzGZ4
+06/05/2025, 08:17 - +91 79019 82476: - stipends for everyone selected
+- multiple tracks: community organiser, tech maintainer, tech contributor or non tech 
+- intern and full time opportunity 
+- grants, funding support for top teams
+
+And this program is not just limited to Web3, other people who are interested in web dev, AI/ML etc can also contribute in the relevant projects :)
+06/05/2025, 08:17 - +91 79019 82476: https://docs.google.com/forms/d/e/1FAIpQLSeZXw4XGVya2sbDiha5NARb9la52cSxyScyTF-RYiAgtC9a0g/viewform
+07/05/2025, 13:17 - +91 95991 26488: 
+07/05/2025, 14:02 - +91 79019 82476: <Media omitted>
+07/05/2025, 14:02 - +91 79019 82476: Hehe
+07/05/2025, 16:48 - +91 62836 92112: lol referal war
+07/05/2025, 17:09 - +91 79019 82476: No war :)
+Bhaichara on top
+07/05/2025, 17:10 - +91 62836 92112: Yay baat
+07/05/2025, 17:58 - +91 81122 39954: 
+07/05/2025, 17:58 - +91 81122 39954: 
+07/05/2025, 17:58 - +91 81122 39954: 
+07/05/2025, 17:58 - +91 81122 39954: 
+07/05/2025, 17:58 - +91 81122 39954: 
+07/05/2025, 17:58 - +91 81122 39954: 
+07/05/2025, 17:59 - +91 62836 92112: 
+07/05/2025, 18:00 - ~ Vedant Anand removed ~ Reyansh
+07/05/2025, 18:01 - +91 79019 82476: Guys hamari community ki first partnership is up 🥳🥳🥳🥳🥳
+
+https://www.linkedin.com/posts/nexusvoidai_web3-thapar-x-acho-ai-transforming-web3-activity-7324401979445665792-1qTI
+
+https://x.com/NexusVoid_Ai/status/1918636112056045680?t=HOthLVJKfwSntJduRQn4NA&s=08
+
+
+Wohooo 🥳🥳🥳
+07/05/2025, 18:03 - +91 62836 92112: Less goo
+15/05/2025, 15:58 - +91 79019 82476: 🌟 *BlockseBlock Blockchain Summer Internship is Here!*
+
+Hey everyone! BlockseBlock has officially kicked off its *Blockchain Internship* *starting from* *1st June and ends at 15th July!* 🔥
+
+It's the perfect chance to gain hands-on experience, collaborate with amazing folks, sharpen your skills and build cool stuff together.
+
+👉 *Check out the full details and apply here:* https://puzzling-sedum-795.notion.site/Blockchain-Internship-Program-by-BlockseBlock-1eb7342f7b418033bd8bf07f638a219a
+
+Let’s learn, build, and get certified as Blockchain Developer 💻💡
+16/05/2025, 20:42 - +91 96675 52746: https://world.org
+Thoughts?
+16/05/2025, 20:43 - +91 96675 52746: Could this really take off or is this another black mirror typa fad?
+16/05/2025, 20:48 - +91 79019 82476: How old did they start?
+16/05/2025, 20:51 - +91 62836 92112: Recent
+16/05/2025, 20:57 - +91 62836 92112: No my bad
+16/05/2025, 20:57 - +91 62836 92112: Not recent
+16/05/2025, 20:57 - +91 62836 92112: I thought I saw this before , it's from 2023
+18/05/2025, 02:15 - +91 95991 26488: Only 10 more followers needed to reach 1,000. 🙏♦️
+
+https://x.com/affi24042002/status/1923840482183889248
+21/05/2025, 13:14 - +91 93043 22552 joined using a group link.
+22/05/2025, 13:55 - +91 62836 92112: Happy Bitcoin Pizza Day 
+
+iykyk
+28/05/2025, 22:15 - +91 98886 24700: <Media omitted>
+29/05/2025, 03:08 - +91 95991 26488: <Media omitted>
+29/05/2025, 03:09 - +91 62836 92112: 👍
+29/05/2025, 03:09 - +91 81462 72009: 🔥🔥
+29/05/2025, 08:20 - Ronit: 👍
+29/05/2025, 18:16 - +91 87915 34486: https://chain.link/hackathon
+29/05/2025, 18:25 - +91 87915 34486: Sick of tutorials? Want to actually build something tangible?
+
+Want to learn from industry leaders in workshops?
+
+Want to network?
+
+Want to connect with other engineers, designers, builders, and companies looking for talent?
+
+Want to explore whats on offer in this brave, new world?
+
+Then take part in the global Chainlink Chromion Hackathon. This is the best simulation of what it's like to build in a globally distributed environment with the finest talent who are pursuing the same goals.
+
+When: May 30 - June 29, 2025
+
+Where: Global, fully online
+
+Prizes: Over $200K in total rewards
+
+Join thousands of builders worldwide to create groundbreaking dApps in DeFi, Al, tokenization, and cross-chain innovation.
+
+This is your opportunity to finally make something and show the world (and potential recruiters!) what you can do.
+30/05/2025, 11:23 - +91 79019 82476: <Media omitted>
+30/05/2025, 13:05 - +91 95991 26488: <Media omitted>
+30/05/2025, 15:27 - +91 79019 82476: Exams hai sirji 😞
+30/05/2025, 15:35 - +91 95991 26488: Sunday ko
+30/05/2025, 15:36 - +91 62836 92112: Ongoing hai ji
+30/05/2025, 15:36 - +91 62836 92112: 3rd ko finish
+30/05/2025, 15:37 - +91 79019 82476: Yess 😊 
+Welcome to Thapar ✨
+30/05/2025, 15:38 - +91 62836 92112: Real
+30/05/2025, 15:39 - +91 95991 26488: 
+30/05/2025, 15:39 - +91 95991 26488: <Media omitted>
+30/05/2025, 15:39 - +91 95991 26488: Saturday thek h lakin Sunday bhi
+30/05/2025, 15:39 - +91 79019 82476: This message was deleted
+30/05/2025, 15:40 - +91 62836 92112: Ye bhi sahi hai
+30/05/2025, 20:46 - +91 98886 24700: <Media omitted>
+30/05/2025, 21:04 - +91 98886 24700: <Media omitted>
+30/05/2025, 21:04 - +91 98886 24700: <Media omitted>
+30/05/2025, 21:07 - +91 79019 82476: Band krdo bhai, 15 mins hogye
+30/05/2025, 21:07 - +91 98886 24700: <Media omitted>
+30/05/2025, 21:08 - +91 98886 24700: 😂krdiya 🫠
+31/05/2025, 02:11 - +91 79019 82476: https://youtu.be/BL5vUVQvmX4?feature=shared
+11/06/2025, 02:02 - +91 92205 37240: 
+11/06/2025, 10:33 - ~ Vedant Anand removed ~ lavanya
+16/06/2025, 13:17 - +91 73474 14974: 
+16/06/2025, 13:23 - ~ Vedant Anand removed ~ Dharmpreet
+16/06/2025, 17:21 - +91 70232 06003: I’ve just started my journey in *Web3*, and I’ve built my first project — *Krypt*!
+It’s a platform where you can login through *MetaMask* and transfer crypto from one account to another 🌍
+👉 Check it out: *https://krypt-defi.vercel.app/*
+It’s built with *Solidity, using Ethereum + Chain Sepolia* for testing.
+I learned a lot while building this and would love if you all could take a look and share feedback! 🙌
+GitHub Repo: *https://github.com/PrathamRanka/KRYPT*
+16/06/2025, 17:23 - +91 62836 92112: Nice , is it live on mainnet ??
+18/06/2025, 19:21 - +91 78373 13231: 
+18/06/2025, 19:21 - +91 78373 13231: 
+19/06/2025, 01:35 - +91 79019 82476: Gm guys 👋 
+So, long time no see
+19/06/2025, 01:35 - +91 79019 82476: Y'all building something on Web3?
+19/06/2025, 01:35 - +91 79019 82476: GGs bro 🔥🔥
+19/06/2025, 01:35 - +91 81462 72009: gmgm
+19/06/2025, 01:35 - +91 79019 82476: Watchu doing nowadays?
+19/06/2025, 01:35 - +91 62836 92112: trying to make a wallet
+19/06/2025, 01:36 - +91 81462 72009: quant finance ka dekh raha thoda
+19/06/2025, 01:36 - +91 70232 06003: Thanks boss!
+19/06/2025, 01:36 - +91 79019 82476: Nice nice
+On which ecosystem?
+19/06/2025, 01:36 - +91 79019 82476: Ohh, not DeFi?
+19/06/2025, 01:36 - +91 70232 06003: Trying to activate my twitter
+19/06/2025, 01:36 - +91 62836 92112: first eth but want to make multi chain
+19/06/2025, 01:36 - +91 62836 92112: with in built secuirt features
+19/06/2025, 01:36 - +91 79019 82476: First can be done
+Second step is DeFi
+19/06/2025, 01:36 - +91 62836 92112: using AI  , monitoring on chain data
+19/06/2025, 01:37 - +91 79019 82476: You gotta do exchanges with converting ETH to wETH and giving them SOL out and stuff
+19/06/2025, 01:37 - +91 62836 92112: for multi chain ?
+19/06/2025, 01:37 - +91 81462 72009: defi does need quant
+19/06/2025, 01:38 - +91 81462 72009: share handle
+19/06/2025, 01:38 - +91 79019 82476: I thought you were talking about quant for stocks only
+19/06/2025, 01:38 - +91 79019 82476: Yes
+19/06/2025, 01:38 - +91 62836 92112: ok
+19/06/2025, 01:38 - +91 79019 82476: Can't give SOL for ETH or vice versa
+19/06/2025, 01:38 - +91 62836 92112: ok
+19/06/2025, 01:39 - +91 79019 82476: You gotta create Liquidity Pools, bring in the LPs
+19/06/2025, 01:39 - +91 70232 06003: https://x.com/pr7ham_develops?t=splqHsZ7hyTVKmlrHLBrUw&s=09
+19/06/2025, 01:39 - +91 62836 92112: i created a liquidity pool
+19/06/2025, 01:39 - +91 81462 72009: followed
+19/06/2025, 01:39 - +91 62836 92112: i think it works fine but need more
+19/06/2025, 01:39 - +91 79019 82476: When?
+Which one?
+19/06/2025, 01:39 - +91 70232 06003: Same
+19/06/2025, 01:39 - +91 62836 92112: on local host
+19/06/2025, 01:39 - +91 62836 92112: hardhat
+19/06/2025, 01:39 - +91 79019 82476: Bruhh
+19/06/2025, 01:39 - +91 62836 92112: been a month
+19/06/2025, 01:40 - +91 79019 82476: ☠️
+19/06/2025, 01:40 - +91 62836 92112: bhai prototype hai
+19/06/2025, 01:40 - +91 79019 82476: Yes, proto ke liye you can do
+19/06/2025, 01:40 - +91 79019 82476: But real products need real Pools
+19/06/2025, 01:40 - +91 62836 92112: yup
+19/06/2025, 01:41 - +91 62836 92112: yeah ofc
+19/06/2025, 01:41 - +91 79019 82476: Doing something big
+19/06/2025, 01:41 - +91 79019 82476: Ig will make an announcement soon
+19/06/2025, 01:42 - +91 62836 92112: kisme ?
+19/06/2025, 01:42 - +91 79019 82476: Web3
+19/06/2025, 01:42 - +91 79019 82476: All I can tell
+19/06/2025, 01:42 - +91 62836 92112: i see
+19/06/2025, 01:42 - +91 62836 92112: nice hai
+19/06/2025, 01:42 - +91 79019 82476: Btw
+19/06/2025, 01:42 - +91 79019 82476: Any crypto investors in here?
+19/06/2025, 01:43 - +91 79019 82476: I can give some technical tips
+19/06/2025, 01:43 - +91 62836 92112: bolo ji
+19/06/2025, 01:43 - +91 81462 72009: tell tell
+19/06/2025, 01:43 - +91 94641 81034: Yup
+19/06/2025, 01:43 - +91 79019 82476: Try to invest in pools with bigger liquidity 
+They yeild out more tokens
+19/06/2025, 01:43 - +91 94641 81034: Invest nahi but I trade crypto futures
+19/06/2025, 01:43 - +91 79019 82476: Did all the math
+19/06/2025, 01:44 - +91 81462 72009: https://youtu.be/Gup5KP7Bmkw?si=m5Mg246x52l9Tya_
+19/06/2025, 01:44 - +91 79019 82476: Ohh, options?
+19/06/2025, 01:44 - +91 62836 92112: nice , i do that too
+19/06/2025, 01:44 - +91 94641 81034: Futures majorly options rarely
+19/06/2025, 01:44 - +91 62836 92112: yeah that makes sense
+19/06/2025, 01:45 - +91 79019 82476: If anyone wanna ask for the reason it's due to constant product algo
+19/06/2025, 01:45 - +91 62836 92112: xy = k right ?
+19/06/2025, 01:45 - +91 79019 82476: Yes
+19/06/2025, 01:45 - +91 62836 92112: yeah i studied about that few months back
+19/06/2025, 01:45 - +91 79019 82476: Although the math used is completely diff
+19/06/2025, 01:45 - +91 94641 81034: I literally have no knowledge of investing in crypto it doesn't make sense to me when you have futures
+19/06/2025, 01:46 - +91 79019 82476: The yields are good tho
+19/06/2025, 01:46 - +91 62836 92112: nah bro investing takes a lot more knowledge than trading futures
+19/06/2025, 01:46 - +91 62836 92112: but when u knw investing things , market sentiment and stuff u can get really good swing trades
+19/06/2025, 01:46 - +91 94641 81034: Exactly it's complicated more taxes and you can't use leverage
+19/06/2025, 01:46 - +91 62836 92112: taxes are a different thing
+19/06/2025, 01:46 - +91 79019 82476: Who said you can't use leverage?
+19/06/2025, 01:46 - +91 79019 82476: ;)
+19/06/2025, 01:47 - +91 94641 81034: I don't think investing would give me 1:400 leverage
+19/06/2025, 01:47 - +91 62836 92112: use 1x lev bro lol
+19/06/2025, 01:47 - +91 79019 82476: Your boi is making something big...
+Huge leverage factor
+19/06/2025, 01:47 - +91 62836 92112: lol thats trading only then bro
+19/06/2025, 01:47 - +91 94641 81034: 😂
+19/06/2025, 01:47 - +91 79019 82476: Thoda time ruk jao bs
+19/06/2025, 01:47 - +91 62836 92112: banao ji banao
+19/06/2025, 01:47 - +91 79019 82476: I mean it's almost completed
+19/06/2025, 01:47 - +91 79019 82476: Just a bit left
+19/06/2025, 01:48 - +91 94641 81034: Mera aaj ka futures ka profit is more i than I could make in a whole year using the capital I used if I had invested <This message was edited>
+19/06/2025, 01:48 - +91 62836 92112: yeah bro but both are different . One is predicting the short term and other is long term one
+19/06/2025, 01:48 - +91 79019 82476: Btw @⁨~Ruhan Garg⁩ how does 450x leverage sound?
+19/06/2025, 01:48 - +91 81462 72009: how much u made percentage wise
+19/06/2025, 01:48 - +91 62836 92112: kitna hai bhai profit
+19/06/2025, 01:49 - +91 94641 81034: 400 percent
+19/06/2025, 01:49 - +91 94641 81034: Close to 4000 dollars
+19/06/2025, 01:49 - +91 81462 72009: invested captial pr ki purre portfolio ka <This message was edited>
+19/06/2025, 01:49 - +91 62836 92112: on 400x lev ?
+19/06/2025, 01:49 - +91 94641 81034: Sounds good 400 hits the perfect spot for me
+19/06/2025, 01:49 - +91 94641 81034: 1000 dollars capital now I got 4000
+19/06/2025, 01:49 - +91 94641 81034: Yup
+19/06/2025, 01:50 - +91 62836 92112: total capital or in the trade marign <This message was edited>
+19/06/2025, 01:50 - +91 81462 72009: u be putting 1000 dollars on a single trade ?
+19/06/2025, 01:50 - +91 94641 81034: Nope zaada se zaada 200 dollars
+19/06/2025, 01:50 - +91 79019 82476: 
+19/06/2025, 01:50 - +91 94641 81034: Damn
+19/06/2025, 01:50 - +91 94641 81034: Total capital
+19/06/2025, 01:51 - +91 62836 92112: i see and u use 200 in one trade ?
+19/06/2025, 01:51 - +91 81462 72009: how many trades ?
+19/06/2025, 01:51 - +91 94641 81034: Let me count
+19/06/2025, 01:51 - +91 79019 82476: 😉 I am Vedant for a reason
+19/06/2025, 01:51 - +91 62836 92112: @⁨~Vedant Anand⁩ u building dex exchange
+19/06/2025, 01:51 - +91 62836 92112: ?
+19/06/2025, 01:51 - +91 81462 72009: demn <This message was edited>
+19/06/2025, 01:51 - +91 79019 82476: Nahh, something more useful
+19/06/2025, 01:51 - +91 79019 82476: And more complex
+19/06/2025, 01:51 - +91 62836 92112: personal project hai ?/
+19/06/2025, 01:51 - +91 79019 82476: Nahh
+19/06/2025, 01:51 - +91 94641 81034: Took 18 trades 
+
+One in loss other all profitable
+19/06/2025, 01:52 - +91 79019 82476: Which pool?
+19/06/2025, 01:52 - +91 62836 92112: he is taking on mexc most prob
+19/06/2025, 01:52 - +91 62836 92112: cex
+19/06/2025, 01:52 - +91 62836 92112: they offer 400x on btc and eth
+19/06/2025, 01:52 - +91 94641 81034: I traded btc and gold majorly
+19/06/2025, 01:52 - +91 94641 81034: One trade in oil
+19/06/2025, 01:52 - +91 79019 82476: ☠️
+19/06/2025, 01:52 - +91 62836 92112: oh using exness ?
+19/06/2025, 01:52 - +91 94641 81034: Yes
+19/06/2025, 01:53 - +91 81462 72009: On average, what percentage of total capital used in a single trade, and at what leverage?
+19/06/2025, 01:53 - +91 94641 81034: Leverage was 400 x in each trade
+19/06/2025, 01:53 - +91 62836 92112: oil trade kyu liya
+19/06/2025, 01:53 - +91 62836 92112: iran war ?
+19/06/2025, 01:53 - +91 94641 81034: Total capital risked in each trade was 200 dollar
+19/06/2025, 01:54 - +91 94641 81034: Yupp plus trendline se resistance tha
+19/06/2025, 01:54 - +91 94641 81034: So price action plus news
+19/06/2025, 01:54 - +91 62836 92112: i see
+19/06/2025, 01:54 - +91 94641 81034: Main abhi bhi isliye jaagra hun kyuki fomc ki major news thi 11.30 pe
+19/06/2025, 01:54 - +91 81462 72009: thats a lot
+19/06/2025, 01:54 - +91 81462 72009: for 1k
+19/06/2025, 01:55 - +91 81462 72009: aprox 20 percent on 400x
+19/06/2025, 01:55 - +91 81462 72009: feels like a gamble
+19/06/2025, 01:55 - +91 94641 81034: I get what you are saying but mereko mere price action pe Boht zaada confidence hai
+19/06/2025, 01:56 - +91 79019 82476: Any builders out here?
+19/06/2025, 01:56 - +91 62836 92112: nice bro
+19/06/2025, 01:56 - +91 94641 81034: <Media omitted>
+19/06/2025, 01:56 - +91 94641 81034: My profit to loss ratio is 20 ratio 1 too
+19/06/2025, 01:56 - +91 62836 92112: u took 17 trades today ?
+19/06/2025, 01:57 - +91 94641 81034: So that kinda risk is comfy to me
+19/06/2025, 01:57 - +91 94641 81034: Took 19 before 12 am
+19/06/2025, 01:57 - +91 94641 81034: Do abhi chal re hai
+19/06/2025, 01:57 - +91 62836 92112: i see
+19/06/2025, 01:57 - +91 94641 81034: <Media omitted>
+19/06/2025, 01:58 - +91 98886 24700: Bro is finding builders in a pool of gamblers/s
+19/06/2025, 01:58 - +91 62836 92112: haha
+19/06/2025, 01:58 - +91 79019 82476: U never know bhai ☠️
+19/06/2025, 01:58 - +91 94641 81034: Naa i really am fascinated by the tech behind bitcoin 
+
+Trade wagera toh hota rahega
+19/06/2025, 01:59 - +91 98886 24700: Ya hai get it ,I just write for fun
+19/06/2025, 02:00 - +91 79019 82476: Bitcoin is the OG tbh
+Also, don't forget to see the tech behind SOL and ETH
+19/06/2025, 02:00 - +91 94641 81034: My next goal is to buy a funded firm account 🙂👍
+19/06/2025, 02:00 - +91 94641 81034: Haan smart contracts ik ik
+19/06/2025, 02:00 - +91 81462 72009: konsa time frame hai hour ?
+19/06/2025, 02:00 - +91 62836 92112: hmm traders paradise dekhte ho ig
+19/06/2025, 02:00 - +91 94641 81034: Took trade on 15 minutes 
+
+Yeh chart one min ka tha <This message was edited>
+19/06/2025, 02:00 - +91 94641 81034: Yeh kaun hai ?
+19/06/2025, 02:01 - +91 62836 92112: nvm
+19/06/2025, 02:01 - +91 94641 81034: Arrey suspense main kyu chodh re ho
+19/06/2025, 02:01 - +91 62836 92112: yt guy
+19/06/2025, 02:01 - +91 62836 92112: a trader
+19/06/2025, 02:01 - +91 81462 72009: kabse krhe ho bhai trade tum ?
+19/06/2025, 02:02 - +91 94641 81034: I don't trust yt at all for trading
+19/06/2025, 02:02 - +91 96675 52746: just started learning solidity
+19/06/2025, 02:02 - +91 94641 81034: Indian market for two years crypto for about 9 months
+19/06/2025, 02:02 - +91 81462 72009: u follow some calls ?
+19/06/2025, 02:02 - +91 62836 92112: kaha se seekha phir ?
+19/06/2025, 02:02 - +91 79019 82476: Good hai bhai
+19/06/2025, 02:02 - +91 94641 81034: Books majorly and some PDFs
+19/06/2025, 02:03 - +91 81462 72009: share
+19/06/2025, 02:03 - +91 81462 72009: what books
+19/06/2025, 02:03 - +91 94641 81034: Naa naa bhai mereko trust issues hai
+19/06/2025, 02:03 - +91 81462 72009: how u find a trade
+19/06/2025, 02:03 - +91 94641 81034: I'll dm you some PDFs tomorrow morning ek baar text krdena
+19/06/2025, 02:04 - +91 94641 81034: Basically there are some patterns 
+
+Jaise basic tumhe pta hote hai head and shoulder or the w pattern or flag and pole or anything of that sort
+19/06/2025, 02:04 - +91 94641 81034: Then there's sentiment
+19/06/2025, 02:04 - +91 94641 81034: Then there's ema
+19/06/2025, 02:04 - +91 94641 81034: Then kisi type ki confirmation
+19/06/2025, 02:04 - +91 94641 81034: Basically that's my general framework
+19/06/2025, 02:04 - +91 81462 72009: as in?
+19/06/2025, 02:05 - +91 94641 81034: Jaise smjho support break kiya toh main ekdum trade nahi lunga cause there's risk of reversal 
+
+I'll wait for a pull back maybe use Fibonacci there
+
+Uske baad ek baar pull back complete hota and it again reaches the same level then I'll take the reade
+19/06/2025, 02:06 - +91 62836 92112: hmm i see
+19/06/2025, 02:06 - +91 81462 72009: at a time kitne trade open the aaj ?
+19/06/2025, 02:06 - +91 94641 81034: Max 2
+19/06/2025, 02:06 - +91 94641 81034: Ek gold ek btc
+19/06/2025, 02:08 - +91 81462 72009: kaunse kaunse trade liye the
+19/06/2025, 02:08 - +91 94641 81034: Ss bhej deta hun reverse engineer krlena
+19/06/2025, 02:09 - +91 94641 81034: <Media omitted>
+19/06/2025, 02:09 - +91 62836 92112: bro puri screen ki karna send
+19/06/2025, 02:09 - +91 62836 92112: ek baar
+19/06/2025, 02:09 - +91 94641 81034: <Media omitted>
+19/06/2025, 02:10 - +91 94641 81034: <Media omitted>
+19/06/2025, 02:11 - +91 62836 92112: wo candles normal hai ya heikin aashi
+19/06/2025, 02:11 - +91 94641 81034: Normal hi hai bhai
+19/06/2025, 02:12 - +91 62836 92112: acha mb
+19/06/2025, 02:30 - +91 94641 81034: <Media omitted>
+19/06/2025, 09:44 - +91 94633 70027: https://www.linkedin.com/posts/kunwar1908_blockchaindevelopment-mainnetlaunch-internetcomputer-activity-7341144150869721088-eNe8?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFtsCwIBEVdoOs5aBWACfK51C_k17jS4mOM&utm_campaign=whatsapp
+19/06/2025, 10:16 - +91 79019 82476: Bro try to give context and share
+19/06/2025, 10:16 - +91 79019 82476: Spam lgta hai nahi to
+19/06/2025, 10:20 - +91 94633 70027: Hey everyone! 👋
+I'm excited to share my latest LinkedIn post about a significant project I've just deployed on the mainnet – DKeeper, a decentralized note-taking dApp built on the Internet Computer.
+This project was a deep dive into Motoko, React.js, and the broader world of blockchain development. I'd love to hear your thoughts, get feedback, and connect with anyone interested in collaborating on future dApp ideas, Web3, or just generally discussing new technologies.
+Check out the post here:
+https://www.linkedin.com/posts/kunwar1908_blockchaindevelopment-mainnetlaunch-internetcomputer-activity-7341144150869721088-eNe8?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFtsCwIBEVdoOs5aBWACfK51C_k17jS4mOM&utm_campaign=whatsapp
+My First Mainnet Deployment: 
+https://vw4jo-eyaaa-aaaai-atiqq-cai.icp0.io/
+Feel free to drop any questions or ideas in the chat! Let's learn and build together.
+19/06/2025, 12:15 - +91 79019 82476: Taught something,
+Hope this helps 
+https://x.com/Vedantsx/status/1935588888300359901?t=6vQ8V5eZin-5EZt5p0fmKA&s=19
+19/06/2025, 21:47 - +91 96675 52746: https://www.forbes.com/sites/daveywinder/2025/06/19/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/
+
+how is this even possible
+20/06/2025, 12:00 - +91 79019 82476: Wen they store passwords in plain text :)
+20/06/2025, 12:02 - +91 96675 52746: Meta? Apple? GOOGLE?! 😭
+20/06/2025, 12:02 - +91 79019 82476: Btw guys,
+Day 2 of teaching DeFi topics,
+Do you like this way of explanation of topics?
+https://x.com/Vedantsx/status/1935947881854144596?t=P3oqivR67abiYhSTnQO1hw&s=19
+20/06/2025, 12:02 - +91 79019 82476: No idea
+20/06/2025, 16:22 - Ronit: Nobody stores password in plain text.... I mean even call centres websites don't..
+20/06/2025, 16:23 - +91 79019 82476: 😂😂 trust me, I know when I say something
+20/06/2025, 16:30 - Arman Saini: We all love unhashed passwords, don't we @⁨~Vedant Anand⁩
+20/06/2025, 16:54 - +91 84379 80775: Dataset kaha milega iska
+20/06/2025, 16:55 - +91 81307 81737: Asking the real questions, lmao
+20/06/2025, 17:11 - +91 90413 02533: https://neal.fun/password-game/
+20/06/2025, 17:21 - Ronit: I have not tried it.. but maybe tonight..
+It  is likely available on the Tor network..
+It might be a paid service or file.
+To find it, try using Ahmia or other .onion search engines on the Tor...
+(Make sure to use a VPN )
+21/06/2025, 11:43 - +91 79019 82476: Guyss
+Day 3 of DeFi, gave full explanation in Threads, kindly check it out and lemme know if you liked it :)
+
+https://x.com/Vedantsx/status/1936304573683061205?t=fX_jCk3zB1mpHyeLg_vkhA&s=19
+22/06/2025, 13:03 - +91 79019 82476: Guys, it's time
+22/06/2025, 13:03 - +91 79019 82476: Day 4 content is up 🔥
+https://x.com/Vedantsx/status/1936688013544722747?t=Xv2scNwhdKhfUVQbk5INmA&s=19
+24/06/2025, 16:03 - +91 79019 82476: *World Computer Hacker League*
+A massive $300K prize pool is up for grabs across 4 intense rounds.
+
+🏅 3 winners per round and 50% participants from each round will qualify for the next round.
+
+🔗 Step 1 – Register here:
+https://dorahacks.io/hackathon/wchl25-qualification-round/ideaism
+
+📝 Step 2 – Fill this confirmation form:
+https://forms.gle/LtDBT5FNmRWoSTNw8
+
+📌 While registering, make sure to enter ICP HUB India in the ICP Hub field.
+
+💬 Join the Whatsapp group for updates & announcements:
+https://chat.whatsapp.com/CfFieAXpPQmIiOyGvZl9Om
+
+Let’s build, compete, and level up. 🌍🔥
+24/06/2025, 16:03 - +91 79019 82476: <Media omitted>
+24/06/2025, 16:05 - +91 79019 82476: Guyss another fresh web3 hackathon is up 
+
++ Online hai fir everyone's ease
+
+Kindly go through the steps for successful verification
+25/06/2025, 23:24 - +91 98153 05427 joined using a group link.
+25/06/2025, 23:25 - +91 98153 05427 was added
+27/06/2025, 17:53 - +91 79019 82476: This message was deleted
+27/06/2025, 17:54 - +91 83550 04325: 🥹🥹thodi si blockchain sikha do
+27/06/2025, 17:54 - +91 62836 92112: Ye toh flex hogaya 😂
+27/06/2025, 17:54 - +91 79019 82476: Sure bbg
+27/06/2025, 17:55 - +91 79019 82476: ☠️ Krna pdta hai bhai
+27/06/2025, 17:55 - +91 81462 72009: Blockchain dev by day, chain-breaking rizzler by night.
+27/06/2025, 17:55 - +91 79019 82476: Bas bas ☠️☠️
+27/06/2025, 17:57 - ~ Vedant Anand pinned a message
+27/06/2025, 17:58 - +91 98122 04392: mujhe bhi 🥹
+27/06/2025, 18:02 - +91 83550 04325: Aise toh vedant cohort hi karle😝
+27/06/2025, 18:02 - +91 79019 82476: Bhai X pe sikhata hu to seekhte ni tumlog, meri DeFi series chlri hai
+27/06/2025, 18:02 - +91 79019 82476: Coming soon ;)
+27/06/2025, 18:02 - +91 83550 04325: Harkirat ki jgha teko de dunga paise
+27/06/2025, 18:03 - +91 79019 82476: Free me pdhauga ;)
+(Paisa kahi aur se niklwaluga)
+27/06/2025, 18:03 - +91 62836 92112: Badiya hai wo toh
+27/06/2025, 18:03 - +91 83550 04325: ++
+27/06/2025, 18:03 - +91 83550 04325: Crazy phirtoh
+27/06/2025, 18:03 - +91 70232 06003: Course bechoge abb 💔
+27/06/2025, 18:03 - +91 70232 06003: Future sett
+27/06/2025, 18:04 - +91 79019 82476: Aisa kro
+https://x.com/vedantsx pe meri DeFi series pe support maaro
+27/06/2025, 18:04 - +91 83550 04325: humble coder yaad aagye crazyy
+27/06/2025, 18:05 - +91 79019 82476: Bhai hai yrr vo bhi apna 🥹
+27/06/2025, 18:05 - ~ Vedant Anand pinned a message
+27/06/2025, 18:06 - +91 83550 04325: mere bhi hai itna toh chlta hai
+27/06/2025, 18:07 - +91 79019 82476: Ik ik 😂😂
+Emotional drama ftw krra tha
+27/06/2025, 18:11 - +91 79019 82476: Gm guys 🫡
+
+Need girls for SIH team with good tech knowledge and projects, kindly dm with the same...
+
+Who am I?
+The most experienced Blockchain dev you'll find in TIET
+27/06/2025, 18:11 - +91 79019 82476: Made some changes in the text ☠️☠️
+27/06/2025, 18:12 - +91 83550 04325: 🤣🤣
+27/06/2025, 18:12 - +91 79019 82476: Bura lg gya kaafio ko 😞
+27/06/2025, 18:13 - +91 83550 04325: kisiko nai laga
+27/06/2025, 18:14 - +91 79019 82476: Jaisa aap kaho bbg
+29/06/2025, 15:57 - +91 79019 82476: So guys
+29/06/2025, 15:57 - +91 79019 82476: I am thinking to expand the core team of Web3 Thapar
+29/06/2025, 15:58 - +91 79019 82476: Anyone interested to maintain this along me can DM
+Preference would be given to the active members from the start
+29/06/2025, 16:07 - +91 99019 67361 was added
+29/06/2025, 16:07 - ~ Samarth added ~ Pradyumna Singh, ~ Vani Goyal, +91 99019 67361 and +91 99140 51761
+29/06/2025, 16:09 - ~ Vedant Anand changed the group description
+29/06/2025, 16:09 - ~ Samarth added +91 98726 52000
+29/06/2025, 16:10 - ~ Samarth added +91 80097 60046
+29/06/2025, 16:10 - +91 75875 50469 joined using a group link.
+29/06/2025, 16:12 - +91 85808 54484 was added
+29/06/2025, 16:12 - +91 85808 54484 joined using a group link.
+29/06/2025, 16:14 - +91 88470 62624 joined using a group link.
+29/06/2025, 16:22 - +91 79861 16071 was added
+29/06/2025, 16:18 - +91 73022 73085 joined using a group link.
+29/06/2025, 16:21 - +91 79861 16071 joined using a group link.
+29/06/2025, 16:30 - +91 62830 29056 joined using a group link.
+29/06/2025, 16:34 - +91 82649 33988 was added
+29/06/2025, 16:34 - +91 82649 33988 joined using a group link.
+29/06/2025, 16:36 - +91 90561 61453 joined using a group link.
+29/06/2025, 16:56 - +91 84749 41536 was added
+29/06/2025, 16:55 - +91 84749 41536 joined using a group link.
+29/06/2025, 17:08 - +91 99145 26642 was added
+29/06/2025, 17:08 - +91 99145 26642 joined using a group link.
+29/06/2025, 17:15 - +91 99910 28243 joined using a group link.
+29/06/2025, 17:48 - +91 94633 70027: 
+29/06/2025, 17:57 - +91 76960 56404 joined using a group link.
+29/06/2025, 18:14 - +91 90846 69744 joined using a group link.
+29/06/2025, 18:39 - +91 87288 00427 joined using a group link.
+29/06/2025, 18:52 - ~ Sanchit Thareja was added
+29/06/2025, 18:52 - +91 83443 91000 joined using a group link.
+29/06/2025, 19:09 - +91 82644 10150 joined using a group link.
+29/06/2025, 19:14 - +91 96960 58070 joined using a group link.
+29/06/2025, 22:19 - +91 62836 92112: He knows
+29/06/2025, 22:19 - +91 62836 92112: <Media omitted>
+29/06/2025, 22:54 - ~ It’s Me 🥂 was added
+29/06/2025, 22:54 - +91 6284 908 998 joined using a group link.
+29/06/2025, 23:35 - +91 79019 82476: Andha paisa incoming?
+29/06/2025, 23:36 - +91 62836 92112: Indeed it is . Huge accumulating opportunities in 2026 <This message was edited>
+29/06/2025, 23:59 - +91 79019 82476: Let's see
+30/06/2025, 00:02 - +91 81462 72009: <Media omitted>
+30/06/2025, 00:14 - +91 79019 82476: I mean, aur bhi Boht protocols hai, Binance is just the start
+30/06/2025, 00:14 - +91 79019 82476: DeFi is much much bigger than this
+30/06/2025, 00:14 - +91 81462 72009: Just a meme 🗣️
+30/06/2025, 00:15 - +91 79019 82476: Waise hi kehra tha Bhai ☠️
+30/06/2025, 00:15 - +91 81462 72009: Twitter plug in coming soon?
+30/06/2025, 00:20 - +91 94633 70027: Integrate it with metamask or internet identity for account linking and authentication 😜
+30/06/2025, 00:21 - +91 79019 82476: Twitter plugin? <This message was edited>
+30/06/2025, 00:26 - +91 70098 64069 joined using a group link.
+30/06/2025, 00:28 - +91 81462 72009: Quick take on why this crypto cycle feels different — no altseason yet despite BTC dominance hitting 65%. 👀
+Dropped my thoughts here 🧠👇
+https://x.com/samarthchatli/status/1939397829807808729
+30/06/2025, 00:29 - +91 62836 92112: Bro alt season has been changed to selected alts
+30/06/2025, 00:30 - +91 62836 92112: Make sure to not hold cycle 2 coins
+30/06/2025, 00:32 - +91 79019 82476: <Media omitted>
+30/06/2025, 00:32 - +91 81462 72009: https://cointelegraph.com/news/altcoin-season-no-longer-driven-bitcoin-rotation-analyst?utm_source=chatgpt.com
+30/06/2025, 00:32 - +91 81462 72009: lmaoo
+30/06/2025, 00:33 - +91 62836 92112: Congo bro 😂
+30/06/2025, 00:42 - +91 79019 82476: Thank you bhai 🥳🥳
+30/06/2025, 00:43 - Arman Saini: 👉👈
+30/06/2025, 07:03 - +91 75875 50469: 
+30/06/2025, 09:24 - +91 98886 24700: Bitcoin is the new world wide currency looks like
+30/06/2025, 09:46 - +91 75875 50469: I'm new to web3, from where should I start? Patrick Collins or Harkirat?
+30/06/2025, 11:05 - +91 79019 82476: Both are good
+30/06/2025, 11:33 - +91 93103 86635 joined using a group link.
+30/06/2025, 14:38 - +91 94650 95967 joined using a group link.
+30/06/2025, 15:11 - +91 75875 50469: This message was deleted
+30/06/2025, 16:45 - ~ Dead was added
+30/06/2025, 16:44 - +91 63969 33103 joined using a group link.
+30/06/2025, 20:06 - +91 62836 92112: Quote of the day 😂😎 
+
+"OWN NOTHING 
+
+CONTROL EVERYTHING "
+30/06/2025, 20:07 - +91 62836 92112: <Media omitted>
+01/07/2025, 03:12 - +91 81462 72009: <Media omitted>
+01/07/2025, 03:13 - +91 62836 92112: BTC dom still not topped . We need that shit To top
+01/07/2025, 03:13 - +91 62836 92112: Then fall hard
+01/07/2025, 03:15 - +91 81462 72009: In your opinion, what should be the ideal peak for Bitcoin dominance?
+01/07/2025, 03:15 - +91 81462 72009: Institutional money is flowing in
+01/07/2025, 03:17 - +91 62836 92112: According to cycles . It should not go more than 70. But yeah it should have topped by now. Alt season is delayed
+01/07/2025, 03:18 - +91 81462 72009: Exactly
+01/07/2025, 04:08 - +91 96675 52746: Are you shorting BTC lmao
+01/07/2025, 04:09 - +91 96675 52746: not a bad idea though
+01/07/2025, 04:10 - +91 81462 72009: BTC dominance dipping doesn’t always mean BTC price is dropping <This message was edited>
+01/07/2025, 04:10 - +91 62836 92112: BTC dominance falling means alts detachment from its price action in this case meaning the go up
+01/07/2025, 04:11 - +91 62836 92112: What alts u holding?
+01/07/2025, 04:14 - +91 81462 72009: Kaito
+Sui
+Ltc 
+Xrp
+Sol
+Link
+Some meme coins that I sent earlier
+01/07/2025, 04:15 - +91 81462 72009: Holding some from the airdrops that I got
+01/07/2025, 04:15 - +91 81462 72009: Last year
+01/07/2025, 04:16 - +91 62836 92112: Hmm , drop ltc, link , and get rid fast of xrp . I'll tell u where to rotate money
+01/07/2025, 04:16 - +91 62836 92112: These are all old cycle coins
+01/07/2025, 04:16 - +91 81462 72009: What about 
+Render
+Avax
+01/07/2025, 04:16 - +91 62836 92112: No avax
+01/07/2025, 04:17 - +91 81462 72009: Why
+01/07/2025, 04:17 - +91 62836 92112: Cycle 2 coin
+01/07/2025, 04:17 - +91 81462 72009: I still think avax got potential
+01/07/2025, 04:18 - +91 62836 92112: I'll tell meaning , this means that even though protocol is is good . There are retailer who are holding their bag from all time high waiting to get break even or reduce losses so when it rises people sell so u don't get good percentage returns
+01/07/2025, 04:18 - +91 62836 92112: No thought the protocol is good but in terms of finance it's fucked
+01/07/2025, 04:19 - +91 62836 92112: This is not gonna be 2017 or 2021 where all got 50x -100x
+01/07/2025, 04:19 - +91 81462 72009: Views on nakamoto games
+01/07/2025, 04:20 - +91 81462 72009: Also holding ONDO
+XAI
+01/07/2025, 04:20 - +91 62836 92112: Ondo is ok
+01/07/2025, 04:20 - +91 62836 92112: Hold TAO
+01/07/2025, 04:20 - +91 62836 92112: Cgpt
+01/07/2025, 04:20 - +91 81462 72009: Sold it pehle hi
+01/07/2025, 04:21 - +91 62836 92112: Yes nice but it will reach 1 usd
+01/07/2025, 04:21 - +91 62836 92112: I also sold before and got more recently
+01/07/2025, 04:21 - +91 62836 92112: U have hype ??
+01/07/2025, 04:21 - +91 81462 72009: Bought MANTA
+Kuch time pehle
+01/07/2025, 04:22 - +91 62836 92112: Hmm didn't research that
+01/07/2025, 04:22 - +91 81462 72009: Nope
+01/07/2025, 04:22 - +91 62836 92112: Ok I gave a Real good 2.3x
+01/07/2025, 04:22 - +91 62836 92112: I held from 20 to 44
+01/07/2025, 04:23 - +91 81462 72009: That's good
+01/07/2025, 04:23 - +91 62836 92112: Now left with very little bag of 26 hype
+01/07/2025, 04:24 - +91 81462 72009: 🚀🚀
+01/07/2025, 04:24 - +91 62836 92112: Moon bag 😂
+01/07/2025, 04:24 - +91 81462 72009: Fr
+01/07/2025, 04:24 - +91 62836 92112: What's ur Sui entry??
+01/07/2025, 04:25 - +91 81462 72009: Bought it Boht pehle even participated in airdrop and presale
+01/07/2025, 04:25 - +91 81462 72009: So u can guess
+01/07/2025, 04:25 - +91 62836 92112: Ohhhh
+01/07/2025, 04:25 - +91 62836 92112: Bta yaar
+01/07/2025, 04:26 - +91 81462 72009: Yai toh bhai 😭
+01/07/2025, 04:26 - +91 81462 72009: Made more than 10 x
+01/07/2025, 04:26 - +91 62836 92112: Yeah that's goated
+01/07/2025, 04:27 - +91 62836 92112: How much u got allocated in airdrop?
+01/07/2025, 04:27 - +91 81462 72009: Not much
+01/07/2025, 04:27 - +91 81462 72009: But pre sale mai khreed liya tha
+01/07/2025, 04:27 - +91 62836 92112: Kitne paise daale?
+01/07/2025, 04:28 - +91 81462 72009: Let's not go their
+01/07/2025, 04:28 - +91 62836 92112: Hehe 😜
+01/07/2025, 04:28 - +91 62836 92112: Sure
+01/07/2025, 04:28 - +91 81462 72009: <Media omitted>
+01/07/2025, 05:50 - +91 81462 72009: <Media omitted>
+01/07/2025, 10:44 - +91 79019 82476: Bhayankar discussion
+01/07/2025, 14:23 - +91 62836 92112: Yes this should play out
+01/07/2025, 18:36 - +91 62808 52252 was added
+01/07/2025, 18:36 - +91 62808 52252 joined using a group link.
+01/07/2025, 23:17 - +91 79019 82476: Aftermovie for Bitcoin India Tour is here
+
+Please check out
+
+https://x.com/btcindia_org/status/1940076420794868036
+
+Like, comment and share with community.
+
+Thanks for supporting 🧡
+05/07/2025, 12:54 - +91 98151 76668 changed to +91 78142 05092
+05/07/2025, 16:16 - +91 79019 82476: <Media omitted>
+11/07/2025, 04:39 - +91 79019 82476: BTC bro BTC 🚀🚀🚀
+11/07/2025, 04:40 - +91 81462 72009: New ATH 🔥
+11/07/2025, 04:40 - +91 81462 72009: Also the dominance is dipping
+11/07/2025, 04:41 - +91 79019 82476: <Media omitted>
+11/07/2025, 04:41 - +91 79019 82476: <Media omitted>
+11/07/2025, 04:41 - +91 79019 82476: This message was deleted
+11/07/2025, 04:41 - +91 79019 82476: <Media omitted>
+11/07/2025, 14:05 - +91 62836 92112: I loved to see that
+11/07/2025, 14:30 - +91 96677 62299: what platforms would you recommend to trade crypto
+11/07/2025, 14:30 - +91 96677 62299: invest in*
+11/07/2025, 14:31 - +91 62836 92112: Bhai koi bhi indian fiu registered exchange pe mat karna invest
+11/07/2025, 14:31 - +91 62836 92112: MEXC exchange hai , waha pe usdt dalo aur karlo
+11/07/2025, 14:40 - +91 79019 82476: P2P.me
+11/07/2025, 14:40 - +91 79019 82476: Always trade with friends
+11/07/2025, 14:40 - +91 79019 82476: Tho
+11/07/2025, 14:40 - +91 62836 92112: Yahi bhejne wala tha 😜
+12/07/2025, 01:39 - +91 79019 82476: Gm guys 🫡🔥🔥
+I've just posted a blog on my portfolio about Uniswap for beginners to advanced people...
+
+Can you please just check it and lemme know if it's good or should I improve somehow?
+
+https://vedant-dev.tech/blog
+
+https://vedant-dev.tech/blog/uniswap-guide
+12/07/2025, 22:19 - +91 79019 82476: Yoyoooooo
+12/07/2025, 22:19 - +91 79019 82476: Supppp
+12/07/2025, 22:47 - +91 62836 92112: Yo
+13/07/2025, 00:30 - +91 79019 82476: Sup
+13/07/2025, 02:09 - +91 79019 82476: Guys
+13/07/2025, 02:09 - +91 79019 82476: Anyone with knowledge of these?
+
+Node express TS 
+EVM solidity solana(thoda boht)
+13/07/2025, 03:13 - +91 62836 92112: Solidity solana ?
+13/07/2025, 03:13 - +91 62836 92112: Siraf solidity yeah
+13/07/2025, 03:13 - +91 62836 92112: No rust atm
+13/07/2025, 04:06 - +91 79019 82476: Ohh
+13/07/2025, 04:07 - +91 79019 82476: Needed both 😔
+13/07/2025, 04:21 - +91 62836 92112: Sed
+13/07/2025, 22:17 - +91 83601 07049: Node express Typescript yes
+15/07/2025, 16:31 - +91 79019 82476: <Media omitted>
+15/07/2025, 16:31 - +91 79019 82476: Guys don't forget to register, registrations close soon 
+
+https://dorahacks.io/hackathon/wchl25-qualification-round/ideaism
+16/07/2025, 11:47 - +91 78400 50456: <Media omitted>
+19/07/2025, 22:49 - +91 79019 82476: https://x.com/blockhacks/status/1946556049911116242?s=46
+19/07/2025, 22:49 - +91 79019 82476: One of our participants from our community just won $16,500 in this global hackathon and selected for global accelator. He will fly to SF for demo day and will be fully sponsored. I hope season 2 turns out the same:)
+19/07/2025, 23:13 - +91 95991 26488: https://x.com/affi24042002/status/1946625635918475642
+19/07/2025, 23:18 - +91 79019 82476: Not CoinDCX lol
+19/07/2025, 23:24 - +91 62836 92112: Bhai real hogaya ye
+19/07/2025, 23:24 - +91 62836 92112: Chud gaya dcx
+19/07/2025, 23:24 - +91 62836 92112: No cex is safe
+19/07/2025, 23:25 - +91 81462 72009: Ong <This message was edited>
+19/07/2025, 23:25 - +91 81462 72009: Kya hua ?
+19/07/2025, 23:25 - +91 81462 72009: Exactly
+19/07/2025, 23:25 - +91 62836 92112: Nothing very major
+19/07/2025, 23:25 - +91 62836 92112: Operational account got hacked
+19/07/2025, 23:26 - +91 62836 92112: 44.8 mil gone
+19/07/2025, 23:26 - +91 81462 72009: Ohno
+19/07/2025, 23:26 - +91 62836 92112: User funds safe
+19/07/2025, 23:26 - +91 81462 72009: Vaise konsa yai loge withdraw krne dete dcx wale
+19/07/2025, 23:26 - +91 81462 72009: Point hi kya lmao <This message was edited>
+19/07/2025, 23:27 - +91 62836 92112: Chutiya hai bc
+19/07/2025, 23:27 - +91 62836 92112: Crypto withdrawal waise hi nahi dete kehte inr mein lelo
+19/07/2025, 23:27 - +91 81462 72009: 👌🏻
+19/07/2025, 23:38 - +91 95991 26488: See 2nd post
+19/07/2025, 23:38 - +91 95991 26488: .
+20/07/2025, 15:03 - Ronit: how much capital u should put in crypto ? what is safe bet ?
+20/07/2025, 15:04 - +91 94641 81034: Bhai the fact you are calling it a bet means you should put no money at all <This message was edited>
+20/07/2025, 15:04 - +91 62836 92112: Umm wrong framed question
+20/07/2025, 15:04 - +91 62836 92112: Plus 1
+20/07/2025, 15:04 - +91 62836 92112: 😂
+20/07/2025, 15:04 - +91 62836 92112: Put whatever amount u feel comfortable
+20/07/2025, 15:04 - Ronit: can u tell i am newbie to this
+20/07/2025, 15:05 - +91 62836 92112: The amount u put u should be ok with loosing all
+20/07/2025, 15:05 - Ronit: i mean i have a capital of about 8000-10000 i wan to allocate in some resources ..
+20/07/2025, 15:05 - +91 62836 92112: Umm well if u just wanna have a long term bag, put in bitcoin and forget
+20/07/2025, 15:06 - +91 79019 82476: In Bitcoin,
+100 crore is good go
+Baaki coins can't say
+20/07/2025, 15:06 - +91 62836 92112: Valid
+20/07/2025, 15:06 - Ronit: kk
+20/07/2025, 15:09 - +91 94641 81034: I'd say rather buy gold or silver  etfs
+20/07/2025, 15:10 - +91 79019 82476: Your choice bro
+20/07/2025, 15:11 - +91 62836 92112: Well that's when the time is for hedging bro
+20/07/2025, 15:11 - +91 62836 92112: Not now
+20/07/2025, 15:17 - +91 94641 81034: Bhai uska 10k ka capital hai isliye bolra tha
+20/07/2025, 15:18 - +91 62836 92112: Ha but phir toh he should trade in those etf
+20/07/2025, 15:18 - +91 62836 92112: Leverage ke sath
+20/07/2025, 15:18 - +91 94641 81034: Bhai newbie bola na usne
+20/07/2025, 15:19 - +91 62836 92112: Right
+20/07/2025, 15:19 - +91 62836 92112: Mb
+20/07/2025, 15:19 - +91 98886 24700: Put money in vbl better(share market )
+25/07/2025, 00:42 - +91 63940 75699: https://www.hackerearth.com/challenges/hackathon/andromeda-flightplan/#overview
+25/07/2025, 00:43 - +91 63940 75699: The hackathon is about taking physical assets such as real estate, IPs, commodities and using blockchain + AI to implement fractional ownership, revenue sharing and transparent asset management
+25/07/2025, 00:43 - +91 63940 75699: We have 2-3 openings in our team
+25/07/2025, 00:43 - +91 63940 75699: Dm me your resume if interested
+25/07/2025, 01:25 - +91 79019 82476: Damnn
+25/07/2025, 01:26 - +91 62836 92112: Bhai man toh hai lekin abhi ek hackathon mein hun  bc
+25/07/2025, 01:29 - +91 63940 75699: Time nikaal paayega toh bata
+25/07/2025, 01:29 - +91 62836 92112: Deadline kab hai ??
+25/07/2025, 01:30 - +91 63940 75699: 27th Tak idea submit karna hai
+25/07/2025, 01:31 - +91 62836 92112: Nah yaar phir I'll not risk it
+25/07/2025, 01:31 - +91 62836 92112: For u
+25/07/2025, 01:31 - +91 63940 75699: Works man
+26/07/2025, 16:06 - +91 79019 82476: Goizzzzzz
+
+https://x.com/Vedantsx/status/1949055935659565241?t=3oThv5ijsBZPs_pwbmo9ew&s=19
+Kindly like, share, comment and rt please 🔥🔥
+10/08/2025, 17:09 - +91 79019 82476: *Internship Alert*
+
+We have a blockchain-based farming simulator game built on the WAX network. It blends play-to-earn (P2E) mechanics with features such as NFT staking, resource management, and gaming strategy. Players stake NFTs like workers, tools, and packs to produce resources and claim tokens, which they can use for various in-game actions. The game emphasizes a sustainable and balanced game economy, with rewards based on player interaction and strategy within the ecosystem.
+
+Job Description
+
+Position: Marketing Intern (Crypto, P2E Games)
+Location: Remote
+Focus: Twitter / Social Media Marketing
+Role and Responsibilities
+	•	Manage the official Twitter account, posting relevant updates, community highlights, and engaging content.
+	•	Create, plan and execute regular social media campaigns to attract, engage, and retain users for the Play2Earn game.
+	•	Stay up-to-date with crypto gaming news, trends, and P2E project launches, especially within the WAX ecosystem.
+	•	Interact with the crypto and gaming communities via Twitter (and other platforms as needed).
+	•	Create posts and assist the marketing team with ad hoc outreach, partnerships and influencer/KOL activities.
+
+Desired Skills & Qualifications
+	•	Genuine interest in Play-to-Earn gaming and crypto/NFT space.
+	•	Familiarity with blockchain-based games (experience with WAX or NFT games a plus).
+	•	Proficient in creating engaging Twitter content (text, memes, visuals, threads).
+	•	Understanding of crypto culture, online communities (Twitter, Discord, Reddit).
+	•	Self-motivated, creative, and proactive in identifying new marketing opportunities.
+	•	Strong written communication skills in English.
+	•	Prior experience with social media management or community engagement for crypto projects or P2E games preferred.
+
+What You’ll Gain
+	•	The opportunity to grow with a cutting-edge blockchain game project.
+	•	Flexible remote working.
+	•	Exposure to crypto marketing strategies and gaming industry veterans.
+	•	Build your portfolio and social marketing skills in a high-growth industry.
+
+Ideal for:
+Crypto-enthusiasts, marketing students, or aspiring professionals passionate about blockchain gaming and wanting to help shape the next big P2E community.
+
+
+Connect with +91 76194 44640 if you are interested
+10/08/2025, 17:09 - +91 79019 82476: Intern opportunity
+10/08/2025, 17:13 - +91 98788 19000: I’ve been building something close to my heart, a way to put real, actionable Agri data directly in farmers’ hands.
+
+AgriMitra brings together:
+1. Live weather alerts
+
+2. Daily mandi prices
+
+3. Pest & disease advisories
+
+4. Agri loan & insurance info
+
+… all in one multilingual platform farmers can use.
+
+We’ve just opened beta access → https://www.agrimitra.co/
+
+ I’d love your feedback. Every insight will help us make AgriMitra more impactful for the people who need it most. <This message was edited>
+10/08/2025, 17:14 - Ronit: not reachable bro
+10/08/2025, 17:15 - +91 79019 82476: IP down ig <This message was edited>
+10/08/2025, 17:16 - +91 98788 19000: Thanx
+10/08/2025, 17:17 - +91 79019 82476: Np
+10/08/2025, 17:20 - +91 98788 19000: *Do check it out guys , feedback is always welcomed*
+10/08/2025, 17:32 - +91 62836 92112: Yup for sure , host is down
+11/08/2025, 01:18 - +91 98788 19000: *Do check it out guys*
+11/08/2025, 01:18 - +91 79019 82476: Improve UX
+11/08/2025, 01:19 - +91 79019 82476: Show that those are clickable
+11/08/2025, 01:19 - +91 79019 82476: Make a CTA button
+11/08/2025, 01:19 - +91 79019 82476: <Media omitted>
+11/08/2025, 01:21 - +91 79019 82476: <Media omitted>
+11/08/2025, 01:22 - +91 79019 82476: @⁨~Vidul Gupta 🗿⁩
+11/08/2025, 01:22 - +91 79019 82476: Baaki bdia kaam kia hai bro
+11/08/2025, 01:23 - +91 98788 19000: Thanks bro @⁨~Vedant Anand⁩
+11/08/2025, 01:23 - +91 79019 82476: Np bud :)
+11/08/2025, 21:01 - Ronit: Good tbh .. I liked ui also..
+11/08/2025, 21:06 - +91 98122 04392: Lovely work
+11/08/2025, 21:13 - +91 98788 19000: Thanks guys for all the feedback
+11/08/2025, 23:48 - +91 70875 66521: This message was deleted
+11/08/2025, 23:50 - +91 70875 66521: This message was deleted
+12/08/2025, 00:10 - +91 70875 66521: <Media omitted>
+17/08/2025, 00:26 - ~ Pråtham added +91 98099 00007
+21/08/2025, 11:08 - +91 79019 82476: 🚀 Bitcoin Bharat just crossed 1001 followers!
+To celebrate, we’re giving away 10001 SATs 🎉
+
+Join the giveaway here 👉 https://x.com/bitcoinbharat_/status/1958208632979685854
+22/08/2025, 19:49 - +91 79018 53575: <Media omitted>
+22/08/2025, 19:50 - +91 79018 53575: <Media omitted>
+22/08/2025, 19:51 - +91 62836 92112: Real😂
+22/08/2025, 20:27 - +91 79019 82476: Brooo
+22/08/2025, 20:27 - +91 79019 82476: You missed on something
+22/08/2025, 20:27 - +91 79019 82476: https://x.com/Vedantsx/status/1958903650039771141?t=_40faVFvbr9i98_Mh10K0w&s=19
+
+
+Check this
+22/08/2025, 20:29 - +91 62836 92112: This platform is insane , revolutionizing defi trading
+22/08/2025, 20:33 - +91 79019 82476: Bro legit mza aya aaj
+22/08/2025, 20:33 - +91 79019 82476: Mai side by side speech sunra tha
+22/08/2025, 20:34 - +91 79019 82476: And socha ya to crazy green candle bnega ya crazy red
+22/08/2025, 20:34 - +91 79019 82476: Dono long aur short krdiye
+22/08/2025, 20:34 - +91 79019 82476: 10 dollar lgake bhai mota profit
+22/08/2025, 21:52 - +91 97116 31793: Kitna bna approx
+22/08/2025, 23:14 - +91 79019 82476: Dekho tweet me
+23/08/2025, 12:22 - +91 79019 82476: <Media omitted>
+23/08/2025, 13:37 - +91 79019 82476: <Media omitted>
+23/08/2025, 13:44 - +91 70875 66521: Chinese itna upar kaise hai ?
+23/08/2025, 13:44 - +91 79019 82476: China export industry >>
+23/08/2025, 13:52 - +91 70875 66521: To export se hi decide Hota Hai ke koi aur factor bhi hai
+23/08/2025, 13:53 - +91 62836 92112: International relevance chart hai . Jitna use etc utni relevance
+23/08/2025, 13:53 - +91 70875 66521: Because bitcoin to kisi desh ka nahi hai
+23/08/2025, 13:53 - +91 62836 92112: ETFs and countries have it as reserve
+23/08/2025, 13:54 - +91 70875 66521: OK bro thanks
+23/08/2025, 13:54 - +91 62836 92112: Abhi rate cuts ka hint diya Powell ne
+23/08/2025, 13:54 - +91 70875 66521: Powell kya hai
+23/08/2025, 13:55 - +91 62836 92112: Chairman of Federal reserve bank
+23/08/2025, 13:55 - +91 62836 92112: US
+23/08/2025, 13:55 - +91 70875 66521: Rate cut of bitcoin?
+23/08/2025, 13:55 - +91 62836 92112: No no
+23/08/2025, 13:55 - +91 62836 92112: Interest rates
+23/08/2025, 13:55 - +91 62836 92112: In the US
+23/08/2025, 13:56 - +91 62836 92112: Study about it and u will somewhat understand how macro economics works
+28/08/2025, 14:24 - +91 77078 98003: Hello folks ! 
+
+Anyone having strong portfolio in game dev ? 
+
+Reach me out  if you are ready for a hefty paid project to work on .
+29/08/2025, 22:01 - +91 92058 39762: This message was deleted
+02/09/2025, 16:36 - Ronit: is it the best time to dump gold ?
+02/09/2025, 16:36 - +91 79019 82476: Maybe
+03/09/2025, 06:33 - +91 72991 00003 changed to +1 (778) 288-8156
+03/09/2025, 11:09 - +91 98886 24700: <Media omitted>
+03/09/2025, 11:23 - Ronit: But I think it will improve trust of crypto as an asset...  regulatory bodies then may less try to interfere
+03/09/2025, 11:27 - +91 79019 82476: Shows the importance of crypto
+03/09/2025, 11:33 - +91 81462 72009: Funny how govt calls crypto ‘unregulated’ when it comes to protection, but fully regulated when it comes to taxes
+03/09/2025, 11:40 - +91 98886 24700: 30+1 percent tax on an asset huh ..which we bought with money alr taxable
+03/09/2025, 11:51 - +91 70875 66521: <Media omitted>
+04/09/2025, 10:44 - +91 79019 82476: <Media omitted>
+04/09/2025, 10:44 - +91 63940 75699: That’s crazyyyy
+04/09/2025, 10:45 - +91 63940 75699: Congrats @⁨~Dinas Pratap Singh⁩
+04/09/2025, 10:54 - +91 78143 71778: Congrats 🎉🎉🎉
+04/09/2025, 12:44 - +91 62836 92112: Thank u for the support brother 🍻🙏
+04/09/2025, 12:44 - +91 62836 92112: Thank u bro
+04/09/2025, 12:45 - +91 62836 92112: Really appreciate it , thank u 🙏
+06/09/2025, 15:20 - +91 62836 92112: https://x.com/repdao28?s=21&t=CoMWp4O-b4u9wsx7K9dqpA
+
+Do check it out drop a follow guys
+06/09/2025, 16:08 - +91 88823 21810: This message was deleted
+07/09/2025, 19:03 - +91 62836 92112: https://x.com/repDao28/status/1964670742274158878
+07/09/2025, 19:09 - +91 79019 82476: Haww
+07/09/2025, 19:09 - +91 79019 82476: Spammer
+07/09/2025, 19:10 - +91 62836 92112: 😂😂
+09/09/2025, 00:47 - +91 99772 58702 changed to +91 96304 03566
+11/09/2025, 19:48 - +91 79019 82476: Broooo 
+
+https://youtu.be/VL-SzuA_pYE?si=ZdHmZi84V0YcT_Xd
+
+😂😂😂😂
+11/09/2025, 20:05 - +91 62836 92112: 😂
+11/09/2025, 23:15 - ~ Shubham Shoora was added
+11/09/2025, 23:14 - +91 90345 52539 joined using a group link.
+11/09/2025, 23:20 - +91 90345 52539: Hey web3 developers👋
+My name is Shubham and I want to tell you guys about my project Nouniverse 
+Later in July, I have created this project for PL genesis world hackathon and it got selected for Founder's Forge by Protocol Labs 
+Now after months of building Nouniverse is officially a Nouns Client 
+  Nouniverse has just launched — a new home for Nouns culture, engagement, and governance! 🚀 Backed by @protocollabs and built for the @nounsdao community, Nouniverse is all about empowering people, boosting participation, and embracing true decentralization. We’d love to have you join us on this journey, connect with fellow builders, and help shape the future together 🌍✨ 
+https://x.com/nouniverse_/status/1966129193877647801
+
+It would be really helpful If you guys could Follow us and later we would have a Twitter space if any fellow developers wants to know more and engage/work with us, do join it 
+
+Thank you for hearing me out
+19/09/2025, 22:28 - +91 94633 70027: <Media omitted>
+19/09/2025, 23:19 - +91 79019 82476: Hamesha naya trend ata hai
+19/09/2025, 23:19 - +91 79019 82476: Nothing much tbh
+21/09/2025, 19:58 - +91 79019 82476: <Media omitted>
+21/09/2025, 20:21 - +91 62836 92112: Less gooo broooo 🔥🔥
+21/09/2025, 21:09 - +91 62836 92112: @⁨~Vedant Anand⁩ did u catch Aster ??
+21/09/2025, 21:09 - +91 79019 82476: Was busy grinding 😭😭
+21/09/2025, 21:10 - +91 79019 82476: Caught Hyperliquid tho
+21/09/2025, 21:10 - +91 62836 92112: Oo from what price ??
+21/09/2025, 21:10 - +91 79019 82476: 40% margin
+21/09/2025, 21:11 - +91 62836 92112: Matlab , im asking at what price u entered ?
+21/09/2025, 21:11 - +91 79019 82476: 35-38 ig
+21/09/2025, 21:11 - +91 62836 92112: <Media omitted>
+21/09/2025, 21:11 - +91 62836 92112: Same reply 😆😆
+21/09/2025, 21:11 - +91 79019 82476: Yepp, ik ik
+21/09/2025, 21:12 - +91 79019 82476: This was my action price
+21/09/2025, 21:12 - +91 79019 82476: But didn't put much in it tbh
+21/09/2025, 21:12 - +91 79019 82476: Cashed out recently
+21/09/2025, 21:12 - +91 62836 92112: Nah It's alright , habit build hoegi aise hi
+21/09/2025, 21:13 - +91 62836 92112: I got aster at 0.45
+21/09/2025, 21:13 - +91 79019 82476: Tf
+21/09/2025, 21:13 - +91 62836 92112: Then 0.65 <This message was edited>
+21/09/2025, 21:13 - +91 62836 92112: Yup , on aster ded
+21/09/2025, 21:13 - +91 62836 92112: Dex
+21/09/2025, 21:13 - +91 79019 82476: Good hai fir to
+21/09/2025, 21:13 - +91 79019 82476: Kitna margin bna
+21/09/2025, 21:13 - +91 62836 92112: Then sold at like 1.4
+21/09/2025, 21:13 - +91 79019 82476: Sexy
+21/09/2025, 21:14 - +91 62836 92112: I put in 500
+21/09/2025, 21:14 - +91 79019 82476: Damnn
+21/09/2025, 21:14 - +91 79019 82476: Sahi bngya
+21/09/2025, 21:14 - +91 79019 82476: Ggs
+21/09/2025, 21:14 - +91 62836 92112: Yeah thankfully researched and put money in time
+21/09/2025, 21:15 - +91 62836 92112: Now am trying to farm yield
+21/09/2025, 21:15 - +91 62836 92112: From funding rates
+21/09/2025, 21:15 - +91 79019 82476: Kitna %
+21/09/2025, 21:15 - +91 62836 92112: Abhi low hogaya relative . 600% percent apy
+21/09/2025, 21:15 - +91 79019 82476: High risk hoga
+21/09/2025, 21:15 - +91 62836 92112: Matlab din ka 1.7%
+21/09/2025, 21:15 - +91 62836 92112: Nah nah no risk , will hedge it in spot
+21/09/2025, 21:16 - +91 79019 82476: 600% APY
+21/09/2025, 21:16 - +91 62836 92112: Delta neutral
+21/09/2025, 21:16 - +91 79019 82476: 600% delta neutral kaha milra hai bhai
+21/09/2025, 21:17 - +91 62836 92112: Nahi matlab it's the hourly funding rate for longs on hyper is 0.006-something
+21/09/2025, 21:17 - +91 62836 92112: I don't remember exact
+21/09/2025, 21:18 - +91 62836 92112: So multiply by 24 u get interest for 1 day then into 365 u get the apy
+21/09/2025, 21:18 - +91 62836 92112: U  take short in perps and buy the same value in spot . So no loss in reality
+21/09/2025, 21:19 - +91 79019 82476: Long work ni kia to loss to hai hi
+21/09/2025, 21:19 - +91 79019 82476: Kitne time ki position?
+21/09/2025, 21:20 - +91 62836 92112: Nahi agar upar gaya price toh spot mein utna up jitna short mein loss and vice versa.
+21/09/2025, 21:20 - +91 62836 92112: Till rates are attractive
+21/09/2025, 21:21 - +91 79019 82476: Koina ek baar call pe krege baat
+21/09/2025, 21:21 - +91 79019 82476: Btw fk MST
+Eth India, Token2049 sab isi time pe aare wtf bhai
+21/09/2025, 21:21 - +91 62836 92112: Yeah sure , abhi kiya nahi hai start just thinking about it
+21/09/2025, 21:22 - +91 62836 92112: Real , sara crypto space active ho rakha and saale mst beech mein
+21/09/2025, 21:22 - +91 62836 92112: Mere regional round ki submission kal hi hai . Videos rehti abhi aur kal paper
+21/09/2025, 21:22 - +91 79019 82476: Bro maine Token2049 jaana tha is MST ki wjah se ni jaa paara
+21/09/2025, 21:22 - +91 62836 92112: Same
+21/09/2025, 21:23 - +91 79019 82476: Kya hi bolu
+21/09/2025, 21:23 - +91 79019 82476: Best of luck 🔥🔥
+21/09/2025, 21:23 - +91 62836 92112: Dropout 😂😂💀 lete hai
+21/09/2025, 21:23 - +91 79019 82476: Proto working?
+21/09/2025, 21:23 - +91 62836 92112: Thanks bro
+21/09/2025, 21:24 - +91 62836 92112: Yeah fully working , backend architecture updated and full UI revamped also
+21/09/2025, 21:24 - +91 79019 82476: Good hai
+21/09/2025, 21:24 - +91 79019 82476: Bnao bnao
+21/09/2025, 21:24 - +91 79019 82476: Kuch help chahiye hui to btaio
+21/09/2025, 21:24 - +91 62836 92112: Bas final push karna hai main pe and phir domain update
+21/09/2025, 21:24 - +91 62836 92112: For sure 👍
+22/09/2025, 11:44 - +91 79019 82476: <Media omitted>
+22/09/2025, 14:32 - +91 62836 92112: Nice one
+22/09/2025, 18:43 - ~ mehak was added
+22/09/2025, 18:43 - +91 88822 89031 joined using a group link.
+23/09/2025, 22:59 - +91 79019 82476: Aster ka airdrop kon farm krra hai??
+23/09/2025, 23:03 - +91 81462 72009: on a break from all this tho share the details
+23/09/2025, 23:05 - +91 79019 82476: https://www.asterdex.com/en/referral/1A744a
+
+Use this, when you farm the airdrop you'll get a team boost, Aster is giving the biggest airdrop this year, 4% approx of the supply + price CZ back krra hai soo
+23/09/2025, 23:06 - +91 79019 82476: Only join who wants to trade genuinely
+23/09/2025, 23:06 - +91 81462 72009: kitne loge krhe farm ?
+23/09/2025, 23:07 - +91 79019 82476: No idea
+23/09/2025, 23:07 - +91 79019 82476: Krre honge 60-70k
+23/09/2025, 23:07 - +91 81462 72009: aprox cause 4 percent of supply kam hai thoda
+23/09/2025, 23:07 - +91 79019 82476: .
+23/09/2025, 23:08 - +91 81462 72009: if only 60-70k hai then achi allocation mil sakti hai
+23/09/2025, 23:08 - +91 79019 82476: Abhi mera rank 41k chlra hai
+23/09/2025, 23:08 - +91 79019 82476: Idk kitne krre
+23/09/2025, 23:09 - +91 81462 72009: i see
+23/09/2025, 23:09 - +91 79019 82476: Mostly by volume hai points allocation
+23/09/2025, 23:10 - +91 62836 92112: Alright
+23/09/2025, 23:10 - +91 79019 82476: You joining?
+23/09/2025, 23:11 - +91 62836 92112: Yeah I joined , can't promise to trade much but yeah will do what i can
+23/09/2025, 23:11 - +91 79019 82476: Do one thing
+23/09/2025, 23:11 - +91 79019 82476: Keep very tight SL and TP
+maine PNL ka 0.5% rkha tha
+23/09/2025, 23:12 - +91 79019 82476: And trades with leverage
+23/09/2025, 23:12 - +91 62836 92112: Yeah will do that only when I do
+01/10/2025, 14:11 - +91 62836 92112: https://x.com/blitzonsarms/status/1973160434065875330?s=46&t=CoMWp4O-b4u9wsx7K9dqpA
+01/10/2025, 14:12 - +91 79019 82476: Congratulations Bhai 🎉🎉🎉
+01/10/2025, 14:13 - +91 62836 92112: Thank u bro 🙏
+01/10/2025, 14:13 - +91 79019 82476: Small update from my side as well
+
+https://x.com/Vedantsx/status/1973298017546674234?t=DIcQBghxdzD1Nl5fKI_1tw&s=19
+
+Kirat invested in Ved Corp, what's stopping you from following? <This message was edited>
+01/10/2025, 14:14 - +91 62836 92112: Yayyyyyyyyyyyyy
+02/10/2025, 17:37 - +91 79019 82476: Yo guys
+Thanks a lot for your support 🫡
+As a community payback I've brought something for y'all
+02/10/2025, 17:37 - +91 79019 82476: <Media omitted>
+02/10/2025, 17:38 - +91 79019 82476: Telegram due to privacy concern, don't wanna leak anyone's number
+02/10/2025, 17:39 - +91 79019 82476: If you wanna share, share with serious people only
