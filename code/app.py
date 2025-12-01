@@ -283,8 +283,6 @@ if uploaded_file is not None:
                 else:
                     st.info("Not enough data for sentiment analysis")
 
-            # Note about advanced ML features
-            st.info("ℹ️ **Advanced ML Features** like Topic Modeling and Message Clustering require large chat datasets (500+ messages) to work effectively. Your current chat may not have enough data for these features.")
 
             # 2. User Personality Insights
             if selected_user != 'Overall':
