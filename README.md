@@ -1,12 +1,21 @@
 # WhatsApp Chat Analyzer with Machine Learning
 
-A comprehensive Streamlit web application that analyzes WhatsApp chat exports with advanced **Machine Learning** capabilities including sentiment analysis, topic modeling, message clustering, and user behavior prediction.
+A comprehensive Streamlit web application that analyzes WhatsApp chat exports with advanced **Machine Learning** capabilities including sentiment analysis and user personality insights.
 
 ## 🚀 Live Demo
 
-**[Try the live app here!](#)** *(Add your Streamlit Cloud URL after deployment)*
+**[Try the live app here!](https://bigdawgs2005.streamlit.app/)**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bigdawgs2005.streamlit.app/)
+
+## ✨ Key Highlights
+
+- 📊 **Comprehensive Statistics**: Message counts, timelines, activity heatmaps
+- 🎨 **Beautiful Visualizations**: Word clouds, charts, and interactive plots
+- 🤖 **ML-Powered Analysis**: Sentiment analysis and personality insights
+- 🌙 **Dark Mode Support**: Fully compatible with Streamlit's native dark/light themes
+- 🚀 **Easy to Use**: Upload chat → Click analyze → Get insights
+- 🇮🇳 **Hinglish Support**: Optimized for Indian English and Hindi mixed conversations
 
 ## Features
 
@@ -41,7 +50,8 @@ A comprehensive Streamlit web application that analyzes WhatsApp chat exports wi
 
 ### 1. Clone the Repository
 ```bash
-cd wca
+git clone https://github.com/Arijit2772-dev/thapar_ml_project.git
+cd thapar_ml_project
 ```
 
 ### 2. Install Dependencies
@@ -77,7 +87,7 @@ streamlit run code/app.py
 ## Project Structure
 
 ```
-wca/
+thapar_ml_project/
 ├── code/                       # Source code
 │   ├── app.py                 # Main Streamlit application
 │   ├── preprocessor.py        # WhatsApp chat parsing
@@ -95,6 +105,7 @@ wca/
 ├── .streamlit/                 # Streamlit configuration
 │   └── config.toml
 ├── requirements.txt            # Python dependencies
+├── packages.txt                # System dependencies for deployment
 ├── demo_ml.py                  # ML features demo/test script
 ├── START_HERE.md              # Quick start guide
 └── README.md                   # This file
@@ -141,7 +152,7 @@ Uses VADER (Valence Aware Dictionary and sEntiment Reasoner) which is specifical
 - **vaderSentiment**: Social media sentiment analysis (optional)
 
 ### Machine Learning
-- **scikit-learn**: ML algorithms (KMeans, LDA, NMF, RandomForest, TF-IDF)
+- **scikit-learn**: ML algorithms and preprocessing tools
 
 ## Technical Details
 
@@ -153,7 +164,7 @@ Uses VADER (Valence Aware Dictionary and sEntiment Reasoner) which is specifical
 ### Text Processing
 1. **Stop Words Filtering**: Removes common Hinglish words
 2. **Tokenization**: Splits messages into words
-3. **Vectorization**: TF-IDF or Count Vectorization for ML models
+3. **Sentiment Analysis**: Uses VADER or TextBlob for polarity scoring
 
 ### Supported Chat Format
 ```
@@ -179,7 +190,7 @@ The app works best with chat files containing 50-10,000 messages. Very large cha
 1. **Language Support**: Optimized for English and Hinglish
 2. **File Format**: Only supports standard WhatsApp text export format
 3. **Memory**: Large chat files (>50MB) may cause memory issues
-4. **Path Hardcoding**: Stop words file uses absolute path (needs configuration)
+4. **Dataset Size**: Works best with 50-10,000 messages
 
 ## Future Enhancements
 
