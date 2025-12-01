@@ -4,11 +4,21 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-# Configure matplotlib to work with Streamlit's native theme
-plt.rcParams['figure.facecolor'] = 'none'  # Transparent background
-plt.rcParams['axes.facecolor'] = 'none'
-plt.rcParams['savefig.facecolor'] = 'none'
-plt.rcParams['savefig.transparent'] = True
+# Configure matplotlib for dark mode visibility
+# Set colors that are bright enough to see in dark mode
+plt.rcParams.update({
+    'figure.facecolor': 'none',
+    'axes.facecolor': 'none',
+    'savefig.facecolor': 'none',
+    'savefig.transparent': True,
+    'text.color': '#FAFAFA',
+    'axes.labelcolor': '#FAFAFA',
+    'axes.edgecolor': '#FAFAFA',
+    'xtick.color': '#FAFAFA',
+    'ytick.color': '#FAFAFA',
+    'ytick.labelsize': 10,
+    'xtick.labelsize': 10,
+})
 
 st.sidebar.title("Whatsapp Chat Analyzer")
 
@@ -61,7 +71,7 @@ if uploaded_file is not None:
         st.title("Monthly Timeline")
         timeline = helper.monthly_timeline(selected_user,df)
         fig,ax = plt.subplots()
-        ax.plot(timeline['time'], timeline['message'],color='green')
+        ax.plot(timeline['time'], timeline['message'], color='#00D9FF', linewidth=2)
         plt.xticks(rotation='vertical')
         st.pyplot(fig)
 
@@ -69,7 +79,7 @@ if uploaded_file is not None:
         st.title("Daily Timeline")
         daily_timeline = helper.daily_timeline(selected_user, df)
         fig, ax = plt.subplots()
-        ax.plot(daily_timeline['only_date'], daily_timeline['message'], color='black')
+        ax.plot(daily_timeline['only_date'], daily_timeline['message'], color='#FF6B6B', linewidth=2)
         plt.xticks(rotation='vertical')
         st.pyplot(fig)
 
@@ -81,7 +91,7 @@ if uploaded_file is not None:
             st.header("Most busy day")
             busy_day = helper.week_activity_map(selected_user,df)
             fig,ax = plt.subplots()
-            ax.bar(busy_day.index,busy_day.values,color='purple')
+            ax.bar(busy_day.index, busy_day.values, color='#B19CD9')
             plt.xticks(rotation='vertical')
             st.pyplot(fig)
 
@@ -89,14 +99,21 @@ if uploaded_file is not None:
             st.header("Most busy month")
             busy_month = helper.month_activity_map(selected_user, df)
             fig, ax = plt.subplots()
-            ax.bar(busy_month.index, busy_month.values,color='orange')
+            ax.bar(busy_month.index, busy_month.values, color='#FFA500')
             plt.xticks(rotation='vertical')
             st.pyplot(fig)
 
         st.title("Weekly Activity Map")
         user_heatmap = helper.activity_heatmap(selected_user,df)
         fig, ax = plt.subplots(figsize=(12, 6))
-        ax = sns.heatmap(user_heatmap, cmap='YlOrRd', annot=True, fmt='.0f', linewidths=0.5)
+        ax = sns.heatmap(user_heatmap, cmap='YlOrRd', annot=True, fmt='.0f',
+                        linewidths=0.5, cbar_kws={'label': 'Messages'})
+        ax.set_xlabel('Time Period', color='#FAFAFA')
+        ax.set_ylabel('Day of Week', color='#FAFAFA')
+        ax.set_title('Weekly Activity Heatmap', color='#FAFAFA')
+        # Make colorbar label visible
+        cbar = ax.collections[0].colorbar
+        cbar.set_label('Messages', color='#FAFAFA')
         st.pyplot(fig)
 
         # finding the busiest users in the group(Group level)
@@ -108,7 +125,7 @@ if uploaded_file is not None:
             col1, col2 = st.columns(2)
 
             with col1:
-                ax.bar(x.index, x.values,color='red')
+                ax.bar(x.index, x.values, color='#FF4B4B')
                 plt.xticks(rotation='vertical')
                 st.pyplot(fig)
             with col2:
@@ -220,9 +237,15 @@ if uploaded_file is not None:
                     # Sentiment distribution pie chart
                     fig, ax = plt.subplots(figsize=(8, 6))
                     colors = ['#2ecc71', '#95a5a6', '#e74c3c']
-                    ax.pie(dist.values, labels=dist.index, autopct='%1.1f%%',
+                    wedges, texts, autotexts = ax.pie(dist.values, labels=dist.index, autopct='%1.1f%%',
                            colors=colors, startangle=90)
-                    ax.set_title('Sentiment Distribution')
+                    # Make text white for visibility
+                    for text in texts:
+                        text.set_color('#FAFAFA')
+                    for autotext in autotexts:
+                        autotext.set_color('white')
+                        autotext.set_weight('bold')
+                    ax.set_title('Sentiment Distribution', color='#FAFAFA')
                     st.pyplot(fig)
 
                     # Average polarity
@@ -236,10 +259,13 @@ if uploaded_file is not None:
                         fig, ax = plt.subplots(figsize=(12, 6))
                         sentiment_results['timeline'].plot(kind='area', stacked=True,
                                                            color=colors, ax=ax, alpha=0.7)
-                        ax.set_xlabel('Date')
-                        ax.set_ylabel('Number of Messages')
-                        ax.set_title('Sentiment Timeline')
-                        ax.legend(title='Sentiment')
+                        ax.set_xlabel('Date', color='#FAFAFA')
+                        ax.set_ylabel('Number of Messages', color='#FAFAFA')
+                        ax.set_title('Sentiment Timeline', color='#FAFAFA')
+                        legend = ax.legend(title='Sentiment')
+                        legend.get_title().set_color('#FAFAFA')
+                        for text in legend.get_texts():
+                            text.set_color('#FAFAFA')
                         plt.xticks(rotation=45)
                         st.pyplot(fig)
 
@@ -248,11 +274,11 @@ if uploaded_file is not None:
                         st.subheader("Most Positive Users")
                         fig, ax = plt.subplots(figsize=(10, 6))
                         user_sent = sentiment_results['user_sentiment']
-                        ax.barh(range(len(user_sent)), user_sent.values, color='skyblue')
+                        ax.barh(range(len(user_sent)), user_sent.values, color='#00D9FF')
                         ax.set_yticks(range(len(user_sent)))
                         ax.set_yticklabels(user_sent.index)
-                        ax.set_xlabel('Average Polarity Score')
-                        ax.set_title('Top 10 Users by Sentiment Positivity')
+                        ax.set_xlabel('Average Polarity Score', color='#FAFAFA')
+                        ax.set_title('Top 10 Users by Sentiment Positivity', color='#FAFAFA')
                         st.pyplot(fig)
                 else:
                     st.info("Not enough data for sentiment analysis")
@@ -301,10 +327,10 @@ if uploaded_file is not None:
                         # Cluster size distribution
                         cluster_sizes = [c['size'] for c in cluster_result['clusters']]
                         fig, ax = plt.subplots(figsize=(10, 6))
-                        ax.bar(range(len(cluster_sizes)), cluster_sizes, color='teal')
-                        ax.set_xlabel('Cluster ID')
-                        ax.set_ylabel('Number of Messages')
-                        ax.set_title('Cluster Size Distribution')
+                        ax.bar(range(len(cluster_sizes)), cluster_sizes, color='#00CED1')
+                        ax.set_xlabel('Cluster ID', color='#FAFAFA')
+                        ax.set_ylabel('Number of Messages', color='#FAFAFA')
+                        ax.set_title('Cluster Size Distribution', color='#FAFAFA')
                         st.pyplot(fig)
 
                         # Show cluster details
@@ -341,9 +367,9 @@ if uploaded_file is not None:
                             st.subheader("Feature Importance")
                             fig, ax = plt.subplots(figsize=(10, 6))
                             feat_imp = prediction_result['feature_importance']
-                            ax.barh(feat_imp['feature'], feat_imp['importance'], color='coral')
-                            ax.set_xlabel('Importance Score')
-                            ax.set_title('Which Features Predict User Activity?')
+                            ax.barh(feat_imp['feature'], feat_imp['importance'], color='#FF7F50')
+                            ax.set_xlabel('Importance Score', color='#FAFAFA')
+                            ax.set_title('Which Features Predict User Activity?', color='#FAFAFA')
                             st.pyplot(fig)
 
                             st.success("Model trained! This predicts which user will message next based on time patterns.")
