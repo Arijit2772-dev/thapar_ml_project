@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.zip
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Personal/Sample data - Keep only one sample for demo
+chats/WhatsApp Chat with 3C61 to 3C65.txt
+chats/WhatsApp Chat with GSoC 2026.txt
+chats/WhatsApp Chat with Web3 Thapar 💪 2.txt
+
+# Development files
+code/help.txt
+code/test.ipynb
+code/main.ipynb
+
+# Old wca folder (now moved to root)
+wca/
+*.zip

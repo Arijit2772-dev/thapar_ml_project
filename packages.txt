@@ -1,0 +1,4 @@
+# System packages required for deployment
+# This file is used by Streamlit Cloud
+
+# None required for this project - all dependencies are Python packages
