@@ -140,7 +140,9 @@ def topic_modeling(df, selected_user='Overall', n_topics=5, method='lda'):
     df = df[df['user'] != 'group_notification']
     df = df[df['message'] != '<Media omitted>\n']
 
-    if df.empty or len(df) < n_topics:
+    # Minimum messages needed for topic modeling
+    min_messages = max(10, n_topics * 2)
+    if df.empty or len(df) < min_messages:
         return None
 
     # Load stop words
@@ -150,58 +152,75 @@ def topic_modeling(df, selected_user='Overall', n_topics=5, method='lda'):
     except:
         stop_words = []
 
-    # Vectorize messages
-    if method == 'lda':
-        vectorizer = CountVectorizer(max_features=1000, stop_words=stop_words, min_df=2)
-        doc_term_matrix = vectorizer.fit_transform(df['message'])
+    # Vectorize messages - use min_df=1 for smaller datasets
+    min_df = 1 if len(df) < 100 else 2
 
-        # LDA model
-        lda_model = LatentDirichletAllocation(n_components=n_topics, random_state=42, max_iter=20)
-        lda_model.fit(doc_term_matrix)
+    try:
+        if method == 'lda':
+            vectorizer = CountVectorizer(max_features=1000, stop_words=stop_words,
+                                        min_df=min_df, max_df=0.95)
+            doc_term_matrix = vectorizer.fit_transform(df['message'])
 
-        # Get top words for each topic
-        feature_names = vectorizer.get_feature_names_out()
-        topics = []
-        for topic_idx, topic in enumerate(lda_model.components_):
-            top_words_idx = topic.argsort()[-10:][::-1]
-            top_words = [feature_names[i] for i in top_words_idx]
-            topics.append({
-                'topic_id': topic_idx + 1,
-                'top_words': top_words
-            })
+            # Check if we have enough features
+            if doc_term_matrix.shape[1] < n_topics:
+                return None
 
-        return {
-            'topics': topics,
-            'model': lda_model,
-            'vectorizer': vectorizer,
-            'method': 'LDA'
-        }
+            # LDA model
+            lda_model = LatentDirichletAllocation(n_components=n_topics, random_state=42, max_iter=20)
+            lda_model.fit(doc_term_matrix)
 
-    else:  # NMF
-        vectorizer = TfidfVectorizer(max_features=1000, stop_words=stop_words, min_df=2)
-        tfidf_matrix = vectorizer.fit_transform(df['message'])
+            # Get top words for each topic
+            feature_names = vectorizer.get_feature_names_out()
+            topics = []
+            for topic_idx, topic in enumerate(lda_model.components_):
+                top_words_idx = topic.argsort()[-10:][::-1]
+                top_words = [feature_names[i] for i in top_words_idx]
+                topics.append({
+                    'topic_id': topic_idx + 1,
+                    'top_words': top_words
+                })
 
-        # NMF model
-        nmf_model = NMF(n_components=n_topics, random_state=42, max_iter=200)
-        nmf_model.fit(tfidf_matrix)
+            return {
+                'topics': topics,
+                'model': lda_model,
+                'vectorizer': vectorizer,
+                'method': 'LDA'
+            }
 
-        # Get top words for each topic
-        feature_names = vectorizer.get_feature_names_out()
-        topics = []
-        for topic_idx, topic in enumerate(nmf_model.components_):
-            top_words_idx = topic.argsort()[-10:][::-1]
-            top_words = [feature_names[i] for i in top_words_idx]
-            topics.append({
-                'topic_id': topic_idx + 1,
-                'top_words': top_words
-            })
+        else:  # NMF
+            vectorizer = TfidfVectorizer(max_features=1000, stop_words=stop_words,
+                                        min_df=min_df, max_df=0.95)
+            tfidf_matrix = vectorizer.fit_transform(df['message'])
 
-        return {
-            'topics': topics,
-            'model': nmf_model,
-            'vectorizer': vectorizer,
-            'method': 'NMF'
-        }
+            # Check if we have enough features
+            if tfidf_matrix.shape[1] < n_topics:
+                return None
+
+            # NMF model
+            nmf_model = NMF(n_components=n_topics, random_state=42, max_iter=200)
+            nmf_model.fit(tfidf_matrix)
+
+            # Get top words for each topic
+            feature_names = vectorizer.get_feature_names_out()
+            topics = []
+            for topic_idx, topic in enumerate(nmf_model.components_):
+                top_words_idx = topic.argsort()[-10:][::-1]
+                top_words = [feature_names[i] for i in top_words_idx]
+                topics.append({
+                    'topic_id': topic_idx + 1,
+                    'top_words': top_words
+                })
+
+            return {
+                'topics': topics,
+                'model': nmf_model,
+                'vectorizer': vectorizer,
+                'method': 'NMF'
+            }
+
+    except Exception as e:
+        print(f"Error in topic modeling: {e}")
+        return None
 
 
 def message_clustering(df, selected_user='Overall', n_clusters=5):
@@ -217,7 +236,9 @@ def message_clustering(df, selected_user='Overall', n_clusters=5):
     df = df[df['user'] != 'group_notification']
     df = df[df['message'] != '<Media omitted>\n']
 
-    if df.empty or len(df) < n_clusters:
+    # Need at least 2x clusters worth of messages
+    min_messages = max(10, n_clusters * 2)
+    if df.empty or len(df) < min_messages:
         return None
 
     # Load stop words
@@ -227,38 +248,50 @@ def message_clustering(df, selected_user='Overall', n_clusters=5):
     except:
         stop_words = []
 
-    # TF-IDF vectorization
-    vectorizer = TfidfVectorizer(max_features=500, stop_words=stop_words, min_df=2, max_df=0.8)
-    tfidf_matrix = vectorizer.fit_transform(df['message'])
+    try:
+        # TF-IDF vectorization - use min_df=1 for smaller datasets
+        min_df = 1 if len(df) < 100 else 2
+        vectorizer = TfidfVectorizer(max_features=500, stop_words=stop_words,
+                                     min_df=min_df, max_df=0.95)
+        tfidf_matrix = vectorizer.fit_transform(df['message'])
 
-    # K-Means clustering
-    kmeans = KMeans(n_clusters=min(n_clusters, len(df)), random_state=42, n_init=10)
-    clusters = kmeans.fit_predict(tfidf_matrix)
+        # Check if we have enough features
+        if tfidf_matrix.shape[1] < 3:
+            return None
 
-    df['cluster'] = clusters
+        # K-Means clustering
+        actual_clusters = min(n_clusters, len(df))
+        kmeans = KMeans(n_clusters=actual_clusters, random_state=42, n_init=10)
+        clusters = kmeans.fit_predict(tfidf_matrix)
 
-    # Get representative messages from each cluster
-    cluster_info = []
-    for cluster_id in range(n_clusters):
-        cluster_messages = df[df['cluster'] == cluster_id]
-        if len(cluster_messages) > 0:
-            # Get messages closest to centroid
-            cluster_indices = np.where(clusters == cluster_id)[0]
-            distances = kmeans.transform(tfidf_matrix[cluster_indices])[:, cluster_id]
-            closest_idx = cluster_indices[distances.argmin()]
+        df['cluster'] = clusters
 
-            cluster_info.append({
-                'cluster_id': cluster_id,
-                'size': len(cluster_messages),
-                'representative_message': df.iloc[closest_idx]['message'][:100],
-                'sample_messages': cluster_messages['message'].head(5).tolist()
-            })
+        # Get representative messages from each cluster
+        cluster_info = []
+        for cluster_id in range(actual_clusters):
+            cluster_messages = df[df['cluster'] == cluster_id]
+            if len(cluster_messages) > 0:
+                # Get messages closest to centroid
+                cluster_indices = np.where(clusters == cluster_id)[0]
+                distances = kmeans.transform(tfidf_matrix[cluster_indices])[:, cluster_id]
+                closest_idx = cluster_indices[distances.argmin()]
 
-    return {
-        'df': df,
-        'clusters': cluster_info,
-        'n_clusters': n_clusters
-    }
+                cluster_info.append({
+                    'cluster_id': cluster_id,
+                    'size': len(cluster_messages),
+                    'representative_message': df.iloc[closest_idx]['message'][:100],
+                    'sample_messages': cluster_messages['message'].head(5).tolist()
+                })
+
+        return {
+            'df': df,
+            'clusters': cluster_info,
+            'n_clusters': actual_clusters
+        }
+
+    except Exception as e:
+        print(f"Error in message clustering: {e}")
+        return None
 
 
 def predict_user_activity(df):
@@ -266,61 +299,73 @@ def predict_user_activity(df):
     Predict which user is likely to send next message based on temporal patterns
     and conversation flow
     """
-    # Filter out group notifications
-    df = df[df['user'] != 'group_notification'].copy()
+    try:
+        # Filter out group notifications
+        df = df[df['user'] != 'group_notification'].copy()
 
-    if len(df) < 50:  # Need enough data
+        # Need enough data and at least 2 different users
+        unique_users = df['user'].nunique()
+        if len(df) < 50 or unique_users < 2:
+            return None
+
+        # Create features
+        df['hour_sin'] = np.sin(2 * np.pi * df['hour'] / 24)
+        df['hour_cos'] = np.cos(2 * np.pi * df['hour'] / 24)
+        df['day_of_week'] = df['date'].dt.dayofweek
+        df['is_weekend'] = df['day_of_week'].isin([5, 6]).astype(int)
+        df['message_length'] = df['message'].str.len()
+
+        # Previous user (lag feature)
+        df['prev_user'] = df['user'].shift(1)
+        df['prev_hour'] = df['hour'].shift(1)
+
+        # Drop NaN from lag
+        df = df.dropna(subset=['prev_user', 'prev_hour'])
+
+        if len(df) < 20:  # After dropping NaNs, still need enough data
+            return None
+
+        # Encode users
+        le = LabelEncoder()
+        df['user_encoded'] = le.fit_transform(df['user'])
+        df['prev_user_encoded'] = le.transform(df['prev_user'])
+
+        # Features and target
+        feature_cols = ['hour_sin', 'hour_cos', 'day_of_week', 'is_weekend',
+                        'message_length', 'prev_user_encoded', 'prev_hour']
+        X = df[feature_cols]
+        y = df['user_encoded']
+
+        # Train-test split
+        test_size = min(0.2, 10 / len(df))  # At least 10 samples or 20% for test
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=42)
+
+        # Random Forest Classifier
+        n_estimators = min(100, len(X_train) // 2)  # Don't use too many trees for small datasets
+        model = RandomForestClassifier(n_estimators=max(10, n_estimators), random_state=42, max_depth=10)
+        model.fit(X_train, y_train)
+
+        # Accuracy
+        train_accuracy = model.score(X_train, y_train)
+        test_accuracy = model.score(X_test, y_test)
+
+        # Feature importance
+        feature_importance = pd.DataFrame({
+            'feature': feature_cols,
+            'importance': model.feature_importances_
+        }).sort_values('importance', ascending=False)
+
+        return {
+            'model': model,
+            'label_encoder': le,
+            'train_accuracy': train_accuracy,
+            'test_accuracy': test_accuracy,
+            'feature_importance': feature_importance
+        }
+
+    except Exception as e:
+        print(f"Error in activity prediction: {e}")
         return None
-
-    # Create features
-    df['hour_sin'] = np.sin(2 * np.pi * df['hour'] / 24)
-    df['hour_cos'] = np.cos(2 * np.pi * df['hour'] / 24)
-    df['day_of_week'] = df['date'].dt.dayofweek
-    df['is_weekend'] = df['day_of_week'].isin([5, 6]).astype(int)
-    df['message_length'] = df['message'].str.len()
-
-    # Previous user (lag feature)
-    df['prev_user'] = df['user'].shift(1)
-    df['prev_hour'] = df['hour'].shift(1)
-
-    # Drop NaN from lag
-    df = df.dropna(subset=['prev_user'])
-
-    # Encode users
-    le = LabelEncoder()
-    df['user_encoded'] = le.fit_transform(df['user'])
-    df['prev_user_encoded'] = le.transform(df['prev_user'])
-
-    # Features and target
-    feature_cols = ['hour_sin', 'hour_cos', 'day_of_week', 'is_weekend',
-                    'message_length', 'prev_user_encoded', 'prev_hour']
-    X = df[feature_cols]
-    y = df['user_encoded']
-
-    # Train-test split
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-    # Random Forest Classifier
-    model = RandomForestClassifier(n_estimators=100, random_state=42, max_depth=10)
-    model.fit(X_train, y_train)
-
-    # Accuracy
-    train_accuracy = model.score(X_train, y_train)
-    test_accuracy = model.score(X_test, y_test)
-
-    # Feature importance
-    feature_importance = pd.DataFrame({
-        'feature': feature_cols,
-        'importance': model.feature_importances_
-    }).sort_values('importance', ascending=False)
-
-    return {
-        'model': model,
-        'label_encoder': le,
-        'train_accuracy': train_accuracy,
-        'test_accuracy': test_accuracy,
-        'feature_importance': feature_importance
-    }
 
 
 def get_user_personality_insights(df, selected_user):

@@ -307,7 +307,7 @@ if uploaded_file is not None:
                                 st.write("**Top Keywords:**")
                                 st.write(", ".join(topic['top_words']))
                     else:
-                        st.warning("Not enough data for topic modeling")
+                        st.warning(f"Not enough data for topic modeling. Need at least {max(10, n_topics * 2)} messages with sufficient text content.")
 
             # 3. Message Clustering
             st.header("🔍 Message Clustering")
@@ -342,7 +342,7 @@ if uploaded_file is not None:
                                 for i, msg in enumerate(cluster['sample_messages'][:3], 1):
                                     st.text(f"{i}. {msg[:100]}...")
                     else:
-                        st.warning("Not enough data for clustering")
+                        st.warning(f"Not enough data for clustering. Need at least {max(10, n_clusters * 2)} messages with text content.")
 
             # 4. User Activity Prediction
             if selected_user == 'Overall':
@@ -374,7 +374,7 @@ if uploaded_file is not None:
 
                             st.success("Model trained! This predicts which user will message next based on time patterns.")
                         else:
-                            st.warning("Not enough data to train prediction model")
+                            st.warning("Not enough data to train prediction model. Need at least 50 messages from 2+ different users.")
 
             # 5. User Personality Insights
             if selected_user != 'Overall':
