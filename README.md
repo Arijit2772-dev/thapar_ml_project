@@ -30,26 +30,7 @@ A comprehensive Streamlit web application that analyzes WhatsApp chat exports wi
 - **Temporal Trends**: Sentiment changes over time
 - **User Comparison**: Most positive users in group chats
 
-#### 2. Topic Modeling
-- **LDA (Latent Dirichlet Allocation)**: Statistical topic discovery
-- **NMF (Non-negative Matrix Factorization)**: Alternative topic extraction
-- **Configurable Topics**: Choose 3-10 topics to discover
-- **Keyword Extraction**: Top 10 keywords per topic
-
-#### 3. Message Clustering
-- **K-Means Clustering**: Group similar messages together
-- **TF-IDF Vectorization**: Smart text representation
-- **Representative Messages**: See typical messages from each cluster
-- **Cluster Insights**: Understand conversation patterns
-
-#### 4. User Activity Prediction
-- **Random Forest Classifier**: Predicts which user will message next
-- **Temporal Features**: Hour, day of week, weekend patterns
-- **Conversation Flow**: Previous user patterns
-- **Feature Importance**: Understand what drives user activity
-- **Model Accuracy Metrics**: Training and test performance
-
-#### 5. User Personality Insights
+#### 2. User Personality Insights
 - **Message Style**: Verbose vs Concise communicator
 - **Activity Type**: Morning person, Night owl, etc.
 - **Emoji Usage**: High vs Low emoji user
@@ -101,7 +82,7 @@ wca/
 │   ├── app.py                 # Main Streamlit application
 │   ├── preprocessor.py        # WhatsApp chat parsing
 │   ├── helper.py              # Statistical analysis functions
-│   └── ml_models.py           # Machine Learning models (5 models)
+│   └── ml_models.py           # Machine Learning models (Sentiment & Personality)
 ├── docs/                       # Documentation
 │   ├── DEPLOY_NOW.md          # Quick deployment guide
 │   ├── DEPLOYMENT.md          # Complete deployment guide
@@ -133,32 +114,13 @@ Uses VADER (Valence Aware Dictionary and sEntiment Reasoner) which is specifical
 - Score ≤ -0.05: Negative
 - Otherwise: Neutral
 
-### Topic Modeling
-
-**LDA (Latent Dirichlet Allocation)**
-- Probabilistic model that assumes documents are mixtures of topics
-- Each topic is a distribution over words
-- Discovers hidden thematic structure
-
-**NMF (Non-negative Matrix Factorization)**
-- Linear algebra approach to topic extraction
-- Factorizes term-document matrix into two matrices
-- Often produces more interpretable topics
-
-### Message Clustering
-**K-Means Algorithm**
-1. Convert messages to TF-IDF vectors
-2. Initialize K cluster centroids randomly
-3. Assign each message to nearest centroid
-4. Update centroids based on assigned messages
-5. Repeat until convergence
-
-### Activity Prediction
-**Random Forest Classifier**
-- Ensemble of decision trees
-- Features: hour (sin/cos encoding), day of week, weekend flag, message length, previous user
-- Predicts which user is likely to send the next message
-- Uses temporal patterns and conversation flow
+### User Personality Analysis
+**Pattern Recognition**
+- Analyzes message length patterns to determine communication style
+- Identifies peak activity hours to determine activity type
+- Calculates emoji usage frequency
+- Measures response time patterns
+- Computes engagement percentage in conversations
 
 ## Dependencies
 
@@ -207,11 +169,10 @@ Example:
 ## Performance Considerations
 
 - **Sentiment Analysis**: O(n) where n = number of messages
-- **Topic Modeling**: O(n × k × i) where k = topics, i = iterations
-- **Clustering**: O(n × k × i) where k = clusters, i = iterations
-- **Prediction Model**: O(n × log(n)) for Random Forest
+- **Personality Analysis**: O(n) where n = number of messages
+- **Statistical Features**: O(n) for most operations
 
-For large chats (>10,000 messages), ML operations may take 10-30 seconds.
+The app works best with chat files containing 50-10,000 messages. Very large chats (>10,000 messages) may take 10-30 seconds to analyze.
 
 ## Limitations
 
@@ -224,12 +185,10 @@ For large chats (>10,000 messages), ML operations may take 10-30 seconds.
 
 - [ ] Language detection and multilingual support
 - [ ] Named Entity Recognition (NER)
-- [ ] Conversation thread detection
 - [ ] Export analysis reports (PDF/HTML)
-- [ ] Real-time chat monitoring
+- [ ] Topic modeling for very large chat datasets (500+ messages)
 - [ ] Deep learning models (BERT, transformers)
 - [ ] User authentication and data privacy
-- [ ] Configurable file paths
 
 ## Contributing
 

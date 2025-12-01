@@ -45,7 +45,7 @@ if uploaded_file is not None:
     # ML Feature Toggle
     st.sidebar.markdown("---")
     st.sidebar.subheader("ML Features")
-    enable_ml = st.sidebar.checkbox("Enable ML Analysis", value=True)
+    enable_ml = st.sidebar.checkbox("Enable ML Analysis (Sentiment & Personality)", value=True)
 
     if st.sidebar.button("Show Analysis"):
 
@@ -283,100 +283,10 @@ if uploaded_file is not None:
                 else:
                     st.info("Not enough data for sentiment analysis")
 
-            # 2. Topic Modeling
-            st.header("📚 Topic Discovery")
-            col1, col2 = st.columns(2)
-            with col1:
-                n_topics = st.slider("Number of Topics", 3, 10, 5)
-            with col2:
-                topic_method = st.selectbox("Method", ['lda', 'nmf'])
+            # Note about advanced ML features
+            st.info("ℹ️ **Advanced ML Features** like Topic Modeling and Message Clustering require large chat datasets (500+ messages) to work effectively. Your current chat may not have enough data for these features.")
 
-            if st.button("Discover Topics"):
-                with st.spinner("Running topic modeling..."):
-                    try:
-                        topics_result = ml_models.topic_modeling(df, selected_user, n_topics, topic_method)
-                    except Exception as e:
-                        st.error(f"Error in topic modeling: {str(e)}")
-                        topics_result = None
-
-                    if topics_result:
-                        st.success(f"Discovered {n_topics} topics using {topics_result['method']}")
-
-                        for topic in topics_result['topics']:
-                            with st.expander(f"📌 Topic {topic['topic_id']}"):
-                                st.write("**Top Keywords:**")
-                                st.write(", ".join(topic['top_words']))
-                    else:
-                        st.warning(f"Not enough data for topic modeling. Need at least {max(10, n_topics * 2)} messages with sufficient text content.")
-
-            # 3. Message Clustering
-            st.header("🔍 Message Clustering")
-            n_clusters = st.slider("Number of Clusters", 3, 8, 5)
-
-            if st.button("Cluster Messages"):
-                with st.spinner("Clustering messages..."):
-                    try:
-                        cluster_result = ml_models.message_clustering(df, selected_user, n_clusters)
-                    except Exception as e:
-                        st.error(f"Error in message clustering: {str(e)}")
-                        cluster_result = None
-
-                    if cluster_result:
-                        st.success(f"Messages grouped into {cluster_result['n_clusters']} clusters")
-
-                        # Cluster size distribution
-                        cluster_sizes = [c['size'] for c in cluster_result['clusters']]
-                        fig, ax = plt.subplots(figsize=(10, 6))
-                        ax.bar(range(len(cluster_sizes)), cluster_sizes, color='#00CED1')
-                        ax.set_xlabel('Cluster ID', color='#FAFAFA')
-                        ax.set_ylabel('Number of Messages', color='#FAFAFA')
-                        ax.set_title('Cluster Size Distribution', color='#FAFAFA')
-                        st.pyplot(fig)
-
-                        # Show cluster details
-                        for cluster in cluster_result['clusters']:
-                            with st.expander(f"Cluster {cluster['cluster_id']} ({cluster['size']} messages)"):
-                                st.write("**Representative Message:**")
-                                st.info(cluster['representative_message'])
-                                st.write("**Sample Messages:**")
-                                for i, msg in enumerate(cluster['sample_messages'][:3], 1):
-                                    st.text(f"{i}. {msg[:100]}...")
-                    else:
-                        st.warning(f"Not enough data for clustering. Need at least {max(10, n_clusters * 2)} messages with text content.")
-
-            # 4. User Activity Prediction
-            if selected_user == 'Overall':
-                st.header("🎯 Activity Prediction Model")
-                if st.button("Train Prediction Model"):
-                    with st.spinner("Training Random Forest model..."):
-                        try:
-                            prediction_result = ml_models.predict_user_activity(df)
-                        except Exception as e:
-                            st.error(f"Error in activity prediction: {str(e)}")
-                            prediction_result = None
-
-                        if prediction_result:
-                            col1, col2 = st.columns(2)
-                            with col1:
-                                st.metric("Training Accuracy",
-                                         f"{prediction_result['train_accuracy']*100:.2f}%")
-                            with col2:
-                                st.metric("Test Accuracy",
-                                         f"{prediction_result['test_accuracy']*100:.2f}%")
-
-                            st.subheader("Feature Importance")
-                            fig, ax = plt.subplots(figsize=(10, 6))
-                            feat_imp = prediction_result['feature_importance']
-                            ax.barh(feat_imp['feature'], feat_imp['importance'], color='#FF7F50')
-                            ax.set_xlabel('Importance Score', color='#FAFAFA')
-                            ax.set_title('Which Features Predict User Activity?', color='#FAFAFA')
-                            st.pyplot(fig)
-
-                            st.success("Model trained! This predicts which user will message next based on time patterns.")
-                        else:
-                            st.warning("Not enough data to train prediction model. Need at least 50 messages from 2+ different users.")
-
-            # 5. User Personality Insights
+            # 2. User Personality Insights
             if selected_user != 'Overall':
                 st.header("🧠 User Personality Insights")
                 try:
