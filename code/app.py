@@ -292,10 +292,9 @@ if uploaded_file is not None:
             st.markdown("*These are actual ML models trained on your chat data*")
 
             # Emoji Usage Classifier
-            st.subheader("1️⃣ Emoji Usage Classifier (Binary Classification)")
-            st.write("**Algorithm**: Logistic Regression | **Task**: Predict if message contains emoji")
+            with st.expander("1️⃣ Emoji Usage Classifier (Binary Classification)", expanded=False):
+                st.write("**Algorithm**: Logistic Regression | **Task**: Predict if message contains emoji")
 
-            if st.button("Train Emoji Classifier", key="emoji_clf"):
                 with st.spinner("Training Logistic Regression model..."):
                     try:
                         emoji_result = ml_models.train_emoji_classifier(df)
@@ -303,35 +302,34 @@ if uploaded_file is not None:
                         st.error(f"Error: {str(e)}")
                         emoji_result = None
 
-                    if emoji_result:
-                        col1, col2 = st.columns(2)
-                        with col1:
-                            st.metric("Training Accuracy", f"{emoji_result['train_accuracy']*100:.1f}%")
-                        with col2:
-                            st.metric("Test Accuracy", f"{emoji_result['test_accuracy']*100:.1f}%")
+                if emoji_result:
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        st.metric("Training Accuracy", f"{emoji_result['train_accuracy']*100:.1f}%")
+                    with col2:
+                        st.metric("Test Accuracy", f"{emoji_result['test_accuracy']*100:.1f}%")
 
-                        st.info(f"📊 Dataset: {emoji_result['total_messages']} messages | {emoji_result['emoji_percentage']:.1f}% contain emojis")
+                    st.info(f"📊 Dataset: {emoji_result['total_messages']} messages | {emoji_result['emoji_percentage']:.1f}% contain emojis")
 
-                        # Feature importance
-                        st.write("**Feature Coefficients:**")
-                        fig, ax = plt.subplots(figsize=(10, 5))
-                        feat_imp = emoji_result['feature_importance']
-                        colors = ['#FF6B6B' if x < 0 else '#4ECDC4' for x in feat_imp['coefficient']]
-                        ax.barh(feat_imp['feature'], feat_imp['coefficient'], color=colors)
-                        ax.set_xlabel('Coefficient (+ means more likely to have emoji)', color='#FAFAFA')
-                        ax.set_title('Logistic Regression Feature Importance', color='#FAFAFA')
-                        ax.axvline(x=0, color='white', linestyle='--', alpha=0.5)
-                        st.pyplot(fig)
+                    # Feature importance
+                    st.write("**Feature Coefficients:**")
+                    fig, ax = plt.subplots(figsize=(10, 5))
+                    feat_imp = emoji_result['feature_importance']
+                    colors = ['#FF6B6B' if x < 0 else '#4ECDC4' for x in feat_imp['coefficient']]
+                    ax.barh(feat_imp['feature'], feat_imp['coefficient'], color=colors)
+                    ax.set_xlabel('Coefficient (+ means more likely to have emoji)', color='#FAFAFA')
+                    ax.set_title('Logistic Regression Feature Importance', color='#FAFAFA')
+                    ax.axvline(x=0, color='white', linestyle='--', alpha=0.5)
+                    st.pyplot(fig)
 
-                        st.success("✅ Model trained! This predicts emoji usage based on message features.")
-                    else:
-                        st.warning("Need at least 20 messages with both emoji and non-emoji messages.")
+                    st.success("✅ Model trained! This predicts emoji usage based on message features.")
+                else:
+                    st.warning("Need at least 20 messages with both emoji and non-emoji messages.")
 
             # Message Length Predictor
-            st.subheader("2️⃣ Message Length Predictor (Regression)")
-            st.write("**Algorithm**: Random Forest Regressor | **Task**: Predict message length")
+            with st.expander("2️⃣ Message Length Predictor (Regression)", expanded=False):
+                st.write("**Algorithm**: Random Forest Regressor | **Task**: Predict message length")
 
-            if st.button("Train Length Predictor", key="length_reg"):
                 with st.spinner("Training Random Forest Regressor..."):
                     try:
                         length_result = ml_models.train_message_length_predictor(df)
@@ -339,44 +337,43 @@ if uploaded_file is not None:
                         st.error(f"Error: {str(e)}")
                         length_result = None
 
-                    if length_result:
-                        col1, col2, col3 = st.columns(3)
-                        with col1:
-                            st.metric("Train MAE", f"{length_result['train_mae']:.1f} chars")
-                        with col2:
-                            st.metric("Test MAE", f"{length_result['test_mae']:.1f} chars")
-                        with col3:
-                            st.metric("R² Score", f"{length_result['test_r2']:.3f}")
+                if length_result:
+                    col1, col2, col3 = st.columns(3)
+                    with col1:
+                        st.metric("Train MAE", f"{length_result['train_mae']:.1f} chars")
+                    with col2:
+                        st.metric("Test MAE", f"{length_result['test_mae']:.1f} chars")
+                    with col3:
+                        st.metric("R² Score", f"{length_result['test_r2']:.3f}")
 
-                        st.info(f"📏 Average message length: {length_result['avg_message_length']:.1f} characters")
+                    st.info(f"📏 Average message length: {length_result['avg_message_length']:.1f} characters")
 
-                        # Feature importance
-                        st.write("**Feature Importance:**")
-                        fig, ax = plt.subplots(figsize=(10, 5))
-                        feat_imp = length_result['feature_importance']
-                        ax.barh(feat_imp['feature'], feat_imp['importance'], color='#95E1D3')
-                        ax.set_xlabel('Importance Score', color='#FAFAFA')
-                        ax.set_title('Random Forest Feature Importance', color='#FAFAFA')
-                        st.pyplot(fig)
+                    # Feature importance
+                    st.write("**Feature Importance:**")
+                    fig, ax = plt.subplots(figsize=(10, 5))
+                    feat_imp = length_result['feature_importance']
+                    ax.barh(feat_imp['feature'], feat_imp['importance'], color='#95E1D3')
+                    ax.set_xlabel('Importance Score', color='#FAFAFA')
+                    ax.set_title('Random Forest Feature Importance', color='#FAFAFA')
+                    st.pyplot(fig)
 
-                        # Predictions vs Actuals
-                        st.write("**Sample Predictions:**")
-                        comparison_df = pd.DataFrame({
-                            'Predicted': length_result['predictions_test'],
-                            'Actual': length_result['actuals_test']
-                        })
-                        st.dataframe(comparison_df.head(10))
+                    # Predictions vs Actuals
+                    st.write("**Sample Predictions:**")
+                    comparison_df = pd.DataFrame({
+                        'Predicted': length_result['predictions_test'],
+                        'Actual': length_result['actuals_test']
+                    })
+                    st.dataframe(comparison_df.head(10))
 
-                        st.success("✅ Model trained! This predicts message length based on time and user patterns.")
-                    else:
-                        st.warning("Need at least 20 messages to train the model.")
+                    st.success("✅ Model trained! This predicts message length based on time and user patterns.")
+                else:
+                    st.warning("Need at least 20 messages to train the model.")
 
             # User Classifier
             if selected_user == 'Overall':
-                st.subheader("3️⃣ User Style Classifier (Multi-class Classification)")
-                st.write("**Algorithm**: Naive Bayes with TF-IDF | **Task**: Identify user by writing style")
+                with st.expander("3️⃣ User Style Classifier (Multi-class Classification)", expanded=False):
+                    st.write("**Algorithm**: Naive Bayes with TF-IDF | **Task**: Identify user by writing style")
 
-                if st.button("Train User Classifier", key="user_clf"):
                     with st.spinner("Training Naive Bayes classifier..."):
                         try:
                             user_result = ml_models.train_user_classifier(df)
@@ -384,24 +381,23 @@ if uploaded_file is not None:
                             st.error(f"Error: {str(e)}")
                             user_result = None
 
-                        if user_result:
-                            col1, col2 = st.columns(2)
-                            with col1:
-                                st.metric("Training Accuracy", f"{user_result['train_accuracy']*100:.1f}%")
-                            with col2:
-                                st.metric("Test Accuracy", f"{user_result['test_accuracy']*100:.1f}%")
+                    if user_result:
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            st.metric("Training Accuracy", f"{user_result['train_accuracy']*100:.1f}%")
+                        with col2:
+                            st.metric("Test Accuracy", f"{user_result['test_accuracy']*100:.1f}%")
 
-                            st.info(f"👥 Classified {user_result['num_users']} different users")
+                        st.info(f"👥 Classified {user_result['num_users']} different users")
 
-                            # User characteristic words
-                            st.write("**Characteristic Words Per User:**")
-                            for user, words in user_result['user_top_words'].items():
-                                with st.expander(f"👤 {user}"):
-                                    st.write(", ".join(words))
+                        # User characteristic words
+                        st.write("**Characteristic Words Per User:**")
+                        for user, words in user_result['user_top_words'].items():
+                            st.markdown(f"**👤 {user}**: {', '.join(words)}")
 
-                            st.success("✅ Model trained! This identifies users based on their unique writing patterns.")
-                        else:
-                            st.warning("Need at least 2 users with 10+ messages each.")
+                        st.success("✅ Model trained! This identifies users based on their unique writing patterns.")
+                    else:
+                        st.warning("Need at least 2 users with 10+ messages each.")
 
             # 3. User Personality Insights
             if selected_user != 'Overall':
