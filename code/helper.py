@@ -40,8 +40,8 @@ def most_busy_users(df):
         columns={'index': 'name', 'user': 'percent'})
     return x,df
 
-def create_wordcloud(selected_user, df, dark_mode=False):
-    """Create word cloud with theme-aware background"""
+def create_wordcloud(selected_user, df):
+    """Create word cloud - background will be transparent to match Streamlit theme"""
     f = open(STOP_WORDS_PATH, 'r')
     stop_words = f.read()
 
@@ -58,12 +58,9 @@ def create_wordcloud(selected_user, df, dark_mode=False):
                 y.append(word)
         return " ".join(y)
 
-    # Set background color based on theme
-    bg_color = 'black' if dark_mode else 'white'
-    colormap = 'viridis' if dark_mode else 'Blues'
-
+    # Use colormap that works well in both light and dark modes
     wc = WordCloud(width=500, height=500, min_font_size=10,
-                   background_color=bg_color, colormap=colormap)
+                   background_color=None, mode='RGBA', colormap='viridis')
     temp['message'] = temp['message'].apply(remove_stop_words)
     df_wc = wc.generate(temp['message'].str.cat(sep=" "))
     return df_wc
