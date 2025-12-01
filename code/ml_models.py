@@ -47,8 +47,8 @@ def sentiment_analysis(df, selected_user='Overall'):
     df = df[df['user'] != 'group_notification']
     df = df[df['message'] != '<Media omitted>\n']
 
-    if df.empty:
-        return pd.DataFrame()
+    if df.empty or len(df) < 5:
+        return None
 
     sentiments = []
     polarities = []

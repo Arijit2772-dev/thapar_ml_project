@@ -4,19 +4,89 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
+# Configure matplotlib for better rendering with Streamlit themes
+def configure_plot_style():
+    """Configure matplotlib to match Streamlit's theme"""
+    try:
+        # Try to detect if dark mode is enabled via custom CSS or user preference
+        # Streamlit doesn't provide direct theme detection, so we'll make plots theme-neutral
+        plt.style.use('default')
+
+        # Set better defaults that work in both light and dark mode
+        plt.rcParams['figure.facecolor'] = 'none'  # Transparent background
+        plt.rcParams['axes.facecolor'] = 'none'
+        plt.rcParams['savefig.facecolor'] = 'none'
+
+        # Make text visible in both themes
+        plt.rcParams['text.color'] = 'gray'
+        plt.rcParams['axes.labelcolor'] = 'gray'
+        plt.rcParams['xtick.color'] = 'gray'
+        plt.rcParams['ytick.color'] = 'gray'
+        plt.rcParams['axes.edgecolor'] = 'gray'
+
+    except:
+        pass
+
+configure_plot_style()
+
+# Inject custom CSS for theme toggle
+def inject_theme_css(theme):
+    """Inject CSS to override theme colors"""
+    if theme == "Dark":
+        st.markdown("""
+        <style>
+        .stApp {
+            background-color: #0E1117;
+            color: #FAFAFA;
+        }
+        .stSidebar {
+            background-color: #262730;
+        }
+        .stMarkdown, .stText {
+            color: #FAFAFA;
+        }
+        </style>
+        """, unsafe_allow_html=True)
+    elif theme == "Light":
+        st.markdown("""
+        <style>
+        .stApp {
+            background-color: #FFFFFF;
+            color: #262730;
+        }
+        .stSidebar {
+            background-color: #F0F2F6;
+        }
+        </style>
+        """, unsafe_allow_html=True)
+
 st.sidebar.title("Whatsapp Chat Analyzer")
+
+# Theme Toggle
+st.sidebar.markdown("---")
+st.sidebar.subheader("⚙️ Settings")
+theme_mode = st.sidebar.radio("Theme", ["Auto", "Light", "Dark"], index=0, horizontal=True)
+
+# Apply theme
+inject_theme_css(theme_mode)
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
-    bytes_data = uploaded_file.getvalue()
-    data = bytes_data.decode("utf-8")
-    df = preprocessor.preprocess(data)
+    try:
+        bytes_data = uploaded_file.getvalue()
+        data = bytes_data.decode("utf-8")
+        df = preprocessor.preprocess(data)
 
-    # fetch unique users
-    user_list = df['user'].unique().tolist()
-    user_list.remove('group_notification')
-    user_list.sort()
-    user_list.insert(0,"Overall")
+        # fetch unique users
+        user_list = df['user'].unique().tolist()
+        if 'group_notification' in user_list:
+            user_list.remove('group_notification')
+        user_list.sort()
+        user_list.insert(0, "Overall")
+    except Exception as e:
+        st.error(f"Error processing file: {str(e)}")
+        st.info("Please make sure you've uploaded a valid WhatsApp chat export file (.txt format)")
+        st.stop()
 
     selected_user = st.sidebar.selectbox("Show analysis wrt",user_list)
 
@@ -26,6 +96,9 @@ if uploaded_file is not None:
     enable_ml = st.sidebar.checkbox("Enable ML Analysis", value=True)
 
     if st.sidebar.button("Show Analysis"):
+
+        # Determine if dark mode is active
+        is_dark_mode = (theme_mode == "Dark")
 
         # Stats Area
         num_messages, words, num_media_messages, num_links = helper.fetch_stats(selected_user,df)
@@ -83,8 +156,10 @@ if uploaded_file is not None:
 
         st.title("Weekly Activity Map")
         user_heatmap = helper.activity_heatmap(selected_user,df)
-        fig,ax = plt.subplots()
-        ax = sns.heatmap(user_heatmap)
+        fig, ax = plt.subplots(figsize=(12, 6))
+        # Use a colormap that works well in both themes
+        cmap = 'YlOrRd' if not is_dark_mode else 'viridis'
+        ax = sns.heatmap(user_heatmap, cmap=cmap, annot=True, fmt='.0f', linewidths=0.5)
         st.pyplot(fig)
 
         # finding the busiest users in the group(Group level)
@@ -104,9 +179,10 @@ if uploaded_file is not None:
 
         # WordCloud
         st.title("Wordcloud")
-        df_wc = helper.create_wordcloud(selected_user,df)
-        fig,ax = plt.subplots()
+        df_wc = helper.create_wordcloud(selected_user, df, dark_mode=is_dark_mode)
+        fig, ax = plt.subplots()
         ax.imshow(df_wc)
+        ax.axis('off')  # Hide axes for cleaner look
         st.pyplot(fig)
 
         # most common words
@@ -181,9 +257,13 @@ if uploaded_file is not None:
             # 1. Sentiment Analysis
             st.header("📊 Sentiment Analysis")
             with st.spinner("Analyzing sentiment..."):
-                sentiment_results = ml_models.sentiment_analysis(df, selected_user)
+                try:
+                    sentiment_results = ml_models.sentiment_analysis(df, selected_user)
+                except Exception as e:
+                    st.error(f"Error in sentiment analysis: {str(e)}")
+                    sentiment_results = None
 
-                if sentiment_results and isinstance(sentiment_results, dict):
+                if sentiment_results and isinstance(sentiment_results, dict) and not sentiment_results.get('df', pd.DataFrame()).empty:
                     col1, col2, col3 = st.columns(3)
 
                     dist = sentiment_results['distribution']
@@ -250,7 +330,11 @@ if uploaded_file is not None:
 
             if st.button("Discover Topics"):
                 with st.spinner("Running topic modeling..."):
-                    topics_result = ml_models.topic_modeling(df, selected_user, n_topics, topic_method)
+                    try:
+                        topics_result = ml_models.topic_modeling(df, selected_user, n_topics, topic_method)
+                    except Exception as e:
+                        st.error(f"Error in topic modeling: {str(e)}")
+                        topics_result = None
 
                     if topics_result:
                         st.success(f"Discovered {n_topics} topics using {topics_result['method']}")
@@ -268,7 +352,11 @@ if uploaded_file is not None:
 
             if st.button("Cluster Messages"):
                 with st.spinner("Clustering messages..."):
-                    cluster_result = ml_models.message_clustering(df, selected_user, n_clusters)
+                    try:
+                        cluster_result = ml_models.message_clustering(df, selected_user, n_clusters)
+                    except Exception as e:
+                        st.error(f"Error in message clustering: {str(e)}")
+                        cluster_result = None
 
                     if cluster_result:
                         st.success(f"Messages grouped into {cluster_result['n_clusters']} clusters")
@@ -298,7 +386,11 @@ if uploaded_file is not None:
                 st.header("🎯 Activity Prediction Model")
                 if st.button("Train Prediction Model"):
                     with st.spinner("Training Random Forest model..."):
-                        prediction_result = ml_models.predict_user_activity(df)
+                        try:
+                            prediction_result = ml_models.predict_user_activity(df)
+                        except Exception as e:
+                            st.error(f"Error in activity prediction: {str(e)}")
+                            prediction_result = None
 
                         if prediction_result:
                             col1, col2 = st.columns(2)
@@ -324,7 +416,11 @@ if uploaded_file is not None:
             # 5. User Personality Insights
             if selected_user != 'Overall':
                 st.header("🧠 User Personality Insights")
-                insights = ml_models.get_user_personality_insights(df, selected_user)
+                try:
+                    insights = ml_models.get_user_personality_insights(df, selected_user)
+                except Exception as e:
+                    st.error(f"Error generating personality insights: {str(e)}")
+                    insights = None
 
                 if insights:
                     col1, col2 = st.columns(2)

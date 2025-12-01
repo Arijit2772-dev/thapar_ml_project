@@ -2,14 +2,29 @@ import re
 import pandas as pd
 
 def preprocess(data):
+    """Preprocess WhatsApp chat data with improved error handling"""
     pattern = r'\d{1,2}/\d{1,2}/\d{2,4},\s\d{1,2}:\d{2}\s-\s'
 
     messages = re.split(pattern, data)[1:]
     dates = re.findall(pattern, data)
 
+    # Validate that we have data
+    if not messages or not dates:
+        raise ValueError("No valid WhatsApp chat messages found. Please ensure the file is in the correct format.")
+
+    # Ensure messages and dates have the same length
+    if len(messages) != len(dates):
+        min_len = min(len(messages), len(dates))
+        messages = messages[:min_len]
+        dates = dates[:min_len]
+
     df = pd.DataFrame({'user_message': messages, 'date': dates})
-    # convert message_date type
-    df['date'] = pd.to_datetime(df['date'], format=r'%d/%m/%Y, %H:%M - ')
+    # convert message_date type with error handling
+    try:
+        df['date'] = pd.to_datetime(df['date'], format=r'%d/%m/%Y, %H:%M - ')
+    except Exception as e:
+        # Try alternate format if the first one fails
+        df['date'] = pd.to_datetime(df['date'], format=r'%m/%d/%Y, %H:%M - ', errors='coerce')
 
 
     users = []
