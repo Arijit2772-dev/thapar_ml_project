@@ -283,6 +283,10 @@ if uploaded_file is not None:
                         st.pyplot(fig)
                 else:
                     st.info("Not enough data for sentiment analysis")
+
+            # Separator
+            st.markdown("---")
+
             # 2. Trainable ML Models
             st.header("🎓 Trainable ML Models")
             st.markdown("*These are actual ML models trained on your chat data*")
@@ -291,7 +295,7 @@ if uploaded_file is not None:
             st.subheader("1️⃣ Emoji Usage Classifier (Binary Classification)")
             st.write("**Algorithm**: Logistic Regression | **Task**: Predict if message contains emoji")
 
-            if st.button("Train Emoji Classifier"):
+            if st.button("Train Emoji Classifier", key="emoji_clf"):
                 with st.spinner("Training Logistic Regression model..."):
                     try:
                         emoji_result = ml_models.train_emoji_classifier(df)
@@ -327,7 +331,7 @@ if uploaded_file is not None:
             st.subheader("2️⃣ Message Length Predictor (Regression)")
             st.write("**Algorithm**: Random Forest Regressor | **Task**: Predict message length")
 
-            if st.button("Train Length Predictor"):
+            if st.button("Train Length Predictor", key="length_reg"):
                 with st.spinner("Training Random Forest Regressor..."):
                     try:
                         length_result = ml_models.train_message_length_predictor(df)
@@ -372,7 +376,7 @@ if uploaded_file is not None:
                 st.subheader("3️⃣ User Style Classifier (Multi-class Classification)")
                 st.write("**Algorithm**: Naive Bayes with TF-IDF | **Task**: Identify user by writing style")
 
-                if st.button("Train User Classifier"):
+                if st.button("Train User Classifier", key="user_clf"):
                     with st.spinner("Training Naive Bayes classifier..."):
                         try:
                             user_result = ml_models.train_user_classifier(df)
