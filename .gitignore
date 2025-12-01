@@ -57,6 +57,13 @@ code/help.txt
 code/test.ipynb
 code/main.ipynb
 
+# Temporary files
+demo_ml.py
+convert_to_pdf.py
+PROJECT_REPORT.html
+PROJECT_REPORT_print.html
+docs/
+
 # Old wca folder (now moved to root)
 wca/
 *.zip
