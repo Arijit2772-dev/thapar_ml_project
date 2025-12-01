@@ -424,3 +424,241 @@ def get_user_personality_insights(df, selected_user):
     insights['engagement_percentage'] = (user_messages / total_messages * 100) if total_messages > 0 else 0
 
     return insights
+
+
+def train_emoji_classifier(df):
+    """
+    Train a binary classifier to predict if a message will contain emojis
+    Uses ML: Logistic Regression with TF-IDF features
+    """
+    try:
+        import emoji
+        from sklearn.linear_model import LogisticRegression
+        from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
+        # Filter data
+        df_clean = df[df['user'] != 'group_notification'].copy()
+        df_clean = df_clean[df_clean['message'] != '<Media omitted>\n']
+
+        if len(df_clean) < 20:
+            return None
+
+        # Create target variable: has emoji or not
+        df_clean['has_emoji'] = df_clean['message'].apply(
+            lambda x: 1 if any(c in emoji.EMOJI_DATA for c in x) else 0
+        )
+
+        # Need both classes
+        if df_clean['has_emoji'].nunique() < 2:
+            return None
+
+        # Feature engineering
+        df_clean['msg_length'] = df_clean['message'].str.len()
+        df_clean['word_count'] = df_clean['message'].str.split().str.len()
+        df_clean['has_question'] = df_clean['message'].str.contains(r'\?', regex=True).astype(int)
+        df_clean['has_exclamation'] = df_clean['message'].str.contains(r'!', regex=True).astype(int)
+        df_clean['hour_of_day'] = df_clean['hour']
+        df_clean['is_weekend'] = df_clean['date'].dt.dayofweek.isin([5, 6]).astype(int)
+
+        # Encode user as numeric
+        df_clean['user_encoded'] = pd.factorize(df_clean['user'])[0]
+
+        # Select features
+        feature_cols = ['msg_length', 'word_count', 'has_question', 'has_exclamation',
+                       'hour_of_day', 'is_weekend', 'user_encoded']
+        X = df_clean[feature_cols].fillna(0)
+        y = df_clean['has_emoji']
+
+        # Train-test split
+        split_idx = int(len(X) * 0.8)
+        X_train, X_test = X[:split_idx], X[split_idx:]
+        y_train, y_test = y[:split_idx], y[split_idx:]
+
+        # Train model
+        model = LogisticRegression(random_state=42, max_iter=1000)
+        model.fit(X_train, y_train)
+
+        # Predictions
+        y_pred_train = model.predict(X_train)
+        y_pred_test = model.predict(X_test)
+
+        # Metrics
+        train_acc = accuracy_score(y_train, y_pred_train)
+        test_acc = accuracy_score(y_test, y_pred_test)
+
+        # Feature importance (coefficients)
+        feature_importance = pd.DataFrame({
+            'feature': feature_cols,
+            'coefficient': model.coef_[0]
+        }).sort_values('coefficient', key=abs, ascending=False)
+
+        # Emoji usage stats
+        emoji_count = df_clean['has_emoji'].sum()
+        emoji_percentage = (emoji_count / len(df_clean)) * 100
+
+        return {
+            'model': model,
+            'train_accuracy': train_acc,
+            'test_accuracy': test_acc,
+            'feature_importance': feature_importance,
+            'emoji_count': emoji_count,
+            'emoji_percentage': emoji_percentage,
+            'total_messages': len(df_clean),
+            'confusion_matrix': confusion_matrix(y_test, y_pred_test)
+        }
+
+    except Exception as e:
+        print(f"Error in emoji classifier: {e}")
+        return None
+
+
+def train_message_length_predictor(df):
+    """
+    Train a regression model to predict message length based on user and time
+    Uses ML: Random Forest Regressor
+    """
+    try:
+        from sklearn.ensemble import RandomForestRegressor
+        from sklearn.metrics import mean_absolute_error, r2_score
+
+        # Filter data
+        df_clean = df[df['user'] != 'group_notification'].copy()
+        df_clean = df_clean[df_clean['message'] != '<Media omitted>\n']
+
+        if len(df_clean) < 20:
+            return None
+
+        # Target variable
+        df_clean['msg_length'] = df_clean['message'].str.len()
+
+        # Feature engineering
+        df_clean['hour_of_day'] = df_clean['hour']
+        df_clean['day_of_week'] = df_clean['date'].dt.dayofweek
+        df_clean['is_weekend'] = df_clean['day_of_week'].isin([5, 6]).astype(int)
+        df_clean['user_encoded'] = pd.factorize(df_clean['user'])[0]
+
+        # Previous message length (lag feature)
+        df_clean['prev_msg_length'] = df_clean['msg_length'].shift(1).fillna(df_clean['msg_length'].mean())
+
+        # Select features
+        feature_cols = ['hour_of_day', 'day_of_week', 'is_weekend', 'user_encoded', 'prev_msg_length']
+        X = df_clean[feature_cols].fillna(0)
+        y = df_clean['msg_length']
+
+        # Train-test split
+        split_idx = int(len(X) * 0.8)
+        X_train, X_test = X[:split_idx], X[split_idx:]
+        y_train, y_test = y[:split_idx], y[split_idx:]
+
+        # Train model
+        model = RandomForestRegressor(n_estimators=50, random_state=42, max_depth=5)
+        model.fit(X_train, y_train)
+
+        # Predictions
+        y_pred_train = model.predict(X_train)
+        y_pred_test = model.predict(X_test)
+
+        # Metrics
+        train_mae = mean_absolute_error(y_train, y_pred_train)
+        test_mae = mean_absolute_error(y_test, y_pred_test)
+        train_r2 = r2_score(y_train, y_pred_train)
+        test_r2 = r2_score(y_test, y_pred_test)
+
+        # Feature importance
+        feature_importance = pd.DataFrame({
+            'feature': feature_cols,
+            'importance': model.feature_importances_
+        }).sort_values('importance', ascending=False)
+
+        return {
+            'model': model,
+            'train_mae': train_mae,
+            'test_mae': test_mae,
+            'train_r2': train_r2,
+            'test_r2': test_r2,
+            'feature_importance': feature_importance,
+            'avg_message_length': y.mean(),
+            'predictions_test': y_pred_test[:10],
+            'actuals_test': y_test[:10].values
+        }
+
+    except Exception as e:
+        print(f"Error in message length predictor: {e}")
+        return None
+
+
+def train_user_classifier(df):
+    """
+    Train a multi-class classifier to identify user based on message style
+    Uses ML: Naive Bayes with TF-IDF features
+    """
+    try:
+        from sklearn.naive_bayes import MultinomialNB
+        from sklearn.metrics import accuracy_score, classification_report
+
+        # Filter data
+        df_clean = df[df['user'] != 'group_notification'].copy()
+        df_clean = df_clean[df_clean['message'] != '<Media omitted>\n']
+
+        # Need at least 2 users with 10+ messages each
+        user_counts = df_clean['user'].value_counts()
+        valid_users = user_counts[user_counts >= 10].index.tolist()
+
+        if len(valid_users) < 2:
+            return None
+
+        df_clean = df_clean[df_clean['user'].isin(valid_users)]
+
+        if len(df_clean) < 20:
+            return None
+
+        # Load stop words
+        try:
+            with open(STOP_WORDS_PATH, 'r') as f:
+                stop_words = f.read().split('\n')
+        except:
+            stop_words = []
+
+        # TF-IDF vectorization
+        vectorizer = TfidfVectorizer(max_features=100, stop_words=stop_words,
+                                     min_df=1, max_df=0.9, ngram_range=(1, 2))
+        X = vectorizer.fit_transform(df_clean['message'])
+        y = df_clean['user']
+
+        # Train-test split
+        split_idx = int(len(X.toarray()) * 0.8)
+        X_train, X_test = X[:split_idx], X[split_idx:]
+        y_train, y_test = y[:split_idx], y[split_idx:]
+
+        # Train model
+        model = MultinomialNB()
+        model.fit(X_train, y_train)
+
+        # Predictions
+        y_pred_train = model.predict(X_train)
+        y_pred_test = model.predict(X_test)
+
+        # Metrics
+        train_acc = accuracy_score(y_train, y_pred_train)
+        test_acc = accuracy_score(y_test, y_pred_test)
+
+        # Get top words for each user
+        feature_names = vectorizer.get_feature_names_out()
+        user_words = {}
+        for idx, user in enumerate(model.classes_):
+            top_indices = model.feature_log_prob_[idx].argsort()[-10:][::-1]
+            user_words[user] = [feature_names[i] for i in top_indices]
+
+        return {
+            'model': model,
+            'vectorizer': vectorizer,
+            'train_accuracy': train_acc,
+            'test_accuracy': test_acc,
+            'users': model.classes_.tolist(),
+            'user_top_words': user_words,
+            'num_users': len(model.classes_)
+        }
+
+    except Exception as e:
+        print(f"Error in user classifier: {e}")
+        return None
